@@ -1,0 +1,35 @@
+{
+  "group_name": "assets\\minecraft\\textures\\items\\bucket_water.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.6032731202717307,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.24126172208013613,
+        0.6140417457305503,
+        0.9296470588235297
+      ],
+      "variance": 0.6196071675341481
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.6666666666666666
+      ],
+      "lightness": 1.0,
+      "sats": [
+        1.0
+      ],
+      "vals": [
+        1.0
+      ],
+      "variance": 0.37379234930105454
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "group_name": "assets\\minecraft\\textures\\blocks\\glass_purple.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.5562770562770564
+      ],
+      "lightness": 0.5999999999999983,
+      "sats": [
+        0.5032679738562091
+      ],
+      "vals": [
+        0.6
+      ],
+      "variance": 1.8503717077085995e-16
+    }
+  ]
+}

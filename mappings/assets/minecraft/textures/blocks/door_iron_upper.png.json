@@ -1,0 +1,21 @@
+{
+  "group_name": "assets\\minecraft\\textures\\blocks\\door_iron_upper.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.7323152337858221,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.3751633986928104,
+        0.6832529733204757,
+        0.7605392156862746
+      ],
+      "variance": 0.3977346126787116
+    }
+  ]
+}

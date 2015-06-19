@@ -1,0 +1,21 @@
+{
+  "group_name": "assets\\minecraft\\textures\\items\\iron_leggings.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.5589285714285714,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.26884531590413946,
+        0.7137254901960786,
+        0.9294117647058826
+      ],
+      "variance": 0.6054246325282
+    }
+  ]
+}

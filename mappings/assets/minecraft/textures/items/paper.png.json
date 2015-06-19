@@ -1,0 +1,21 @@
+{
+  "group_name": "assets\\minecraft\\textures\\items\\map_filled.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.7860784313725491,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.31764705882352934,
+        0.8392156862745097,
+        0.9176470588235294
+      ],
+      "variance": 0.5131198326048453
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "group_name": "assets\\minecraft\\textures\\items\\dye_powder_pink.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.4218137254901961,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.2549019607843136,
+        0.43058823529411766,
+        0.563894523326572
+      ],
+      "variance": 0.49549821886971024
+    }
+  ]
+}

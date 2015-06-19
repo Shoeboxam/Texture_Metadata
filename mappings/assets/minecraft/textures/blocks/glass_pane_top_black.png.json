@@ -1,0 +1,21 @@
+{
+  "group_name": "assets\\minecraft\\textures\\blocks\\glass_pane_top_green.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.09460784313725489,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.09019607843137255,
+        0.09411764705882353,
+        0.09803921568627451
+      ],
+      "variance": 0.33091672063628197
+    }
+  ]
+}

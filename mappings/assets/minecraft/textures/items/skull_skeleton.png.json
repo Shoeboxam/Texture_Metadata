@@ -1,0 +1,21 @@
+{
+  "group_name": "assets\\minecraft\\textures\\items\\skull_zombie.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.4966836117162914,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.1751633986928106,
+        0.5868092691622103,
+        0.7684407096171801
+      ],
+      "variance": 0.5619567885537614
+    }
+  ]
+}

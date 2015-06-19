@@ -1,0 +1,21 @@
+{
+  "group_name": "assets\\minecraft\\textures\\items\\record_wait.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.26832834828846797,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.11813725490196095,
+        0.2665359477124183,
+        0.9999999999999999
+      ],
+      "variance": 0.7765277798399345
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "group_name": "assets\\minecraft\\textures\\items\\spawn_egg.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.735749299719888,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.4459558823529412,
+        0.7845667299177735,
+        0.8941176470588235
+      ],
+      "variance": 0.5237156309435038
+    }
+  ]
+}

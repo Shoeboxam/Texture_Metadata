@@ -1,0 +1,21 @@
+{
+  "group_name": "assets\\minecraft\\textures\\blocks\\leaves_big_oak.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.5294623655913979,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.33763936947327955,
+        0.571513133555309,
+        0.67758554402153
+      ],
+      "variance": 0.5323920470718266
+    }
+  ]
+}

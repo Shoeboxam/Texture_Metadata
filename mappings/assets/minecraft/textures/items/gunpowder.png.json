@@ -1,0 +1,21 @@
+{
+  "group_name": "assets\\minecraft\\textures\\items\\glowstone_dust.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.31145276292335117,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.1801217038539553,
+        0.2927653820148749,
+        0.4564705882352942
+      ],
+      "variance": 0.5224511642331331
+    }
+  ]
+}

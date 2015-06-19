@@ -1,0 +1,35 @@
+{
+  "group_name": "assets\\minecraft\\textures\\items\\door_iron.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.7131430790137837,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.40588235294117647,
+        0.584313725490196,
+        0.8039215686274508
+      ],
+      "variance": 0.522194777471156
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.6666666666666666
+      ],
+      "lightness": 0.803921568627451,
+      "sats": [
+        1.0
+      ],
+      "vals": [
+        0.803921568627451
+      ],
+      "variance": 0.4632287600972094
+    }
+  ]
+}

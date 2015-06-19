@@ -1,0 +1,35 @@
+{
+  "group_name": "assets\\minecraft\\textures\\items\\iron_helmet.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.5556149732620321,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.27358708189158026,
+        0.7137254901960784,
+        0.9294117647058822
+      ],
+      "variance": 0.5157841917701627
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.6666666666666666
+      ],
+      "lightness": 0.043137254901960784,
+      "sats": [
+        1.0
+      ],
+      "vals": [
+        0.043137254901960784
+      ],
+      "variance": 6.643385643585112
+    }
+  ]
+}

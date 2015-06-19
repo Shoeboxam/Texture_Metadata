@@ -1,0 +1,21 @@
+{
+  "group_name": "assets\\minecraft\\textures\\blocks\\cauldron_top.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.2725490196078431,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.24096787651230706,
+        0.2720588235294118,
+        0.3030012004801921
+      ],
+      "variance": 0.5014485173840555
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "group_name": "assets\\minecraft\\textures\\items\\iron_chestplate.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.5015135878912969,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.13137254901960815,
+        0.588235294117647,
+        0.792826398852224
+      ],
+      "variance": 0.6729372238829405
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.6666666666666666
+      ],
+      "lightness": 0.776470588235294,
+      "sats": [
+        1.0
+      ],
+      "vals": [
+        0.7764705882352941
+      ],
+      "variance": 0.4346425565740471
+    }
+  ]
+}

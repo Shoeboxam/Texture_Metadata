@@ -1,0 +1,35 @@
+{
+  "group_name": "assets\\minecraft\\textures\\items\\iron_boots.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.4071816678478621,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.13999088007295946,
+        0.5882352941176472,
+        0.8117647058823527
+      ],
+      "variance": 0.6199084258026244
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.6666666666666666
+      ],
+      "lightness": 0.0980392156862745,
+      "sats": [
+        1.0
+      ],
+      "vals": [
+        0.09803921568627451
+      ],
+      "variance": 2.574636536658804
+    }
+  ]
+}
