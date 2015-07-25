@@ -1,0 +1,38 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\parts\\ae\\certus_quartz_hammer_head.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.625
+      ],
+      "lightness": 0.23529411764705882,
+      "sats": [
+        1.0
+      ],
+      "vals": [
+        0.23529411764705882
+      ],
+      "variance": 0.6735314992240888
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.6133397007322509,
+        0.6243528474711271,
+        0.6270833333333333
+      ],
+      "lightness": 0.6229102167182663,
+      "sats": [
+        1.0,
+        0.9483695652173914
+      ],
+      "vals": [
+        0.3137254901960784,
+        0.5967914438502674,
+        0.8658823529411765
+      ],
+      "variance": 0.2544154768440892
+    }
+  ]
+}

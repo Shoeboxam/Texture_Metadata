@@ -1,0 +1,24 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\cleaver\\metallurgy3\\nether\\kalendrite_cleaver_handle.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.6133397007322509,
+        0.6254789272030651,
+        0.6270833333333333
+      ],
+      "lightness": 0.6014705882352942,
+      "sats": [
+        1.0,
+        0.9483695652173914
+      ],
+      "vals": [
+        0.31372549019607837,
+        0.6823529411764706,
+        0.8658823529411765
+      ],
+      "variance": 0.1087600606247475
+    }
+  ]
+}

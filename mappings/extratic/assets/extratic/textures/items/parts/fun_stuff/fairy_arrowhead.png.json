@@ -1,0 +1,24 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\parts\\bop\\mud_arrowhead.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.9144694943319323,
+        0.10017889087656529,
+        0.11157024793388431
+      ],
+      "lightness": 0.999713055954089,
+      "sats": [
+        0.730718954248366,
+        0.5701525054466231,
+        0.29700540009818366
+      ],
+      "vals": [
+        0.9985294117647059,
+        1.0
+      ],
+      "variance": 0.00042214862427061693
+    }
+  ]
+}

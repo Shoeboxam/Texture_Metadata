@@ -1,0 +1,52 @@
+{
+  "group_name": "ic2\\assets\\ic2\\textures\\items\\resources\\itemAdvIronBlockCuttingBlade.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.4710144927536232
+      ],
+      "lightness": 0.9215686274509802,
+      "sats": [
+        0.7829787234042552
+      ],
+      "vals": [
+        0.9215686274509803
+      ],
+      "variance": 0.4255167831003073
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.0,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.0
+      ],
+      "variance": Infinity
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.470679012345679,
+        0.4710144927536232
+      ],
+      "lightness": 0.7656423763535265,
+      "sats": [
+        0.7853658536585366,
+        0.7829787234042552,
+        0.782608695652174
+      ],
+      "vals": [
+        0.5411764705882354,
+        0.803921568627451,
+        0.9215686274509803
+      ],
+      "variance": 0.5121750439503354
+    }
+  ]
+}

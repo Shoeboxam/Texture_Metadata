@@ -1,0 +1,21 @@
+{
+  "group_name": "bibliocraft\\assets\\bibliocraft\\textures\\items\\tfc\\spectacleFrames.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.007145969498910676,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.0,
+        6.071532165918825e-18,
+        0.3215686274509804
+      ],
+      "variance": 68.03236330384821
+    }
+  ]
+}

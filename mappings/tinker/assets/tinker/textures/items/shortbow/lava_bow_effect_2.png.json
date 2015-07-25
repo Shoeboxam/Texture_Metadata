@@ -1,0 +1,64 @@
+{
+  "group_name": "tinker\\assets\\tinker\\textures\\items\\shortbow\\lava_bow_effect_2.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0,
+        0.10648148148148147
+      ],
+      "lightness": 0.8829131652661064,
+      "sats": [
+        1.0
+      ],
+      "vals": [
+        0.803921568627451,
+        0.9882352941176471
+      ],
+      "variance": 0.33980972070900284
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.803921568627451,
+      "sats": [
+        1.0
+      ],
+      "vals": [
+        0.803921568627451
+      ],
+      "variance": 0.3731986897821522
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.10648148148148147,
+        0.16666666666666666
+      ],
+      "lightness": 0.9882352941176471,
+      "sats": [
+        1.0
+      ],
+      "vals": [
+        0.9882352941176471
+      ],
+      "variance": 0.30359417224341745
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.9882352941176471,
+      "sats": [
+        1.0
+      ],
+      "vals": [
+        0.9882352941176471
+      ],
+      "variance": 0.30359417224341745
+    }
+  ]
+}

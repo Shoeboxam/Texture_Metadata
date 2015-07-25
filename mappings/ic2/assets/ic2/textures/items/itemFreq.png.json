@@ -1,0 +1,24 @@
+{
+  "group_name": "ic2\\assets\\ic2\\textures\\items\\itemRemote.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.6666666666666666,
+        0.0
+      ],
+      "lightness": 0.6109391124871002,
+      "sats": [
+        1.0,
+        1.8070651358260526e-16,
+        0.0
+      ],
+      "vals": [
+        0.44705882352941173,
+        0.6143790849673203,
+        1.0
+      ],
+      "variance": 0.7112827661343389
+    }
+  ]
+}

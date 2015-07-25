@@ -1,0 +1,35 @@
+{
+  "group_name": "ic2\\assets\\ic2\\textures\\items\\itemGoldCableI.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.07254901960784314,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.016106442577030818,
+        0.15337690631808282,
+        0.3568627450980392
+      ],
+      "variance": 6.231302382549024
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.07344632768361581
+      ],
+      "lightness": 0.6509803921568628,
+      "sats": [
+        0.7108433734939759
+      ],
+      "vals": [
+        0.6509803921568628
+      ],
+      "variance": 0.6944523739587768
+    }
+  ]
+}

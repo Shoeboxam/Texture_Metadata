@@ -1,0 +1,25 @@
+{
+  "group_name": "biomesoplenty\\assets\\biomesoplenty\\textures\\blocks\\leaves_apple2_fancy.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.9889220811550908,
+        0.1882929131999763,
+        0.1914208206171583
+      ],
+      "lightness": 0.5375147649421215,
+      "sats": [
+        0.8914780292942744,
+        0.7417002012072436,
+        0.7259525798367923
+      ],
+      "vals": [
+        0.3389599317988065,
+        0.5354723707664885,
+        0.6227691076430569
+      ],
+      "variance": 0.5390163278898166
+    }
+  ]
+}

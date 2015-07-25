@@ -1,0 +1,21 @@
+{
+  "group_name": "chisel\\assets\\chisel\\textures\\blocks\\glasspanedyed\\blue-quad-fancy-side.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.8602640189625793,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.677749360613811,
+        0.9753725490196078,
+        1.0
+      ],
+      "variance": 0.17724897176791324
+    }
+  ]
+}

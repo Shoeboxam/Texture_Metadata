@@ -1,0 +1,21 @@
+{
+  "group_name": "binniecore\\assets\\extratrees\\textures\\blocks\\patterns\\thinsaltire.0.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.8057040998217468,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.6634746922024624,
+        0.9011082693947143,
+        0.9839572192513368
+      ],
+      "variance": 0.48661157401792676
+    }
+  ]
+}

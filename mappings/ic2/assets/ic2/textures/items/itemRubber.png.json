@@ -1,0 +1,52 @@
+{
+  "group_name": "minecraft\\assets\\thaumcraft\\textures\\items\\golem_upgrade_order.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.0156384094593306,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.0,
+        0.0015686274509803984,
+        0.09803921568627451
+      ],
+      "variance": 28.766099502912517
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.05965537730243613,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.00815686274509804,
+        0.12941176470588234,
+        0.37254901960784315
+      ],
+      "variance": 7.540913542357593
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.06274509803921569,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.027450980392156862,
+        0.09803921568627451
+      ],
+      "variance": 7.169580678529378
+    }
+  ]
+}

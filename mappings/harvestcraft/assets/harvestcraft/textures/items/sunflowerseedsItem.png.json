@@ -1,0 +1,25 @@
+{
+  "group_name": "harvestcraft\\assets\\harvestcraft\\textures\\items\\saltedsunflowerseedsItem.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.08052434456928842,
+        0.0813684697179843,
+        0.08197358197358195
+      ],
+      "lightness": 0.3499607843137255,
+      "sats": [
+        0.5571870170015456,
+        0.5535483870967741,
+        0.5493827160493827
+      ],
+      "vals": [
+        0.2985005767012687,
+        0.4341736694677871,
+        0.6352941176470588
+      ],
+      "variance": 0.7146299662484417
+    }
+  ]
+}

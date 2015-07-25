@@ -1,0 +1,50 @@
+{
+  "group_name": "binniecore\\assets\\extratrees\\textures\\blocks\\patterns\\splitbarred2.1.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.848632446609217,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.6534690799396683,
+        0.9067627050820328,
+        0.9789915966386553
+      ],
+      "variance": 0.5015455932305556
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.607843137254902,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.5882352941176471,
+        0.6274509803921569
+      ],
+      "variance": 0.7002264857204901
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.9607843137254902,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.9607843137254902
+      ],
+      "variance": 0.4430004297415346
+    }
+  ]
+}

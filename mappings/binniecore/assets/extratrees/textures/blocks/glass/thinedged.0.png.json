@@ -1,0 +1,47 @@
+{
+  "group_name": "binniecore\\assets\\botany\\textures\\blocks\\ceramic\\thinedged.0.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 1.0,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        1.0
+      ],
+      "variance": 0.33071891388307384
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 1.0000000000000002,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        1.0
+      ],
+      "variance": 0.3307189138830738
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 1.0000000000000004,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        1.0
+      ],
+      "variance": 0.3307189138830737
+    }
+  ]
+}

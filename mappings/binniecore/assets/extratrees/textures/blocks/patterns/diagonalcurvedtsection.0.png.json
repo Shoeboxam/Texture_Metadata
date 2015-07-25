@@ -1,0 +1,53 @@
+{
+  "group_name": "binniecore\\assets\\extratrees\\textures\\blocks\\patterns\\diagonalcurvedtsection.0.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.9380392156862746,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.7581699346405228,
+        0.9019607843137254,
+        0.9845201238390093
+      ],
+      "variance": 0.4796014926370093
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.8256302521008403,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.6631016042780749,
+        0.9066293183940243,
+        0.9698340874811463
+      ],
+      "variance": 0.5448988900908623
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.6405228758169934,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.6078431372549019,
+        0.6470588235294118,
+        0.6666666666666666
+      ],
+      "variance": 0.7023714920741182
+    }
+  ]
+}

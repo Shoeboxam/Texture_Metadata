@@ -1,0 +1,25 @@
+{
+  "group_name": "minefactoryreloaded\\assets\\minefactoryreloaded\\textures\\items\\item.mfr.sugarcharcoal.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.4754016064257031,
+        0.4850827230810957,
+        0.4852832965415747
+      ],
+      "lightness": 0.13204705882352943,
+      "sats": [
+        0.6159554730983293,
+        0.5866348448687352,
+        0.5752380952380953
+      ],
+      "vals": [
+        0.04313725490196073,
+        0.15214233841684824,
+        0.2807486631016043
+      ],
+      "variance": 0.6909516327357559
+    }
+  ]
+}

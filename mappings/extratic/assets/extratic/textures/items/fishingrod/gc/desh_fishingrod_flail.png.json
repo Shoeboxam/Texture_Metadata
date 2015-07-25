@@ -1,0 +1,35 @@
+{
+  "group_name": "tinker\\assets\\tinker\\textures\\items\\fishingrod\\pigiron_fishingrod_flail.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.09542483660130718,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.047058823529411764,
+        0.19215686274509805
+      ],
+      "variance": 0.33697694713840554
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.17516339869281045,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.14901960784313725,
+        0.22745098039215686
+      ],
+      "variance": 0.1835769935903254
+    }
+  ]
+}

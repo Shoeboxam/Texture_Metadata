@@ -1,0 +1,37 @@
+{
+  "group_name": "openblocks\\assets\\openblocks\\textures\\items\\slimeoff.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.0,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.0
+      ],
+      "variance": Infinity
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.5
+      ],
+      "lightness": 0.5839215686274509,
+      "sats": [
+        0.02847457627118675,
+        0.026542688081150245,
+        0.02266839378238335
+      ],
+      "vals": [
+        0.3155080213903744,
+        0.5342560553633218,
+        0.7647058823529413
+      ],
+      "variance": 0.45884578660649655
+    }
+  ]
+}

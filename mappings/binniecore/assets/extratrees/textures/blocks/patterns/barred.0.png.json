@@ -1,0 +1,52 @@
+{
+  "group_name": "binniecore\\assets\\extratrees\\textures\\blocks\\patterns\\barred.0.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.9133844842284738,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.6967320261437909,
+        0.9058823529411765,
+        0.9786096256684492
+      ],
+      "variance": 0.4988368394824755
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.7960784313725491,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.6705882352941177,
+        0.8823529411764706,
+        0.9313725490196079
+      ],
+      "variance": 0.5723428890785223
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.6993464052287581,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.6862745098039216,
+        0.7058823529411765
+      ],
+      "variance": 0.6515080737361123
+    }
+  ]
+}

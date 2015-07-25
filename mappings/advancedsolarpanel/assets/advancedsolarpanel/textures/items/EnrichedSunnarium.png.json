@@ -1,0 +1,25 @@
+{
+  "group_name": "advancedsolarpanel\\assets\\advancedsolarpanel\\textures\\items\\EnrichedSunnarium.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.1874665058949625,
+        0.19102132435465768,
+        0.19120707596253905
+      ],
+      "lightness": 0.8802907369844489,
+      "sats": [
+        0.9813950430609426,
+        0.7274791824375473,
+        0.5117160578911095
+      ],
+      "vals": [
+        0.852156862745098,
+        0.9141868512110727,
+        0.9483660130718954
+      ],
+      "variance": 0.0769733180189764
+    }
+  ]
+}

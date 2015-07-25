@@ -1,0 +1,25 @@
+{
+  "group_name": "thermalexpansion\\assets\\thermalexpansion\\textures\\blocks\\cell\\Cell_Config_Blue_CB.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.07547169811320754,
+        0.07627865961199294,
+        0.07650273224043717
+      ],
+      "lightness": 0.7225490196078431,
+      "sats": [
+        0.9473684210526316,
+        0.9464285714285714,
+        0.5398230088495575
+      ],
+      "vals": [
+        0.4392156862745098,
+        0.7823529411764706,
+        0.8862745098039215
+      ],
+      "variance": 0.11004649707575141
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "group_name": "bibliocraft\\assets\\bibliocraft\\textures\\items\\tfc\\lanternRedSteel.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.3333333333333277,
+        0.5,
+        0.6666666666666691
+      ],
+      "lightness": 0.07310206133735545,
+      "sats": [
+        0.018425460636515848,
+        0.015936254980079615,
+        0.0033500837520938262
+      ],
+      "vals": [
+        0.03175205566097406,
+        0.08361344537815125,
+        0.12321981424148606
+      ],
+      "variance": 5.84359263744063
+    }
+  ]
+}

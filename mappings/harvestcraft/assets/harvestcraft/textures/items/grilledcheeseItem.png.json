@@ -1,0 +1,25 @@
+{
+  "group_name": "harvestcraft\\assets\\harvestcraft\\textures\\items\\chickensandwichItem.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.08114364364364364,
+        0.1005528163753175,
+        0.11782080735149324
+      ],
+      "lightness": 0.6766555678875322,
+      "sats": [
+        0.8948605979173664,
+        0.7925399644760213,
+        0.6293504079314262
+      ],
+      "vals": [
+        0.41694677871148467,
+        0.630812324929972,
+        0.8830825353397173
+      ],
+      "variance": 0.5277037968748228
+    }
+  ]
+}

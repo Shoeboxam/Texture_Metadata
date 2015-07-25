@@ -1,0 +1,22 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\trident\\generic\\sapphire_trident_handle.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.6666666666666666
+      ],
+      "lightness": 0.28476621417797887,
+      "sats": [
+        1.0,
+        0.9741379310344828
+      ],
+      "vals": [
+        0.16470588235294117,
+        0.2797385620915033,
+        0.45490196078431366
+      ],
+      "variance": 0.5547715886306178
+    }
+  ]
+}

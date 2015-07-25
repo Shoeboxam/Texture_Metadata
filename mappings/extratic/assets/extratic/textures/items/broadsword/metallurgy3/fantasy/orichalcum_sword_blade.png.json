@@ -1,0 +1,25 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\broadsword\\metallurgy3\\nether\\inolashite_sword_blade.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.2549019607843143,
+        0.2626262626262627,
+        0.26470588235294096
+      ],
+      "lightness": 0.5469281045751634,
+      "sats": [
+        0.5483870967741947,
+        0.32999999999999996,
+        0.07053941908713668
+      ],
+      "vals": [
+        0.1215686274509804,
+        0.7843137254901961,
+        0.9450980392156862
+      ],
+      "variance": 0.43177051438943415
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "group_name": "binniecore\\assets\\extratrees\\textures\\items\\grainWheat.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.031505986137366104,
+        0.06504629629629628,
+        0.10189228529839885
+      ],
+      "lightness": 0.36482843137254906,
+      "sats": [
+        1.0,
+        0.9561586638830898
+      ],
+      "vals": [
+        0.31915535444947213,
+        0.3764705882352941,
+        0.4696078431372549
+      ],
+      "variance": 0.5123700560386605
+    }
+  ]
+}

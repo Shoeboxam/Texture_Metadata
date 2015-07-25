@@ -1,0 +1,40 @@
+{
+  "group_name": "railcraft\\assets\\railcraft\\textures\\items\\tool.crowbar.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0,
+        0.5
+      ],
+      "lightness": 0.09830966869506423,
+      "sats": [
+        1.0,
+        2.8197895545758453e-16
+      ],
+      "vals": [
+        2.7755575615628914e-17,
+        0.19686274509803925,
+        0.4411764705882353
+      ],
+      "variance": 1.4798578248379513
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.4627450980392156,
+      "sats": [
+        1.0,
+        0.9215686274509804
+      ],
+      "vals": [
+        0.3686274509803922,
+        0.5137254901960784,
+        0.6
+      ],
+      "variance": 0.3143941083159529
+    }
+  ]
+}

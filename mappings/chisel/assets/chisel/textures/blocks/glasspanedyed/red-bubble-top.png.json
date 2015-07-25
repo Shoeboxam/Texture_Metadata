@@ -1,0 +1,23 @@
+{
+  "group_name": "chisel\\assets\\chisel\\textures\\blocks\\glasspanedyed\\lime-quad-fancy-top.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.4888256854180139,
+      "sats": [
+        0.9854651162790699,
+        0.7396449704142012,
+        0.5985299264963249
+      ],
+      "vals": [
+        0.25294117647058834,
+        0.6627450980392157,
+        0.7469281045751635
+      ],
+      "variance": 0.3835476900443718
+    }
+  ]
+}

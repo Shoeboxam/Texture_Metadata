@@ -1,0 +1,35 @@
+{
+  "group_name": "railcraft\\assets\\railcraft\\textures\\items\\dust.saltpeter.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.5270405836753306,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.2818627450980394,
+        0.5803921568627451,
+        0.730837789661319
+      ],
+      "variance": 0.48492836038503084
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.27450980392156865,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.27450980392156865
+      ],
+      "variance": 0.9310302307857452
+    }
+  ]
+}

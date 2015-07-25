@@ -1,0 +1,21 @@
+{
+  "group_name": "chisel\\assets\\chisel\\textures\\blocks\\glassdyed\\blue-bubble.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.060491977561950946,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.00012787723785175065,
+        0.00871459694989108,
+        0.31938997821350773
+      ],
+      "variance": 1.8847738711632447
+    }
+  ]
+}

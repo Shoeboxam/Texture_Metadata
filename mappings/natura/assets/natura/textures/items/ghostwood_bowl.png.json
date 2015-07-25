@@ -1,0 +1,21 @@
+{
+  "group_name": "natura\\assets\\natura\\textures\\items\\darkwood_bowl.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.42130365659777425,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.17211328976034865,
+        0.5673202614379084,
+        0.8117647058823529
+      ],
+      "variance": 0.7662123744646272
+    }
+  ]
+}

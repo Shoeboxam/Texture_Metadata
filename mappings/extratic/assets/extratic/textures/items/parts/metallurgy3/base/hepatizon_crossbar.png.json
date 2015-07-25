@@ -1,0 +1,23 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\parts\\bop\\mud_crossbar.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.8333333333333334
+      ],
+      "lightness": 0.2770588235294118,
+      "sats": [
+        0.22000000000000017,
+        0.1964601769911504,
+        0.1756756756756757
+      ],
+      "vals": [
+        0.19607843137254904,
+        0.44313725490196076,
+        0.5803921568627451
+      ],
+      "variance": 0.96248675620463
+    }
+  ]
+}

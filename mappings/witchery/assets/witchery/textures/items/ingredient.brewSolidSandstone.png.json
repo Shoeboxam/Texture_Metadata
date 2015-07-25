@@ -1,0 +1,25 @@
+{
+  "group_name": "witchery\\assets\\witchery\\textures\\items\\ingredient.brewSolidDirt.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.10795454545454546,
+        0.11351052048726468,
+        0.13910761154855647
+      ],
+      "lightness": 0.5553921568627451,
+      "sats": [
+        1.0,
+        0.5521962350256703,
+        0.4934426229508197
+      ],
+      "vals": [
+        0.4980392156862745,
+        0.6249554367201426,
+        0.7973856209150327
+      ],
+      "variance": 0.29745554278706693
+    }
+  ]
+}

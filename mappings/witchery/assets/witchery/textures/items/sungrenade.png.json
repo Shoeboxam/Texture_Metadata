@@ -1,0 +1,25 @@
+{
+  "group_name": "buildcraft\\assets\\buildcraft\\textures\\items\\triggers\\extraction_preset_green.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.1638888888888889,
+        0.17010080047435516,
+        0.17060397553516818
+      ],
+      "lightness": 0.9981372549019607,
+      "sats": [
+        0.735258855585831,
+        0.4766590138843337,
+        0.23529411764705888
+      ],
+      "vals": [
+        0.99640522875817,
+        0.9994553376906318,
+        1.0
+      ],
+      "variance": 0.0013968495546830757
+    }
+  ]
+}

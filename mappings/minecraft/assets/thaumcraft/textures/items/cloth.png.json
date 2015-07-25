@@ -1,0 +1,39 @@
+{
+  "group_name": "minecraft\\assets\\thaumcraft\\textures\\items\\cloth.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.0,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.0
+      ],
+      "variance": Infinity
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.5700411522633745,
+        0.6225136196629926,
+        0.6312958435207823
+      ],
+      "lightness": 0.5634077079107505,
+      "sats": [
+        0.7521147480691429,
+        0.6256837098692032,
+        0.41739668143873043
+      ],
+      "vals": [
+        0.23694989106753805,
+        0.6107480029048656,
+        0.8271952259164537
+      ],
+      "variance": 0.5461873927120265
+    }
+  ]
+}

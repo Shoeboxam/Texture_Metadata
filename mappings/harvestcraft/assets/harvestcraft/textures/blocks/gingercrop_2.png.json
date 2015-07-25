@@ -1,0 +1,23 @@
+{
+  "group_name": "harvestcraft\\assets\\harvestcraft\\textures\\blocks\\gingercrop_2.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.2554347826086956,
+        0.28235294117647053,
+        0.28235294117647064
+      ],
+      "lightness": 0.40625,
+      "sats": [
+        1.0,
+        0.7666666666666668
+      ],
+      "vals": [
+        0.3333333333333333,
+        0.47058823529411764
+      ],
+      "variance": 0.46456100115435245
+    }
+  ]
+}

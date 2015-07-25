@@ -1,0 +1,21 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\parts\\bop\\mud_frypan_head.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.37134986225895317,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.07722473604826585,
+        0.4549019607843137,
+        0.681792717086835
+      ],
+      "variance": 0.7166323537077282
+    }
+  ]
+}

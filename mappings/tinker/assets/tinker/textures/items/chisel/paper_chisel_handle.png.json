@@ -1,0 +1,37 @@
+{
+  "group_name": "tinker\\assets\\tinker\\textures\\items\\chisel\\paper_chisel_handle.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.6666666666666666
+      ],
+      "lightness": 0.7616892911010559,
+      "sats": [
+        0.12500000000000003,
+        0.08866995073891623,
+        0.048458149779735636
+      ],
+      "vals": [
+        0.6901960784313725,
+        0.796078431372549,
+        0.8901960784313725
+      ],
+      "variance": 0.397674425129838
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 1.0,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        1.0
+      ],
+      "variance": 0.30290435096616625
+    }
+  ]
+}

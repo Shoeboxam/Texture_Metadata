@@ -1,0 +1,55 @@
+{
+  "group_name": "logisticspipes\\assets\\logisticspipes\\textures\\blocks\\pipes\\overlay_gen\\crafting\\powered-pipe.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.5089605734767025,
+        0.0
+      ],
+      "lightness": 0.06764705882352941,
+      "sats": [
+        1.0,
+        0.8985507246376812,
+        0.0
+      ],
+      "vals": [
+        0.0,
+        1.734723475976807e-18,
+        0.8117647058823529
+      ],
+      "variance": 3.9953858961753967
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.15925925925925924
+      ],
+      "lightness": 0.8470588235294119,
+      "sats": [
+        0.625
+      ],
+      "vals": [
+        0.8470588235294118
+      ],
+      "variance": 0.31907595698622954
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0,
+        0.34117647058823525
+      ],
+      "lightness": 0.25,
+      "sats": [
+        1.0,
+        0.0
+      ],
+      "vals": [
+        0.0,
+        1.0
+      ],
+      "variance": 1.0811044189651073
+    }
+  ]
+}

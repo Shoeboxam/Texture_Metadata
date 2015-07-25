@@ -1,0 +1,53 @@
+{
+  "group_name": "forestry\\assets\\forestry\\textures\\items\\carton.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.987385163855752,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.8274509803921568,
+        0.9416470588235294,
+        1.0
+      ],
+      "variance": 0.356816575278924
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.7373237014103886,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.6913021618903972,
+        0.8274509803921568,
+        1.0
+      ],
+      "variance": 0.4778300113970332
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.7877124183006535,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.6882352941176471,
+        0.8274509803921568,
+        1.0
+      ],
+      "variance": 0.44726398170576664
+    }
+  ]
+}

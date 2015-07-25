@@ -1,0 +1,25 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\hammer\\metallurgy3\\nether\\kalendrite_hammer_handle_broken.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.11995066296638918,
+        0.12028985507246377,
+        0.1269841269841271
+      ],
+      "lightness": 0.8219607843137254,
+      "sats": [
+        0.6216216216216216,
+        0.29543591145121617,
+        0.08713692946058084
+      ],
+      "vals": [
+        0.7254901960784313,
+        0.8440599769319492,
+        0.9450980392156862
+      ],
+      "variance": 0.07599133164712699
+    }
+  ]
+}

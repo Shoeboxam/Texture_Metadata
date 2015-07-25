@@ -1,0 +1,24 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\battlesign\\natura\\netherquartz_battlesign_handle.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.11051502145922747,
+        0.11085858585858584,
+        0.1111111111111111
+      ],
+      "lightness": 0.4674509803921568,
+      "sats": [
+        1.0,
+        0.9769392033542976
+      ],
+      "vals": [
+        0.2588235294117647,
+        0.6823529411764706,
+        0.9352941176470588
+      ],
+      "variance": 0.22814568346329725
+    }
+  ]
+}

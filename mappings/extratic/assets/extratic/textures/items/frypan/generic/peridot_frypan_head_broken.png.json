@@ -1,0 +1,25 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\frypan\\metallurgy3\\precious\\brass_frypan_head_broken.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.2706855791962175,
+        0.27194262095793825,
+        0.27278911564625846
+      ],
+      "lightness": 0.3874183006535948,
+      "sats": [
+        0.7394822006472492,
+        0.7368421052631579,
+        0.6778846153846154
+      ],
+      "vals": [
+        0.2383799421407907,
+        0.5215686274509803,
+        0.8156862745098039
+      ],
+      "variance": 0.8398331435589955
+    }
+  ]
+}

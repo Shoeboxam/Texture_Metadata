@@ -1,0 +1,33 @@
+{
+  "group_name": "binniecore\\assets\\extratrees\\textures\\blocks\\glass\\splitcrossed.0.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 1.0,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        1.0
+      ],
+      "variance": 0.48789046862487484
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 1.0000000000000004,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        1.0
+      ],
+      "variance": 0.4878904686248746
+    }
+  ]
+}

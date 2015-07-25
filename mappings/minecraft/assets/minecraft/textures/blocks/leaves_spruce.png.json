@@ -1,0 +1,21 @@
+{
+  "group_name": "minecraft\\assets\\minecraft\\textures\\blocks\\leaves_spruce.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.4555161823765651,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.19215686274509808,
+        0.29796659404502546,
+        0.5839498686072366
+      ],
+      "variance": 0.5517210388441466
+    }
+  ]
+}

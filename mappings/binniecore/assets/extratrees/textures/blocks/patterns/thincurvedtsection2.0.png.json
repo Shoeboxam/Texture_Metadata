@@ -1,0 +1,37 @@
+{
+  "group_name": "binniecore\\assets\\extratrees\\textures\\blocks\\patterns\\thincurvedtsection2.0.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.8818369453044375,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.6840958605664488,
+        0.9025932953826692,
+        0.9898329702251271
+      ],
+      "variance": 0.46699501447356107
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.6764705882352942,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.6225490196078431,
+        0.6797385620915033,
+        0.8823529411764706
+      ],
+      "variance": 0.6087677190963506
+    }
+  ]
+}

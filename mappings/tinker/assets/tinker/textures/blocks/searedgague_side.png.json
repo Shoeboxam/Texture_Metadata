@@ -1,0 +1,21 @@
+{
+  "group_name": "tinker\\assets\\tinker\\textures\\blocks\\nether_searedgague_side.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.23748832866479924,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.1575447570332481,
+        0.20723981900452487,
+        0.3124929971988796
+      ],
+      "variance": 0.49857451760585886
+    }
+  ]
+}

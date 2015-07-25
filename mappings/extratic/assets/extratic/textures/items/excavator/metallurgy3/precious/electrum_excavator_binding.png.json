@@ -1,0 +1,25 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\excavator\\erebus\\jade_excavator_binding.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.11949685534591196,
+        0.12015503875968987,
+        0.12096774193548387
+      ],
+      "lightness": 0.6745098039215687,
+      "sats": [
+        0.6200000000000001,
+        0.3412698412698412,
+        0.23766816143497763
+      ],
+      "vals": [
+        0.39215686274509803,
+        0.823529411764706,
+        0.8745098039215686
+      ],
+      "variance": 0.14239133165843684
+    }
+  ]
+}

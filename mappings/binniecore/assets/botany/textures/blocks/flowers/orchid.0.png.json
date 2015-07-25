@@ -1,0 +1,49 @@
+{
+  "group_name": "agricraft\\assets\\agricraft\\textures\\blocks\\cropOrchid2.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.9204152249134949,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.8627450980392157,
+        0.9215686274509803,
+        1.0
+      ],
+      "variance": 0.3254453119174943
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 1.0,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        1.0
+      ],
+      "variance": 0.299544819965583
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.8627450980392157,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.8627450980392157
+      ],
+      "variance": 0.3471996776873803
+    }
+  ]
+}

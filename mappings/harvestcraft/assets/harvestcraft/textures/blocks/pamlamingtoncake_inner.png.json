@@ -1,0 +1,24 @@
+{
+  "group_name": "harvestcraft\\assets\\harvestcraft\\textures\\blocks\\pamlamingtoncake_side.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.09507829977628635,
+        0.1180937418172296,
+        0.12214342001576045
+      ],
+      "lightness": 0.10507703081232493,
+      "sats": [
+        1.0,
+        0.9738562091503267
+      ],
+      "vals": [
+        0.06462948815889993,
+        0.1721433400946586,
+        0.3
+      ],
+      "variance": 4.247366013813004
+    }
+  ]
+}

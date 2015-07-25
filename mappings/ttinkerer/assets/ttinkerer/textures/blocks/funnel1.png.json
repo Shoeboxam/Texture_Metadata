@@ -1,0 +1,21 @@
+{
+  "group_name": "ttinkerer\\assets\\ttinkerer\\textures\\blocks\\funnel1.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.16200980392156866,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.1411764705882353,
+        0.15994397759103643,
+        0.17483660130718956
+      ],
+      "variance": 1.710863022083341
+    }
+  ]
+}

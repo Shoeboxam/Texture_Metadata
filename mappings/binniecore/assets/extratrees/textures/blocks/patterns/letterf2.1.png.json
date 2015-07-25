@@ -1,0 +1,21 @@
+{
+  "group_name": "binniecore\\assets\\extratrees\\textures\\blocks\\patterns\\letterf2.1.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.8723529411764707,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.6869747899159666,
+        0.9004524886877828,
+        0.9806403574087864
+      ],
+      "variance": 0.43221370310034357
+    }
+  ]
+}

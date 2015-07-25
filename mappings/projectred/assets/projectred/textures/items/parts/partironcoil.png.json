@@ -1,0 +1,37 @@
+{
+  "group_name": "projectred\\assets\\projectred\\textures\\items\\parts\\partcoppercoil.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.11614763552479816,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.08627450980392155,
+        0.15729847494553378,
+        0.21176470588235297
+      ],
+      "variance": 2.9800876422384657
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.6414860681114551,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.30980392156862746,
+        0.6219607843137255,
+        0.8366013071895425
+      ],
+      "variance": 0.5395754491156461
+    }
+  ]
+}

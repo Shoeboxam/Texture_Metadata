@@ -1,0 +1,33 @@
+{
+  "group_name": "binniecore\\assets\\genetics\\textures\\items\\fieldGlass.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.5019607843137255,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.5019607843137255
+      ],
+      "variance": 0.35654631842714346
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.4390243902439024
+      ],
+      "lightness": 1.0,
+      "sats": [
+        0.16078431372549018
+      ],
+      "vals": [
+        1.0
+      ],
+      "variance": 0.17897226964186025
+    }
+  ]
+}

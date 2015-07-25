@@ -1,0 +1,37 @@
+{
+  "group_name": "production\\assets\\production\\textures\\items\\storage.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.5042416966786714,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.4088235294117647,
+        0.5310457516339869,
+        0.655656108597285
+      ],
+      "variance": 0.47276822996926854
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.4808927826449729,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.3384615384615385,
+        0.45541795665634677,
+        0.6366013071895424
+      ],
+      "variance": 0.49572267045536267
+    }
+  ]
+}

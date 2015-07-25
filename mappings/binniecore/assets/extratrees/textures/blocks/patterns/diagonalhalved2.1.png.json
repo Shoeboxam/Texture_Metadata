@@ -1,0 +1,67 @@
+{
+  "group_name": "binniecore\\assets\\botany\\textures\\blocks\\ceramic\\diagonalhalved2.1.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.8911426639621365,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.6791443850267379,
+        0.9043137254901961,
+        0.982174688057041
+      ],
+      "variance": 0.49888355292683256
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.8322440087145968,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.6809269162210339,
+        0.9041394335511982,
+        0.9775910364145659
+      ],
+      "variance": 0.5341899896026439
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.8904267589388697,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.673202614379085,
+        0.8991596638655461,
+        0.9747899159663865
+      ],
+      "variance": 0.49928465637299485
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.7058823529411765,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.7058823529411765
+      ],
+      "variance": 0.6298165926796602
+    }
+  ]
+}

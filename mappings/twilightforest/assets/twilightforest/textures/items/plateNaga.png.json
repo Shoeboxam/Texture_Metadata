@@ -1,0 +1,39 @@
+{
+  "group_name": "twilightforest\\assets\\twilightforest\\textures\\items\\plateNaga.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.0,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.0
+      ],
+      "variance": Infinity
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.21505264616237185,
+        0.24766141911932463,
+        0.2657891698418197
+      ],
+      "lightness": 0.4083921568627451,
+      "sats": [
+        0.8682785997834718,
+        0.7505136986301371,
+        0.6810568530313754
+      ],
+      "vals": [
+        0.24092071611253202,
+        0.45803921568627454,
+        0.7010752688172044
+      ],
+      "variance": 0.6046645168203747
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\lumberaxe\\oodmod\\kroostyl_lumberaxe_head.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.15151515151515219,
+        0.15641609719058466,
+        0.15807560137457047
+      ],
+      "lightness": 0.6413016270337923,
+      "sats": [
+        0.12222222222222198,
+        0.10836830412243875,
+        0.10572207084468661
+      ],
+      "vals": [
+        0.35294117647058815,
+        0.7196078431372549,
+        0.9344867358708189
+      ],
+      "variance": 0.597274504796119
+    }
+  ]
+}

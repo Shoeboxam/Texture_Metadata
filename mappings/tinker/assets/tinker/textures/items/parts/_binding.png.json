@@ -1,0 +1,21 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\parts\\bop\\mud_binding.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.6672549019607843,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.5607843137254903,
+        0.8588235294117647,
+        0.9563025210084033
+      ],
+      "variance": 0.3935184115687695
+    }
+  ]
+}

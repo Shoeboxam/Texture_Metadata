@@ -1,0 +1,37 @@
+{
+  "group_name": "biomesoplenty\\assets\\biomesoplenty\\textures\\items\\record_wanderer.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.20490196078431372,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.08897903989181881,
+        0.19551820728291316,
+        0.2887700534759358
+      ],
+      "variance": 2.065960757263177
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.38588235294117645,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.03999999999999998,
+        0.4137254901960784,
+        0.9437908496732026
+      ],
+      "variance": 1.0970167638922868
+    }
+  ]
+}

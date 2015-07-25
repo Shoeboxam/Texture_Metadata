@@ -1,0 +1,37 @@
+{
+  "group_name": "minecraft\\assets\\minecraft\\textures\\items\\apple.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.19882352941176473,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.17058823529411765,
+        0.19607843137254902,
+        0.28627450980392155
+      ],
+      "variance": 1.794938532849873
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.6238993710691825,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.168627450980392,
+        0.6392156862745098,
+        0.8799019607843139
+      ],
+      "variance": 0.5720089340157606
+    }
+  ]
+}

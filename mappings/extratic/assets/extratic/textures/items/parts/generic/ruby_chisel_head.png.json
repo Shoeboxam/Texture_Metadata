@@ -1,0 +1,23 @@
+{
+  "group_name": "extratic\\assets\\tinker\\textures\\items\\parts\\signalum_chisel_head.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.37673202614379087,
+      "sats": [
+        0.6,
+        0.5952380952380953,
+        0.35922330097087374
+      ],
+      "vals": [
+        0.1647058823529411,
+        0.7058823529411765,
+        0.807843137254902
+      ],
+      "variance": 0.5899189324027246
+    }
+  ]
+}

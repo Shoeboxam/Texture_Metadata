@@ -1,0 +1,41 @@
+{
+  "group_name": "logisticspipes\\assets\\logisticspipes\\textures\\blocks\\pipes\\overlay_gen\\request\\powered-pipe.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.6666666666666666,
+        0.0
+      ],
+      "lightness": 0.2645751633986928,
+      "sats": [
+        0.6666666666666666,
+        0.6561264822134388,
+        0.0
+      ],
+      "vals": [
+        0.0,
+        1.6653345369377348e-16,
+        0.9921568627450982
+      ],
+      "variance": 1.0079772699900889
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0,
+        0.34117647058823525
+      ],
+      "lightness": 0.25,
+      "sats": [
+        1.0,
+        0.0
+      ],
+      "vals": [
+        0.0,
+        1.0
+      ],
+      "variance": 1.0667430036391843
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "group_name": "binniecore\\assets\\extratrees\\textures\\blocks\\patterns\\thickbarred2.0.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.9440750213128728,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.9001782531194296,
+        0.9607843137254902,
+        1.0
+      ],
+      "variance": 0.4244441884719315
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.839572192513369,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.625,
+        0.7611408199643493,
+        0.9254901960784313
+      ],
+      "variance": 0.4772754027002663
+    }
+  ]
+}

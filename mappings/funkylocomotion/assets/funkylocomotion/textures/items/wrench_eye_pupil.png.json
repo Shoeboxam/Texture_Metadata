@@ -1,0 +1,25 @@
+{
+  "group_name": "buildcraft\\assets\\buildcraft\\textures\\blocks\\gates\\gate_expansion_timer.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.2584269662921348,
+        0.2603174603174603,
+        0.4385964912280702
+      ],
+      "lightness": 0.7725490196078432,
+      "sats": [
+        0.5632911392405063,
+        0.525,
+        0.08260869565217399
+      ],
+      "vals": [
+        0.6196078431372549,
+        0.7843137254901961,
+        0.9019607843137255
+      ],
+      "variance": 0.040175235355476985
+    }
+  ]
+}

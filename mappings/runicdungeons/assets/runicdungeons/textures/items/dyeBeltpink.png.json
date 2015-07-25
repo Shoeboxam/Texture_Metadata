@@ -1,0 +1,25 @@
+{
+  "group_name": "runicdungeons\\assets\\runicdungeons\\textures\\items\\dyeBeltlightblue.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.8333333333333334,
+        0.8341778659029154,
+        0.8566837713160214
+      ],
+      "lightness": 0.9151376146788989,
+      "sats": [
+        0.6677395909043714,
+        0.49492966961072965,
+        0.4901960784313726
+      ],
+      "vals": [
+        0.7868464052287583,
+        0.9990196078431374,
+        1.0
+      ],
+      "variance": 0.09994895677228964
+    }
+  ]
+}

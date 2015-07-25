@@ -1,0 +1,21 @@
+{
+  "group_name": "appliedenergistics2\\assets\\appliedenergistics2\\textures\\items\\ItemPaintBall.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.6832008479067304,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.4784313725490196,
+        0.7638344226579521,
+        0.8957516339869281
+      ],
+      "variance": 0.213455849659646
+    }
+  ]
+}

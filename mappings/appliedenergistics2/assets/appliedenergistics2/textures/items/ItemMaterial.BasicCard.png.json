@@ -1,0 +1,97 @@
+{
+  "group_name": "appliedenergistics2\\assets\\appliedenergistics2\\textures\\items\\ItemMaterial.AdvCard.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.5846994535519127,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.25098039215686274,
+        0.5019607843137255,
+        0.6280893752849978
+      ],
+      "variance": 0.5317112557646607
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.13856209150326798
+      ],
+      "lightness": 1.0,
+      "sats": [
+        1.0
+      ],
+      "vals": [
+        1.0
+      ],
+      "variance": 0.3108912806929984
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.5279857397504456,
+      "sats": [
+        1.0,
+        0.0
+      ],
+      "vals": [
+        0.4470588235294118,
+        0.5098039215686274,
+        0.6
+      ],
+      "variance": 0.5888251467548011
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.10416666666666667
+      ],
+      "lightness": 0.2156862745098039,
+      "sats": [
+        0.2909090909090909
+      ],
+      "vals": [
+        0.21568627450980393
+      ],
+      "variance": 1.441405028667538
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.7395833333333334
+      ],
+      "lightness": 0.2156862745098039,
+      "sats": [
+        0.2909090909090909
+      ],
+      "vals": [
+        0.21568627450980393
+      ],
+      "variance": 1.441405028667538
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.5559912854030501,
+      "sats": [
+        1.0,
+        0.0
+      ],
+      "vals": [
+        0.4470588235294118,
+        0.5098039215686274,
+        0.6
+      ],
+      "variance": 0.5591657438796483
+    }
+  ]
+}

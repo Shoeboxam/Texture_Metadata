@@ -1,0 +1,23 @@
+{
+  "group_name": "thermalexpansion\\assets\\thermalexpansion\\textures\\blocks\\light\\Illuminator_Frame.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.5
+      ],
+      "lightness": 0.36184313725490197,
+      "sats": [
+        0.025477707006369338,
+        0.024495058014611,
+        0.01444652908067511
+      ],
+      "vals": [
+        0.29859943977591036,
+        0.43977591036414565,
+        0.5703431372549019
+      ],
+      "variance": 0.5554494351843011
+    }
+  ]
+}

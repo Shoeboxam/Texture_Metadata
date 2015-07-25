@@ -1,0 +1,25 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\battleaxe\\metallurgy3\\precious\\brass_battleaxe_fronthead.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.5127551020408164,
+        0.5129629629629631,
+        0.513214990138067
+      ],
+      "lightness": 0.6935366739288308,
+      "sats": [
+        0.9514563106796116,
+        0.9473684210526317,
+        0.2800795492210805
+      ],
+      "vals": [
+        0.3725490196078432,
+        0.807843137254902,
+        0.9859477124183005
+      ],
+      "variance": 0.1926708371302158
+    }
+  ]
+}

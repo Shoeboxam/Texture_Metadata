@@ -1,0 +1,37 @@
+{
+  "group_name": "projectred\\assets\\projectred\\textures\\items\\chips\\responder.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.0,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.0
+      ],
+      "variance": Infinity
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.15816993464052287,
+        0.41192411924119243
+      ],
+      "lightness": 0.5415126050420167,
+      "sats": [
+        1.0,
+        0.9999999999999997
+      ],
+      "vals": [
+        0.48235294117647054,
+        0.4823529411764706,
+        1.0
+      ],
+      "variance": 0.5798911303858433
+    }
+  ]
+}

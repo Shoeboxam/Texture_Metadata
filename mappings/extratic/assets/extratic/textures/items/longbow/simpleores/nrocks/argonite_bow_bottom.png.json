@@ -1,0 +1,24 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\longbow\\generic\\sapphire_bow_bottom.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.7463712757830404,
+        0.7765700483091788,
+        0.7766143106457243
+      ],
+      "lightness": 0.4123921568627451,
+      "sats": [
+        1.0,
+        0.9928057553956835
+      ],
+      "vals": [
+        0.3019607843137254,
+        0.5450980392156862,
+        0.7490196078431373
+      ],
+      "variance": 0.13039604571426147
+    }
+  ]
+}

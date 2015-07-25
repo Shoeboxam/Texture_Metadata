@@ -1,0 +1,35 @@
+{
+  "group_name": "binniecore\\assets\\botany\\textures\\blocks\\flowers\\double\\peony.0.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.9101629384148026,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.815686274509804,
+        0.9254901960784314,
+        0.9999999999999999
+      ],
+      "variance": 0.355453794811855
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.8156862745098039,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.8156862745098039
+      ],
+      "variance": 0.3966241439468549
+    }
+  ]
+}

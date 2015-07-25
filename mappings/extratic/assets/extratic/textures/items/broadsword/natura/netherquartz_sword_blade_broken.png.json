@@ -1,0 +1,25 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\broadsword\\metallurgy3\\precious\\brass_sword_blade_broken.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.06111111111111115,
+        0.07738095238095248,
+        0.09523809523809523
+      ],
+      "lightness": 0.5695324283559577,
+      "sats": [
+        0.32258064516129076,
+        0.12785388127853875,
+        0.029166666666666563
+      ],
+      "vals": [
+        0.3647058823529412,
+        0.8588235294117647,
+        0.9411764705882353
+      ],
+      "variance": 0.32496645373691424
+    }
+  ]
+}

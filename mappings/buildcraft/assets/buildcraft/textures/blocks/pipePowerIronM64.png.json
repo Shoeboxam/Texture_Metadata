@@ -1,0 +1,22 @@
+{
+  "group_name": "buildcraft\\assets\\buildcraft\\textures\\blocks\\pipePowerIronM16.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.8358001265022138,
+      "sats": [
+        1.0,
+        6.863196879500967e-16
+      ],
+      "vals": [
+        0.4980392156862745,
+        0.6470588235294119,
+        0.9999999999999998
+      ],
+      "variance": 0.5338511103923201
+    }
+  ]
+}

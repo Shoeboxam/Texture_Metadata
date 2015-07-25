@@ -1,0 +1,36 @@
+{
+  "group_name": "projectred\\assets\\projectred\\textures\\items\\parts\\illumar14.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.6658263305322129,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.6196078431372549,
+        0.7058823529411765
+      ],
+      "variance": 0.6034410164146116
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.23567362428842503,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.13333333333333336,
+        0.21437908496732028,
+        0.40330237358101134
+      ],
+      "variance": 1.7048446505844446
+    }
+  ]
+}

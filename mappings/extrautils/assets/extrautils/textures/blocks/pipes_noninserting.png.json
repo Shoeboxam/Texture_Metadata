@@ -1,0 +1,37 @@
+{
+  "group_name": "extrautils\\assets\\extrautils\\textures\\blocks\\pipes_supply.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.08810457516339869,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.06339869281045751,
+        0.08671023965141612,
+        0.11154684095860566
+      ],
+      "variance": 4.37711948291034
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.4890648567119156,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.4122400475341651,
+        0.4453781512605042,
+        0.7258169934640524
+      ],
+      "variance": 0.7885339688359886
+    }
+  ]
+}

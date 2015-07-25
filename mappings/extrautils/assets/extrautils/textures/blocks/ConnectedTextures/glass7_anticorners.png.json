@@ -1,0 +1,52 @@
+{
+  "group_name": "extrautils\\assets\\extrautils\\textures\\blocks\\ConnectedTextures\\glass7.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.5208333333333334,
+        0.5241935483870969,
+        0.0
+      ],
+      "lightness": 0.9911764705882352,
+      "sats": [
+        0.2440944881889764,
+        0.18264840182648404,
+        0.0
+      ],
+      "vals": [
+        0.8588235294117647,
+        0.996078431372549
+      ],
+      "variance": 0.3932429582167586
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.5241935483870969
+      ],
+      "lightness": 0.996078431372549,
+      "sats": [
+        0.2440944881889764
+      ],
+      "vals": [
+        0.996078431372549
+      ],
+      "variance": 0.39130770743813276
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.996078431372549,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.996078431372549
+      ],
+      "variance": 0.39130770743813276
+    }
+  ]
+}

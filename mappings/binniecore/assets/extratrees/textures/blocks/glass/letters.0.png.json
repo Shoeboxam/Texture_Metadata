@@ -1,0 +1,19 @@
+{
+  "group_name": "binniecore\\assets\\extratrees\\textures\\blocks\\glass\\letters4.0.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.9999999999999997,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        1.0
+      ],
+      "variance": 0.43957029687916543
+    }
+  ]
+}

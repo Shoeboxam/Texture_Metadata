@@ -1,0 +1,33 @@
+{
+  "group_name": "tinker\\assets\\tinker\\textures\\blocks\\glass\\stainedglass_lightgray_side.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.06666666666666667
+      ],
+      "lightness": 0.3607843137254902,
+      "sats": [
+        0.7065217391304347
+      ],
+      "vals": [
+        0.3607843137254902
+      ],
+      "variance": 0.40142961385170206
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.06666666666666667
+      ],
+      "lightness": 0.5019607843137254,
+      "sats": [
+        0.7421875
+      ],
+      "vals": [
+        0.5019607843137255
+      ],
+      "variance": 0.28852753495591094
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "group_name": "buildcraft\\assets\\buildcraft\\textures\\blocks\\blockMarker.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0,
+        0.16666666666666666
+      ],
+      "lightness": 0.125,
+      "sats": [
+        1.0,
+        0.0
+      ],
+      "vals": [
+        0.0,
+        1.0
+      ],
+      "variance": 1.848629758034438
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.6666666666666666
+      ],
+      "lightness": 0.8928104575163399,
+      "sats": [
+        1.0,
+        0.6666666666666667
+      ],
+      "vals": [
+        0.8392156862745098,
+        1.0
+      ],
+      "variance": 0.25882169928556825
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.16666666666666666
+      ],
+      "lightness": 1.0,
+      "sats": [
+        1.0
+      ],
+      "vals": [
+        1.0
+      ],
+      "variance": 0.23107871975430475
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "group_name": "logisticspipes\\assets\\logisticspipes\\textures\\blocks\\pipes\\overlay_gen\\supplier\\un-overlayed.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.34117647058823525,
+        0.6666666666666666,
+        0.0
+      ],
+      "lightness": 0.23076923076923078,
+      "sats": [
+        1.0
+      ],
+      "vals": [
+        1.3010426069826053e-18,
+        0.9999999999999999,
+        1.0
+      ],
+      "variance": 1.2628766220690397
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0,
+        0.34117647058823525
+      ],
+      "lightness": 1.0,
+      "sats": [
+        1.0
+      ],
+      "vals": [
+        1.0
+      ],
+      "variance": 0.29143306663131685
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0,
+        0.34057971014492755
+      ],
+      "lightness": 0.9980392156862745,
+      "sats": [
+        1.0,
+        0.9960629921259843
+      ],
+      "vals": [
+        0.996078431372549,
+        1.0
+      ],
+      "variance": 0.2920056266836377
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.34117647058823525
+      ],
+      "lightness": 1.0,
+      "sats": [
+        1.0
+      ],
+      "vals": [
+        1.0
+      ],
+      "variance": 0.29143306663131685
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0,
+        0.34117647058823525
+      ],
+      "lightness": 0.2,
+      "sats": [
+        1.0,
+        0.0
+      ],
+      "vals": [
+        0.0,
+        1.0
+      ],
+      "variance": 1.4571653331565841
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.34117647058823525
+      ],
+      "lightness": 1.0,
+      "sats": [
+        1.0
+      ],
+      "vals": [
+        1.0
+      ],
+      "variance": 0.29143306663131685
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.34117647058823525
+      ],
+      "lightness": 1.0,
+      "sats": [
+        1.0
+      ],
+      "vals": [
+        1.0
+      ],
+      "variance": 0.29143306663131685
+    }
+  ]
+}

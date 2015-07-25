@@ -1,0 +1,21 @@
+{
+  "group_name": "binniecore\\assets\\extratrees\\textures\\blocks\\patterns\\thickdiagonal.1.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.8276143790849673,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.6470588235294118,
+        0.7434640522875817,
+        0.9290382819794585
+      ],
+      "variance": 0.4572348313302903
+    }
+  ]
+}

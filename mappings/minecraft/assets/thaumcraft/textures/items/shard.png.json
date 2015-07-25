@@ -1,0 +1,37 @@
+{
+  "group_name": "forbidden\\assets\\forbidden\\textures\\items\\gluttonyshard.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.49645793801391525,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.29041394335511983,
+        0.6281045751633987,
+        0.9134453781512606
+      ],
+      "variance": 0.5217278527214502
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.7718360071301248,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.47058823529411764,
+        0.7238095238095238,
+        0.956078431372549
+      ],
+      "variance": 0.33558415463098623
+    }
+  ]
+}

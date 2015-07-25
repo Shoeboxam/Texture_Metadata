@@ -1,0 +1,25 @@
+{
+  "group_name": "thermalfoundation\\assets\\thermalfoundation\\textures\\items\\tool\\electrum\\ElectrumHoe.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.10699588477366266,
+        0.17189421894218956,
+        0.5244565217391304
+      ],
+      "lightness": 0.4311418685121107,
+      "sats": [
+        0.7168141592920356,
+        0.271407110665999,
+        0.08812260536398457
+      ],
+      "vals": [
+        0.22156862745098033,
+        0.3559714795008913,
+        0.9098039215686274
+      ],
+      "variance": 1.01046907524597
+    }
+  ]
+}

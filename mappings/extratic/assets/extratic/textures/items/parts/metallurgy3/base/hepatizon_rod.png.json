@@ -1,0 +1,37 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\parts\\twilightforest\\knightmetal_rod.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.8333333333333334
+      ],
+      "lightness": 0.40579710144927533,
+      "sats": [
+        0.20547945205479473,
+        0.1965811965811965,
+        0.1756756756756758
+      ],
+      "vals": [
+        0.2862745098039216,
+        0.4588235294117647,
+        0.5803921568627451
+      ],
+      "variance": 0.7468349948413583
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.8333333333333334
+      ],
+      "lightness": 0.196078431372549,
+      "sats": [
+        0.21999999999999992
+      ],
+      "vals": [
+        0.19607843137254902
+      ],
+      "variance": 1.5456237284542893
+    }
+  ]
+}

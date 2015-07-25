@@ -1,0 +1,52 @@
+{
+  "group_name": "witchery\\assets\\witchery\\textures\\items\\ingredient.bookBiomes.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.28431372549019607,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.1568627450980392,
+        0.30980392156862746
+      ],
+      "variance": 0.7539947134437497
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.6722689075630252,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.3568627450980392,
+        0.6,
+        0.7476355247981545
+      ],
+      "variance": 0.3188769308939191
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.19886480908152737,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.05882352941176466,
+        0.13716370269037848,
+        0.29648538660747314
+      ],
+      "variance": 1.077973760009097
+    }
+  ]
+}

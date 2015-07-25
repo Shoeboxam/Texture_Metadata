@@ -1,0 +1,24 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\rapier\\metallurgy3\\precious\\brass_rapier_blade.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.11036036036036034,
+        0.11065573770491804,
+        0.1111111111111111
+      ],
+      "lightness": 0.44313725490196076,
+      "sats": [
+        1.0,
+        0.9568627450980393
+      ],
+      "vals": [
+        0.23529411764705888,
+        0.8705882352941177,
+        1.0
+      ],
+      "variance": 0.35569510837365653
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "group_name": "buildcraft\\assets\\buildcraft\\textures\\items\\list.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0,
+        0.0012345679012345696
+      ],
+      "lightness": 0.40484429065743943,
+      "sats": [
+        1.0
+      ],
+      "vals": [
+        5.551115123125783e-17,
+        0.5294117647058822,
+        0.5294117647058824
+      ],
+      "variance": 0.5721701124236136
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.3176470588235294,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.3176470588235294
+      ],
+      "variance": 0.7292364177948016
+    }
+  ]
+}

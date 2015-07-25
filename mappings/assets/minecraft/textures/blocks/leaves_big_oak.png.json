@@ -1,14 +1,14 @@
 {
-  "group_name": "assets\\minecraft\\textures\\blocks\\leaves_big_oak.png",
+  "group_name": "assets\\minecraft\\textures\\blocks\\leaves_acacia.png",
   "segment_dicts": [
     {
       "equivalent": true,
       "hues": [
-        0.0
+        0.6666666666666666
       ],
       "lightness": 0.5294623655913979,
       "sats": [
-        0.0
+        1.0
       ],
       "vals": [
         0.33763936947327955,

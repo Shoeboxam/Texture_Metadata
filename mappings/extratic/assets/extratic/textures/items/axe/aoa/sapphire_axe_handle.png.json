@@ -1,0 +1,24 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\axe\\natura\\ghostwood_axe_handle.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.6128067025733094,
+        0.6254789272030651,
+        0.6270833333333333
+      ],
+      "lightness": 0.5969834087481146,
+      "sats": [
+        1.0,
+        0.9462061155152888
+      ],
+      "vals": [
+        0.31372549019607837,
+        0.6823529411764706,
+        0.865686274509804
+      ],
+      "variance": 0.14049754721429109
+    }
+  ]
+}

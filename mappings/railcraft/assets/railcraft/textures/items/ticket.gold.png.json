@@ -1,0 +1,23 @@
+{
+  "group_name": "railcraft\\assets\\railcraft\\textures\\items\\ticket.gold.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.1101928374655648,
+        0.11027238597332055,
+        0.13793103448275865
+      ],
+      "lightness": 0.7577094474153299,
+      "sats": [
+        1.0
+      ],
+      "vals": [
+        0.47450980392156855,
+        0.6294117647058823,
+        0.9098039215686275
+      ],
+      "variance": 0.5331440380148171
+    }
+  ]
+}

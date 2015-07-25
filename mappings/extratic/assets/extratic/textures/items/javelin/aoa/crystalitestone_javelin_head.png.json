@@ -1,0 +1,38 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\javelin\\ae\\certus_quartz_javelin_head.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.11691542288557215
+      ],
+      "lightness": 0.26274509803921564,
+      "sats": [
+        1.0
+      ],
+      "vals": [
+        0.2627450980392157
+      ],
+      "variance": 0.6887708347322515
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.11507936507936507,
+        0.11512717536813923,
+        0.11666666666666665
+      ],
+      "lightness": 0.8549019607843137,
+      "sats": [
+        1.0,
+        0.49411764705882355
+      ],
+      "vals": [
+        0.5882352941176471,
+        0.9764705882352941,
+        1.0
+      ],
+      "variance": 0.21168644920670113
+    }
+  ]
+}

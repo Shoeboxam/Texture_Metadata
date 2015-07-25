@@ -1,0 +1,25 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\parts\\botania\\terrasteel_full_guard.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.041666666666666706,
+        0.04365733113673805,
+        0.04973821989528795
+      ],
+      "lightness": 0.3250544662309368,
+      "sats": [
+        0.8565022421524664,
+        0.7420537897310513,
+        0.7272727272727273
+      ],
+      "vals": [
+        0.17254901960784313,
+        0.2916221033868093,
+        0.8745098039215686
+      ],
+      "variance": 1.0930632425163225
+    }
+  ]
+}

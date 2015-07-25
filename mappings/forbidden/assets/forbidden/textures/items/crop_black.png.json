@@ -1,0 +1,21 @@
+{
+  "group_name": "forbidden\\assets\\forbidden\\textures\\items\\crop.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.04757033248081841,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.000475341651812268,
+        0.10196078431372549,
+        0.207843137254902
+      ],
+      "variance": 0.8089606368862746
+    }
+  ]
+}

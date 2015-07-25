@@ -1,0 +1,25 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\scythe\\metallurgy3\\nether\\kalendrite_scythe_head_broken.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.018173122907699662,
+        0.01977401129943503,
+        0.02
+      ],
+      "lightness": 0.7624183006535947,
+      "sats": [
+        1.0,
+        0.9256308100929616,
+        0.903061224489796
+      ],
+      "vals": [
+        0.5882352941176471,
+        0.7686274509803922,
+        0.984313725490196
+      ],
+      "variance": 0.06457366382098427
+    }
+  ]
+}

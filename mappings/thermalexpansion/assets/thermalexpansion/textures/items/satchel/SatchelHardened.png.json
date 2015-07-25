@@ -1,0 +1,55 @@
+{
+  "group_name": "thermalexpansion\\assets\\thermalexpansion\\textures\\items\\satchel\\SatchelBasic.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.0,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.0
+      ],
+      "variance": Infinity
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.13624841571609633,
+        0.13978494623655913,
+        0.16666666666666666
+      ],
+      "lightness": 0.8549019607843137,
+      "sats": [
+        0.6902887139107611,
+        0.6567796610169492,
+        0.584313725490196
+      ],
+      "vals": [
+        0.7470588235294118,
+        0.9254901960784314,
+        1.0
+      ],
+      "variance": 0.3124696268425077
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.31229691876750704,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.1691027926322044,
+        0.36365546218487393,
+        0.6775599128540305
+      ],
+      "variance": 0.8553747431369031
+    }
+  ]
+}

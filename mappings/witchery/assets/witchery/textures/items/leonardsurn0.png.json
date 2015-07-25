@@ -1,0 +1,39 @@
+{
+  "group_name": "witchery\\assets\\witchery\\textures\\items\\leonardsurn2.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.0,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.0
+      ],
+      "variance": Infinity
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.05000630596544331,
+        0.052801289802498985,
+        0.055555555555555504
+      ],
+      "lightness": 0.4668894830659537,
+      "sats": [
+        0.6363636363636365,
+        0.5886120996441282,
+        0.5632992327365729
+      ],
+      "vals": [
+        0.09243697478991597,
+        0.41583425823159453,
+        0.6571428571428571
+      ],
+      "variance": 0.7860227129402609
+    }
+  ]
+}

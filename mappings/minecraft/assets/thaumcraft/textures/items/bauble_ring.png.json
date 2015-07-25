@@ -1,0 +1,39 @@
+{
+  "group_name": "thaumicexploration\\assets\\thaumicexploration\\textures\\items\\ringAqua.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.0,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.0
+      ],
+      "variance": Infinity
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.11390384999002597,
+        0.11402918069584735,
+        0.11433862433862434
+      ],
+      "lightness": 0.8036274509803922,
+      "sats": [
+        0.8618688334300638,
+        0.8536585365853658,
+        0.6002155172413793
+      ],
+      "vals": [
+        0.6142602495543672,
+        0.8512110726643598,
+        0.9098039215686274
+      ],
+      "variance": 0.36895387387831163
+    }
+  ]
+}

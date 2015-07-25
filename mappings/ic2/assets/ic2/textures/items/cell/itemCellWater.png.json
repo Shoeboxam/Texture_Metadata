@@ -1,0 +1,51 @@
+{
+  "group_name": "ic2\\assets\\ic2\\textures\\items\\cell\\itemCellBiogas.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.4648023143683703,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.2350036310820625,
+        0.603641456582633,
+        0.8509803921568627
+      ],
+      "variance": 0.7192205145183898
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.625
+      ],
+      "lightness": 1.0,
+      "sats": [
+        0.8
+      ],
+      "vals": [
+        1.0
+      ],
+      "variance": 0.3342953596893576
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.7105301379811183,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.31372549019607837,
+        0.851764705882353,
+        0.9803921568627451
+      ],
+      "variance": 0.47048723455871366
+    }
+  ]
+}

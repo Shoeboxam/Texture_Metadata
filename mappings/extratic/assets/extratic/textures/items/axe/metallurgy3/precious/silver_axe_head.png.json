@@ -1,0 +1,24 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\axe\\oodmod\\kroostyl_axe_head.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0,
+        0.5
+      ],
+      "lightness": 0.6242424242424243,
+      "sats": [
+        0.0010242403550698605,
+        2.7755575615628914e-16,
+        0.0
+      ],
+      "vals": [
+        0.4,
+        0.6784313725490196,
+        0.8835595776772247
+      ],
+      "variance": 0.24122495327184773
+    }
+  ]
+}

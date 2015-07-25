@@ -1,0 +1,21 @@
+{
+  "group_name": "binniecore\\assets\\extratrees\\textures\\blocks\\patterns\\diagonalhalved.1.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.8913398692810457,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.7167004732927654,
+        0.9024390243902438,
+        0.9835294117647058
+      ],
+      "variance": 0.5058655861291115
+    }
+  ]
+}

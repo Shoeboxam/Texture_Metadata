@@ -1,0 +1,61 @@
+{
+  "group_name": "appliedenergistics2\\assets\\appliedenergistics2\\textures\\blocks\\PartStorageMonitor_Colored.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.09999999999999999
+      ],
+      "lightness": 0.8823529411764706,
+      "sats": [
+        0.022222222222222143
+      ],
+      "vals": [
+        0.8823529411764706
+      ],
+      "variance": 0.1240195927061527
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.09999999999999999
+      ],
+      "lightness": 0.8823529411764706,
+      "sats": [
+        0.022222222222222143
+      ],
+      "vals": [
+        0.8823529411764706
+      ],
+      "variance": 0.1240195927061527
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.09999999999999999
+      ],
+      "lightness": 0.8823529411764706,
+      "sats": [
+        0.022222222222222143
+      ],
+      "vals": [
+        0.8823529411764706
+      ],
+      "variance": 0.1240195927061527
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.09999999999999999
+      ],
+      "lightness": 0.8823529411764706,
+      "sats": [
+        0.022222222222222143
+      ],
+      "vals": [
+        0.8823529411764706
+      ],
+      "variance": 0.1240195927061527
+    }
+  ]
+}

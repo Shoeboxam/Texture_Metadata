@@ -1,0 +1,39 @@
+{
+  "group_name": "advancedsolarpanel\\assets\\advancedsolarpanel\\textures\\items\\SunnariumAlloy.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.12549019607843143,
+        0.4166666666666667,
+        0.5546940136735033
+      ],
+      "lightness": 0.5934548467274233,
+      "sats": [
+        1.0,
+        0.9999999999999999,
+        0.42686312193038645
+      ],
+      "vals": [
+        1.6653345369377348e-16,
+        0.5401384083044982,
+        0.9999999999999996
+      ],
+      "variance": 0.7827873975109277
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.12549019607843137
+      ],
+      "lightness": 1.0,
+      "sats": [
+        1.0
+      ],
+      "vals": [
+        1.0
+      ],
+      "variance": 0.46454897501000625
+    }
+  ]
+}

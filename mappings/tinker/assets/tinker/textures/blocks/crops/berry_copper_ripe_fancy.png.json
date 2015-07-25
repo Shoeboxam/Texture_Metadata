@@ -1,0 +1,25 @@
+{
+  "group_name": "tinker\\assets\\tinker\\textures\\blocks\\crops\\berry_copper_ripe_fancy.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0,
+        0.08154822622690673,
+        0.0875800612642718
+      ],
+      "lightness": 0.5614155906264945,
+      "sats": [
+        0.7521600251348378,
+        0.4933735950343905,
+        0.0
+      ],
+      "vals": [
+        0.2885984023238927,
+        0.5607843137254902,
+        0.7967042136003336
+      ],
+      "variance": 0.5623804933556729
+    }
+  ]
+}

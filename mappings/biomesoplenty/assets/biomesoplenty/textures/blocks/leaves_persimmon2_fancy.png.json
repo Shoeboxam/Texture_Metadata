@@ -1,0 +1,25 @@
+{
+  "group_name": "biomesoplenty\\assets\\biomesoplenty\\textures\\blocks\\leaves_persimmon3_fancy.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.15527950310559013,
+        0.16045448693189135,
+        0.2188522152839726
+      ],
+      "lightness": 0.3952412425644415,
+      "sats": [
+        0.5422396856581532,
+        0.5318952234206471,
+        0.5035938903863432
+      ],
+      "vals": [
+        0.20250071042909917,
+        0.43881000676132526,
+        0.7935828877005346
+      ],
+      "variance": 0.614111307441523
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "group_name": "ic2\\assets\\ic2\\textures\\items\\resources\\itemCasingBronze.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.6882004872955099,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.5574229691876749,
+        0.7714725105728566,
+        0.8863898500576701
+      ],
+      "variance": 0.44071847566282474
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "group_name": "binniecore\\assets\\extratrees\\textures\\blocks\\patterns\\thincurvedcorner4.1.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.9095287237702099,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.6971677559912854,
+        0.9054801407742584,
+        0.979360165118679
+      ],
+      "variance": 0.500743775559371
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.7310924369747899,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.6470588235294118,
+        0.7647058823529411,
+        0.8823529411764706
+      ],
+      "variance": 0.6229593196244431
+    }
+  ]
+}

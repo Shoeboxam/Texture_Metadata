@@ -1,0 +1,61 @@
+{
+  "group_name": "twilightforest\\assets\\twilightforest\\textures\\blocks\\towerdev_reappearing_trace_off.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.5019607843137255,
+      "sats": [
+        0.9921875
+      ],
+      "vals": [
+        0.5019607843137255
+      ],
+      "variance": 0.21137108216357314
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.5019607843137255,
+      "sats": [
+        0.9921875
+      ],
+      "vals": [
+        0.5019607843137255
+      ],
+      "variance": 0.21137108216357314
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.5019607843137255,
+      "sats": [
+        0.9921875
+      ],
+      "vals": [
+        0.5019607843137255
+      ],
+      "variance": 0.21137108216357314
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.5019607843137255,
+      "sats": [
+        0.9921875
+      ],
+      "vals": [
+        0.5019607843137255
+      ],
+      "variance": 0.21137108216357314
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "group_name": "cofh\\assets\\cofh\\textures\\items\\icons\\Icon_Accept.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.3333333333333333
+      ],
+      "lightness": 0.33421129645888203,
+      "sats": [
+        1.0
+      ],
+      "vals": [
+        0.1450980392156863,
+        0.3215686274509804,
+        0.47058823529411753
+      ],
+      "variance": 0.8983355249604041
+    }
+  ]
+}

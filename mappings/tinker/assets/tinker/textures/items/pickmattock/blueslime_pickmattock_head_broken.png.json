@@ -1,0 +1,25 @@
+{
+  "group_name": "tinker\\assets\\tinker\\textures\\items\\pickmattock\\blueslime_pickmattock_head_broken.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.5,
+        0.5046296296296297,
+        0.5059523809523809
+      ],
+      "lightness": 0.4331825037707391,
+      "sats": [
+        0.43410852713178294,
+        0.43373493975903604,
+        0.4202334630350193
+      ],
+      "vals": [
+        0.3254901960784313,
+        0.5058823529411764,
+        0.6718954248366013
+      ],
+      "variance": 0.4506293698534886
+    }
+  ]
+}

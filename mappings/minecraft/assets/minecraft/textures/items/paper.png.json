@@ -1,0 +1,49 @@
+{
+  "group_name": "harvestcraft\\assets\\harvestcraft\\textures\\items\\beetseedpacketItem.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.3176470588235294,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.3176470588235294
+      ],
+      "variance": 1.269813215378287
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.8745098039215685,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.8392156862745098,
+        0.9176470588235294
+      ],
+      "variance": 0.4612326028952523
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.8549019607843138,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.8392156862745098,
+        0.9176470588235294
+      ],
+      "variance": 0.47181133231945527
+    }
+  ]
+}

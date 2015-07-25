@@ -1,0 +1,25 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\excavator\\metallurgy3\\precious\\platinum_excavator_grip.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.27777777777777773,
+        0.28571428571428564,
+        0.2965686274509804
+      ],
+      "lightness": 0.4084967320261438,
+      "sats": [
+        0.546875,
+        0.48648648648648646,
+        0.419753086419753
+      ],
+      "vals": [
+        0.25098039215686274,
+        0.43529411764705883,
+        0.6352941176470588
+      ],
+      "variance": 0.3166378757745194
+    }
+  ]
+}

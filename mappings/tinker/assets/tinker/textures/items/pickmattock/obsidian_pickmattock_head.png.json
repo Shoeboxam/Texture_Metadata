@@ -1,0 +1,25 @@
+{
+  "group_name": "tinker\\assets\\tinker\\textures\\items\\pickmattock\\copper_pickmattock_head.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.7169625246548325,
+        0.729607250755287,
+        0.7352071005917159
+      ],
+      "lightness": 0.3953314659197012,
+      "sats": [
+        0.5586776859504133,
+        0.4867647058823529,
+        0.4062500000000001
+      ],
+      "vals": [
+        0.25098039215686274,
+        0.5333333333333333,
+        0.7908496732026145
+      ],
+      "variance": 0.6427200731481744
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "group_name": "ic2\\assets\\ic2\\textures\\items\\itemBatRE.4.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.4785851595540177,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.2738562091503267,
+        0.5933739012846518,
+        0.8852425180598555
+      ],
+      "variance": 0.5893146452251393
+    }
+  ]
+}

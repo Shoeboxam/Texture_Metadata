@@ -1,0 +1,25 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\parts\\natura\\netherquartz_axe_head.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.760569105691057,
+        0.7700903471231575,
+        0.06770833333333333
+      ],
+      "lightness": 0.4445632798573975,
+      "sats": [
+        0.9999999999999998,
+        0.7279335410176532,
+        0.518331226295828
+      ],
+      "vals": [
+        0.25098039215686274,
+        0.5809954751131221,
+        0.7754901960784313
+      ],
+      "variance": 0.2584494959566392
+    }
+  ]
+}

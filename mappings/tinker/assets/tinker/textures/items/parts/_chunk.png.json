@@ -1,0 +1,36 @@
+{
+  "group_name": "tinker\\assets\\tinker\\textures\\items\\parts\\_chunk.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.5937657114127701,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.33202614379084977,
+        0.6470588235294117,
+        0.7920261437908496
+      ],
+      "variance": 0.4975530222681725
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.32941176470588235,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.3254901960784314,
+        0.33725490196078434
+      ],
+      "variance": 0.8968408414205
+    }
+  ]
+}

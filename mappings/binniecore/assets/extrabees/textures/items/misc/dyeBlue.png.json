@@ -1,0 +1,24 @@
+{
+  "group_name": "binniecore\\assets\\extrabees\\textures\\items\\misc\\dyeBlue.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.6002317497103129,
+        0.6183369572379259,
+        0.6437908496732025
+      ],
+      "lightness": 0.6346163156620672,
+      "sats": [
+        1.0,
+        0.801997463538364,
+        0.6116229624379873
+      ],
+      "vals": [
+        0.6,
+        0.6509803921568628
+      ],
+      "variance": 0.46555168428692434
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "group_name": "tinker\\assets\\tinker\\textures\\items\\shovel\\blueslime_shovel_head_broken.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.5,
+        0.50177304964539,
+        0.5188536953242835
+      ],
+      "lightness": 0.43823529411764706,
+      "sats": [
+        0.43373493975903615,
+        0.41870824053452116,
+        0.35818476499189633
+      ],
+      "vals": [
+        0.32549019607843144,
+        0.48392156862745095,
+        0.7043137254901961
+      ],
+      "variance": 0.3109900620704016
+    }
+  ]
+}

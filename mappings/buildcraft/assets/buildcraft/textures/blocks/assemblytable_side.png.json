@@ -1,0 +1,51 @@
+{
+  "group_name": "buildcraft\\assets\\buildcraft\\textures\\blocks\\advworkbenchtable_side.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.021008403361344536,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.003647970816233463,
+        0.05607843137254902,
+        0.15294117647058822
+      ],
+      "variance": 2.2545206033748433
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.10256410256410257
+      ],
+      "lightness": 0.09803921568627452,
+      "sats": [
+        0.52
+      ],
+      "vals": [
+        0.09803921568627451
+      ],
+      "variance": 0.4831115578660377
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.05266106442577031,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.0037348272642390226,
+        0.0776470588235294,
+        0.16143790849673204
+      ],
+      "variance": 0.8994098151761342
+    }
+  ]
+}

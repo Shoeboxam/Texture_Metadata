@@ -1,0 +1,25 @@
+{
+  "group_name": "thermalfoundation\\assets\\thermalfoundation\\textures\\items\\armor\\copper\\CopperLegs.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.8677551718242434,
+        0.8857142857142857,
+        0.9135902417962003
+      ],
+      "lightness": 0.7499649859943976,
+      "sats": [
+        0.6058440527235192,
+        0.6028653885796743,
+        0.5697416974169741
+      ],
+      "vals": [
+        0.7460207612456747,
+        0.7483065953654189,
+        0.7591036414565826
+      ],
+      "variance": 0.496245254415819
+    }
+  ]
+}

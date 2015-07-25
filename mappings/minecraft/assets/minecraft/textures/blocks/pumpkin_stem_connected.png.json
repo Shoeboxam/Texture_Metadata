@@ -1,0 +1,21 @@
+{
+  "group_name": "minecraft\\assets\\minecraft\\textures\\blocks\\melon_stem_connected.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.5453357100415925,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.32156862745098036,
+        0.5291810841983853,
+        0.7498910675381264
+      ],
+      "variance": 0.35011325939602894
+    }
+  ]
+}

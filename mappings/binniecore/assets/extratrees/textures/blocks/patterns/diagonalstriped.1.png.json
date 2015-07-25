@@ -1,0 +1,51 @@
+{
+  "group_name": "binniecore\\assets\\extratrees\\textures\\blocks\\patterns\\diagonalstriped.1.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.8326203208556149,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.6113033448673586,
+        0.7043740573152338,
+        0.9385425812115891
+      ],
+      "variance": 0.5151733178731975
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.6666666666666666,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.6666666666666666
+      ],
+      "variance": 0.6434156598357502
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.9558823529411765,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.9019607843137254,
+        0.9607843137254902,
+        1.0
+      ],
+      "variance": 0.4487411781418565
+    }
+  ]
+}

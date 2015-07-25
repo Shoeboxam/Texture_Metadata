@@ -1,0 +1,35 @@
+{
+  "group_name": "tinker\\assets\\tinker\\textures\\items\\mattock\\redstone_mattock_effect.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.36613190730837797,
+      "sats": [
+        1.0
+      ],
+      "vals": [
+        0.17647058823529413,
+        0.39607843137254906,
+        1.0
+      ],
+      "variance": 0.2930785741301647
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.9886128364389234
+      ],
+      "lightness": 0.7058823529411765,
+      "sats": [
+        0.8944444444444445
+      ],
+      "vals": [
+        0.7058823529411765
+      ],
+      "variance": 0.15201600789478745
+    }
+  ]
+}

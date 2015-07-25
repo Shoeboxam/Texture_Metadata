@@ -1,0 +1,21 @@
+{
+  "group_name": "binniecore\\assets\\botany\\textures\\blocks\\flowers\\double\\lilac2.3.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.8383442265795207,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.6823529411764706,
+        0.8549019607843137,
+        1.0
+      ],
+      "variance": 0.3283427904835405
+    }
+  ]
+}

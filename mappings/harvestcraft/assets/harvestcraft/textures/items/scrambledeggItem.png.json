@@ -1,0 +1,25 @@
+{
+  "group_name": "harvestcraft\\assets\\harvestcraft\\textures\\items\\asparagusquicheItem.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.1396740937811772,
+        0.13985365609181577,
+        0.14028629856850716
+      ],
+      "lightness": 0.7655246714070245,
+      "sats": [
+        0.7844080846968239,
+        0.7220714363261318,
+        0.4644015444015445
+      ],
+      "vals": [
+        0.47935409457900796,
+        0.8027015250544662,
+        0.8755916159567276
+      ],
+      "variance": 0.4916842920829058
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "group_name": "alchemicalwizardry\\assets\\alchemicalwizardry\\textures\\items\\Aether.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.21031746031746024,
+        0.2920445505171041,
+        0.31473504273504277
+      ],
+      "lightness": 0.6312585337255532,
+      "sats": [
+        0.5929935530957303,
+        0.5692419164930713,
+        0.33070866141732286
+      ],
+      "vals": [
+        0.33202614379084966,
+        0.4655703141471642,
+        0.8266465560583206
+      ],
+      "variance": 0.42604090769786535
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.0,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.0
+      ],
+      "variance": Infinity
+    }
+  ]
+}

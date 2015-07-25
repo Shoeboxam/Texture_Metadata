@@ -1,0 +1,21 @@
+{
+  "group_name": "chisel\\assets\\chisel\\textures\\blocks\\thinWood-acacia\\normal-spaced.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.8891952614379085,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.7091503267973855,
+        0.8980392156862744,
+        0.9759803921568627
+      ],
+      "variance": 0.4447705370039544
+    }
+  ]
+}

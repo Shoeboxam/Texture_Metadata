@@ -1,0 +1,21 @@
+{
+  "group_name": "tinker\\assets\\tinker\\textures\\items\\arrow\\copper_arrow_shaft.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.4707147375079064,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.2666666666666667,
+        0.8320261437908496,
+        1.0
+      ],
+      "variance": 0.39437071994564643
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "group_name": "harvestcraft\\assets\\harvestcraft\\textures\\items\\celerysoupItem.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0,
+        0.06398467432950193,
+        0.0842082239720035
+      ],
+      "lightness": 0.42586115527292,
+      "sats": [
+        0.8281706604324957,
+        0.8048103607770583,
+        0.6215334420880914
+      ],
+      "vals": [
+        0.23551198257080605,
+        0.5342047930283225,
+        0.6709803921568627
+      ],
+      "variance": 0.5202986645012033
+    }
+  ]
+}

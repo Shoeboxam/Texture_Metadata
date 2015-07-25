@@ -1,0 +1,24 @@
+{
+  "group_name": "witchery\\assets\\witchery\\textures\\items\\ingredient.brewFrogsTongue.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.10830784913353723,
+        0.34802350427350426,
+        0.6666666666666666
+      ],
+      "lightness": 0.20446247464503042,
+      "sats": [
+        1.0,
+        0.7364864864864865
+      ],
+      "vals": [
+        6.938893903907228e-18,
+        0.27189542483660134,
+        0.34823529411764703
+      ],
+      "variance": 1.1585851727308891
+    }
+  ]
+}

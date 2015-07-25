@@ -1,0 +1,22 @@
+{
+  "group_name": "agricraft\\assets\\agricraft\\textures\\blocks\\cropShroomBrown1.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.9944444444444445,
+        0.0
+      ],
+      "lightness": 0.4137254901960784,
+      "sats": [
+        0.4838709677419355,
+        0.48275862068965514
+      ],
+      "vals": [
+        0.3411764705882353,
+        0.48627450980392156
+      ],
+      "variance": 1.011180513555915
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "group_name": "binniecore\\assets\\extrabees\\textures\\items\\misc\\copperDust.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.746462063086104,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.675,
+        0.7344537815126051,
+        0.8284313725490196
+      ],
+      "variance": 0.2531873934441995
+    }
+  ]
+}

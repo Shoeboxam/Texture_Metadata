@@ -1,0 +1,24 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\parts\\aoa\\limonite_bow_limb.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.7420824789245842,
+        0.7765700483091788,
+        0.7766143106457243
+      ],
+      "lightness": 0.4209601081812035,
+      "sats": [
+        1.0,
+        0.9928057553956835
+      ],
+      "vals": [
+        0.3019607843137254,
+        0.5450980392156862,
+        0.7490196078431373
+      ],
+      "variance": 0.1412852178115038
+    }
+  ]
+}

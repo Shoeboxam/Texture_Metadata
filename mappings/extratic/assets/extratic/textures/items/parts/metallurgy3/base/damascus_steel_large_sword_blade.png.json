@@ -1,0 +1,25 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\parts\\thermal\\signalum_large_sword_blade.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.07017543859649124,
+        0.07183908045977022,
+        0.07385524372230425
+      ],
+      "lightness": 0.35457013574660634,
+      "sats": [
+        0.49816041206769673,
+        0.496732026143791,
+        0.29292929292929276
+      ],
+      "vals": [
+        0.22678347934918647,
+        0.6,
+        0.776470588235294
+      ],
+      "variance": 0.9846006299105029
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "group_name": "tinker\\assets\\tinker\\textures\\items\\arrow\\_arrow_fletching.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.736541889483066,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.5803921568627451,
+        0.6941176470588235,
+        0.9529411764705882
+      ],
+      "variance": 0.2884178800503624
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "group_name": "binniecore\\assets\\extratrees\\textures\\blocks\\patterns\\thinedged4.0.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.4428921568627451,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.18954248366013066,
+        0.24705882352941178,
+        0.6926470588235294
+      ],
+      "variance": 0.3862797511106109
+    }
+  ]
+}

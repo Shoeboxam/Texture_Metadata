@@ -1,0 +1,38 @@
+{
+  "group_name": "buildcraft\\assets\\buildcraft\\textures\\items\\triggers\\trigger_pipecontents_toomuchenergy.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0,
+        0.5
+      ],
+      "lightness": 0.3798512508451657,
+      "sats": [
+        1.0,
+        0.9959636730575177,
+        0.0
+      ],
+      "vals": [
+        0.14901960784313728,
+        0.9715686274509805,
+        1.0
+      ],
+      "variance": 0.3938365732428883
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.14901960784313723,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.14901960784313725
+      ],
+      "variance": 1.003890139963043
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "group_name": "binniecore\\assets\\extratrees\\textures\\blocks\\patterns\\thinstripedcorner4.0.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.7684478371501271,
+        0.12166666666666777,
+        0.2736742424242425
+      ],
+      "lightness": 0.9774918300653593,
+      "sats": [
+        0.0380393751088914,
+        0.03286443420888844,
+        0.007049700387733456
+      ],
+      "vals": [
+        0.9428381522100365,
+        0.9786302926967889,
+        0.984436274509804
+      ],
+      "variance": 0.4333303439400243
+    }
+  ]
+}

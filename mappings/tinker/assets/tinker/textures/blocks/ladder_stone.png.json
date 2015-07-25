@@ -1,0 +1,21 @@
+{
+  "group_name": "minecraft\\assets\\minecraft\\textures\\blocks\\ladder.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.3003267973856209,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.22880485527544348,
+        0.34901960784313724,
+        0.4261764705882354
+      ],
+      "variance": 0.5450651893745455
+    }
+  ]
+}

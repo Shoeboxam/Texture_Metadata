@@ -1,0 +1,37 @@
+{
+  "group_name": "projectred\\assets\\projectred\\textures\\items\\parts\\gemruby.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.10980392156862745,
+      "sats": [
+        0.6071428571428571
+      ],
+      "vals": [
+        0.10980392156862745
+      ],
+      "variance": 3.4563995174693343
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.5219251336898396,
+      "sats": [
+        0.6072749691738596,
+        0.5986088379705401,
+        0.40904784462340127
+      ],
+      "vals": [
+        0.19877450980392153,
+        0.6250639386189258,
+        0.7884220354808591
+      ],
+      "variance": 0.7271660187025648
+    }
+  ]
+}

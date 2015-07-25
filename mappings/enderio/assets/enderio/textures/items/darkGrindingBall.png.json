@@ -1,0 +1,35 @@
+{
+  "group_name": "enderio\\assets\\enderio\\textures\\items\\silicon.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.1111651924216879,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.05490196078431374,
+        0.10602759622367465,
+        0.16240703177822854
+      ],
+      "variance": 0.520127773430712
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.0,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.0
+      ],
+      "variance": Infinity
+    }
+  ]
+}

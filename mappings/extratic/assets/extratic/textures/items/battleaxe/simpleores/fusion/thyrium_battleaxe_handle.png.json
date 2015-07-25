@@ -1,0 +1,25 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\battleaxe\\metallurgy3\\nether\\kalendrite_battleaxe_handle.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.45498783454987834,
+        0.45593716719914806,
+        0.4567901234567901
+      ],
+      "lightness": 0.5910364145658262,
+      "sats": [
+        0.6,
+        0.5976133651551312,
+        0.5591836734693878
+      ],
+      "vals": [
+        0.35294117647058826,
+        0.6319758672699849,
+        0.9607843137254902
+      ],
+      "variance": 0.24874457183779192
+    }
+  ]
+}

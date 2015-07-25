@@ -1,0 +1,111 @@
+{
+  "group_name": "logisticspipes\\assets\\logisticspipes\\textures\\blocks\\pipes\\overlay_gen\\chassi\\chassi_mk3\\un-overlayed.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.31034482758620685,
+      "sats": [
+        1.0,
+        0.6941176470588235,
+        0.0
+      ],
+      "vals": [
+        0.0,
+        5.551115123125783e-17,
+        1.0
+      ],
+      "variance": 1.120154979821741
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 1.0,
+      "sats": [
+        0.6941176470588235
+      ],
+      "vals": [
+        1.0
+      ],
+      "variance": 0.3476343040826092
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 1.0,
+      "sats": [
+        0.6941176470588235
+      ],
+      "vals": [
+        1.0
+      ],
+      "variance": 0.3476343040826092
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 1.0,
+      "sats": [
+        0.6941176470588235
+      ],
+      "vals": [
+        1.0
+      ],
+      "variance": 0.3476343040826092
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.9166666666666666,
+        0.0,
+        0.34117647058823525
+      ],
+      "lightness": 0.30434782608695654,
+      "sats": [
+        1.0,
+        0.6941176470588235
+      ],
+      "vals": [
+        2.7755575615628914e-17,
+        1.0
+      ],
+      "variance": 1.142226999128573
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 1.0,
+      "sats": [
+        0.6941176470588235
+      ],
+      "vals": [
+        1.0
+      ],
+      "variance": 0.3476343040826092
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 1.0,
+      "sats": [
+        0.6941176470588235
+      ],
+      "vals": [
+        1.0
+      ],
+      "variance": 0.3476343040826092
+    }
+  ]
+}

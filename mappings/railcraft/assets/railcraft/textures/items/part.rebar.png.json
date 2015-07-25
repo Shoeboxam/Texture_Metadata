@@ -1,0 +1,23 @@
+{
+  "group_name": "natura\\assets\\natura\\textures\\items\\fusewood_stick.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0882051282051282,
+        0.08943089430894308,
+        0.08946078431372546
+      ],
+      "lightness": 0.29952305246422894,
+      "sats": [
+        1.0
+      ],
+      "vals": [
+        0.16078431372549024,
+        0.3186274509803922,
+        0.5333333333333334
+      ],
+      "variance": 0.3924040458130427
+    }
+  ]
+}

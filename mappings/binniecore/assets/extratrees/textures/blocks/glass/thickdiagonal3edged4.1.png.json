@@ -1,0 +1,19 @@
+{
+  "group_name": "binniecore\\assets\\extratrees\\textures\\blocks\\glass\\thickdiagonal3edged4.1.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 1.0,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        1.0
+      ],
+      "variance": 0.3216435757849828
+    }
+  ]
+}

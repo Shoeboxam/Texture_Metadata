@@ -1,0 +1,25 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\pickmattock\\metallurgy3\\nether\\ceruclase_pickmattock_handle.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.09956709956709957,
+        0.10039149888143177,
+        0.10082304526748968
+      ],
+      "lightness": 0.655643879173291,
+      "sats": [
+        0.8019801980198019,
+        0.7641025641025643,
+        0.326271186440678
+      ],
+      "vals": [
+        0.39607843137254906,
+        0.7647058823529412,
+        0.9254901960784314
+      ],
+      "variance": 0.13177797976840144
+    }
+  ]
+}

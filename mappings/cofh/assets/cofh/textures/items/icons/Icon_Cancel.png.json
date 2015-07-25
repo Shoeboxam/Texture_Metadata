@@ -1,0 +1,21 @@
+{
+  "group_name": "cofh\\assets\\cofh\\textures\\items\\icons\\Icon_Cancel_Inactive.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.5396825396825398,
+      "sats": [
+        1.0
+      ],
+      "vals": [
+        0.2235294117647058,
+        0.42352941176470593,
+        0.7372549019607841
+      ],
+      "variance": 0.49966111401433483
+    }
+  ]
+}

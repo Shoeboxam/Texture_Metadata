@@ -1,0 +1,21 @@
+{
+  "group_name": "tinker\\assets\\tinker\\textures\\blocks\\nether_searedwindow_bottom.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.18968772694262892,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.15213675213675215,
+        0.19387254901960785,
+        0.24985994397759104
+      ],
+      "variance": 0.5097477130199519
+    }
+  ]
+}

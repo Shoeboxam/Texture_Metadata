@@ -1,0 +1,21 @@
+{
+  "group_name": "ic2\\assets\\ic2\\textures\\items\\resources\\itemDustCopperSmall.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.8875222816399286,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.8496732026143791,
+        0.8854901960784314,
+        0.9313725490196079
+      ],
+      "variance": 0.28054626415510786
+    }
+  ]
+}

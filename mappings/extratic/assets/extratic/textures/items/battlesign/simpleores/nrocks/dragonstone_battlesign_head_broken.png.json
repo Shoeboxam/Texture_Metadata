@@ -1,0 +1,25 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\battlesign\\natura\\netherquartz_battlesign_head_broken.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.9849901574803149,
+        5.551115123125783e-17,
+        0.005329457364341095
+      ],
+      "lightness": 0.3499910055765425,
+      "sats": [
+        1.0,
+        0.8431372549019608,
+        0.5000000000000001
+      ],
+      "vals": [
+        0.2612664738026358,
+        0.4000000000000001,
+        0.5882352941176471
+      ],
+      "variance": 0.9436954435165748
+    }
+  ]
+}

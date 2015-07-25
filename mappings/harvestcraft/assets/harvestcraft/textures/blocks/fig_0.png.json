@@ -1,0 +1,39 @@
+{
+  "group_name": "harvestcraft\\assets\\harvestcraft\\textures\\blocks\\fig_1.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.0,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.0
+      ],
+      "variance": Infinity
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.25702811244979923,
+        0.2571283832682009,
+        0.25719798159691304
+      ],
+      "lightness": 0.4961801398169249,
+      "sats": [
+        0.6690877396862288,
+        0.5770811921891059,
+        0.3896713615023475
+      ],
+      "vals": [
+        0.40903149138443257,
+        0.7631372549019608,
+        0.8352941176470589
+      ],
+      "variance": 0.4095338667496743
+    }
+  ]
+}

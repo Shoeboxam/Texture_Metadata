@@ -1,0 +1,37 @@
+{
+  "group_name": "binniecore\\assets\\botany\\textures\\blocks\\ceramic\\diamond.1.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.8297872340425532,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.6974789915966386,
+        0.8963585434173669,
+        0.9836601307189543
+      ],
+      "variance": 0.5193240608195028
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.8550636749545177,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.6856617647058822,
+        0.8962681846932321,
+        0.9769319492502884
+      ],
+      "variance": 0.503972380796183
+    }
+  ]
+}

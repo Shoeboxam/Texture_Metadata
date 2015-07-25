@@ -1,0 +1,25 @@
+{
+  "group_name": "harvestcraft\\assets\\harvestcraft\\textures\\items\\applejellysandwichItem.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.07086057269564543,
+        0.11118963486454651,
+        0.1448888888888901
+      ],
+      "lightness": 0.7571466616554703,
+      "sats": [
+        0.7515731402465303,
+        0.4507326396262476,
+        0.04253629764065398
+      ],
+      "vals": [
+        0.5290013679890561,
+        0.8207407407407408,
+        0.9877871148459386
+      ],
+      "variance": 0.4836256683400856
+    }
+  ]
+}

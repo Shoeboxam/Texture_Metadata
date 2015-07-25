@@ -1,0 +1,53 @@
+{
+  "group_name": "logisticspipes\\assets\\logisticspipes\\textures\\items\\itemUpgrade\\FluidCrafting.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.1606280193236715
+      ],
+      "lightness": 0.8117647058823529,
+      "sats": [
+        0.6666666666666667
+      ],
+      "vals": [
+        0.8117647058823529
+      ],
+      "variance": 0.5452890057694693
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.5089605734767025,
+        0.0
+      ],
+      "lightness": 0.8494117647058823,
+      "sats": [
+        1.0,
+        0.8985507246376813
+      ],
+      "vals": [
+        0.8117647058823529,
+        1.0
+      ],
+      "variance": 0.5211210719957532
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.5089605734767025,
+        0.0
+      ],
+      "lightness": 0.9908918406072106,
+      "sats": [
+        1.0,
+        0.8985507246376813
+      ],
+      "vals": [
+        0.8117647058823529,
+        1.0
+      ],
+      "variance": 0.4467151219229777
+    }
+  ]
+}

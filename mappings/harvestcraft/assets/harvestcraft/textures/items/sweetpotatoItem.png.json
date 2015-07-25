@@ -1,0 +1,25 @@
+{
+  "group_name": "harvestcraft\\assets\\harvestcraft\\textures\\items\\bakedsweetpotatoItem.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.04019838162359698,
+        0.04351714779175919,
+        0.05056783302639658
+      ],
+      "lightness": 0.8393896090889328,
+      "sats": [
+        0.5792689462964947,
+        0.5163437537144895,
+        0.500195848021935
+      ],
+      "vals": [
+        0.6257352941176471,
+        0.8314616755793226,
+        0.9426330532212885
+      ],
+      "variance": 0.4722407924517004
+    }
+  ]
+}

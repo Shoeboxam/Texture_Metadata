@@ -1,0 +1,35 @@
+{
+  "group_name": "binniecore\\assets\\extratrees\\textures\\blocks\\patterns\\barredend.0.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.8848560700876095,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.651672433679354,
+        0.8954248366013071,
+        0.978328173374613
+      ],
+      "variance": 0.488752411340618
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.6470588235294118,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.6470588235294118
+      ],
+      "variance": 0.6683712859145394
+    }
+  ]
+}

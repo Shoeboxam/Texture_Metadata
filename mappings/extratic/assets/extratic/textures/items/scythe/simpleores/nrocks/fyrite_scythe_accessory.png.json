@@ -1,0 +1,24 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\scythe\\metallurgy3\\nether\\kalendrite_scythe_accessory.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        3.700743415417188e-17,
+        0.049873944974240934,
+        0.069281045751634
+      ],
+      "lightness": 0.8808184143222505,
+      "sats": [
+        1.0,
+        0.9764705882352942
+      ],
+      "vals": [
+        0.6666666666666666,
+        0.9937908496732026,
+        1.0
+      ],
+      "variance": 0.06580427782746573
+    }
+  ]
+}

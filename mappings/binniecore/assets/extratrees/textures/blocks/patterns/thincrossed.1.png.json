@@ -1,0 +1,21 @@
+{
+  "group_name": "binniecore\\assets\\extratrees\\textures\\blocks\\patterns\\thincrossed.1.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.8601579520697167,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.6822638146167558,
+        0.8964705882352941,
+        0.980392156862745
+      ],
+      "variance": 0.5083622328457553
+    }
+  ]
+}

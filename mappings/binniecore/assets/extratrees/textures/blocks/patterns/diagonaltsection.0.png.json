@@ -1,0 +1,65 @@
+{
+  "group_name": "binniecore\\assets\\extratrees\\textures\\blocks\\patterns\\diagonaltsection.0.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 1.0,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        1.0
+      ],
+      "variance": 0.45374795912528243
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.9038583175205566,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.6705882352941177,
+        0.9032679738562092,
+        0.9833831837819874
+      ],
+      "variance": 0.5020122626851445
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.7990196078431371,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.6519607843137255,
+        0.7058823529411764,
+        0.9281045751633986
+      ],
+      "variance": 0.5678808813592493
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.5882352941176471,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.5882352941176471
+      ],
+      "variance": 0.7713715305129801
+    }
+  ]
+}

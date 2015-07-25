@@ -1,0 +1,25 @@
+{
+  "group_name": "extratic\\assets\\tinker\\textures\\items\\parts\\signalum_knife_blade.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0625,
+        0.06770833333333331,
+        0.13749999999999998
+      ],
+      "lightness": 0.5479377958079783,
+      "sats": [
+        1.0,
+        0.9411764705882353,
+        0.6694560669456067
+      ],
+      "vals": [
+        0.25098039215686285,
+        0.9372549019607843,
+        1.0
+      ],
+      "variance": 0.23676015313989168
+    }
+  ]
+}

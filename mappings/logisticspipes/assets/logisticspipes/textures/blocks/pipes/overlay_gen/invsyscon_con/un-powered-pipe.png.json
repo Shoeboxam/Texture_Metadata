@@ -1,0 +1,87 @@
+{
+  "group_name": "logisticspipes\\assets\\logisticspipes\\textures\\blocks\\pipes\\overlay_gen\\invsyscon_con\\un-powered-pipe.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0,
+        0.5
+      ],
+      "lightness": 0.41666666666666663,
+      "sats": [
+        1.0,
+        2.220446049250313e-16,
+        0.0
+      ],
+      "vals": [
+        0.0,
+        1.0
+      ],
+      "variance": 0.9367496997597599
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0,
+        0.34117647058823525
+      ],
+      "lightness": 0.9166666666666666,
+      "sats": [
+        1.0,
+        0.0
+      ],
+      "vals": [
+        0.0,
+        1.0
+      ],
+      "variance": 0.42579531807261806
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.0,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.0
+      ],
+      "variance": Infinity
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.4666666666666667,
+      "sats": [
+        1.0,
+        0.0
+      ],
+      "vals": [
+        0.0,
+        1.0
+      ],
+      "variance": 0.8363836604997855
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.14285714285714285,
+      "sats": [
+        1.0,
+        0.0
+      ],
+      "vals": [
+        0.0,
+        2.7755575615628914e-17,
+        1.0
+      ],
+      "variance": 2.7321866242992994
+    }
+  ]
+}

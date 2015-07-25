@@ -1,0 +1,41 @@
+{
+  "group_name": "thermalfoundation\\assets\\thermalfoundation\\textures\\items\\tool\\electrum\\ElectrumFishingRod_Cast.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.5241830065359477,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.44313725490196076,
+        0.4823529411764706,
+        0.7098039215686275
+      ],
+      "variance": 0.5149364588840843
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.549342105263158,
+        0.5506340107694981,
+        0.5515830665243686
+      ],
+      "lightness": 0.4688453159041394,
+      "sats": [
+        0.9068998109640831,
+        0.6809593023255813,
+        0.374384236453202
+      ],
+      "vals": [
+        0.33192156862745104,
+        0.7708683473389355,
+        0.7960784313725491
+      ],
+      "variance": 0.5757142751278379
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "group_name": "extrautils\\assets\\extrautils\\textures\\blocks\\ConnectedTextures\\glass3_corners.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.996078431372549,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.996078431372549
+      ],
+      "variance": 0.43938154320227457
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.5208333333333334,
+        0.5241935483870969
+      ],
+      "lightness": 0.8743618201997779,
+      "sats": [
+        0.2440944881889764,
+        0.18264840182648404
+      ],
+      "vals": [
+        0.8588235294117647,
+        0.996078431372549
+      ],
+      "variance": 0.5005461906227486
+    }
+  ]
+}

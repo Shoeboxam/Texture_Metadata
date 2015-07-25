@@ -1,0 +1,35 @@
+{
+  "group_name": "thaumicenergistics\\assets\\thaumicenergistics\\textures\\blocks\\parts\\essentia.import.bus.chamber.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.5886850152905199
+      ],
+      "lightness": 0.8039215686274528,
+      "sats": [
+        0.5317073170731708
+      ],
+      "vals": [
+        0.803921568627451
+      ],
+      "variance": 0.42431772616152325
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.1889576883384933,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.15686274509803924,
+        0.21250000000000002,
+        0.23921568627450981
+      ],
+      "variance": 1.8052621992344475
+    }
+  ]
+}

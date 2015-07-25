@@ -1,0 +1,23 @@
+{
+  "group_name": "bibliocraft\\assets\\bibliocraft\\textures\\items\\tfc\\lampBrass.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.16666666666666666
+      ],
+      "lightness": 0.7849758085052203,
+      "sats": [
+        0.8611031723349529,
+        0.8609877188398223,
+        0.8602877070619006
+      ],
+      "vals": [
+        0.7623093681917211,
+        0.7898864809081527,
+        0.817825311942959
+      ],
+      "variance": 0.13416430123904474
+    }
+  ]
+}

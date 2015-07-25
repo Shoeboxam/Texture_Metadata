@@ -1,0 +1,21 @@
+{
+  "group_name": "binniecore\\assets\\extratrees\\textures\\blocks\\patterns\\ornatestripedcorner2.0.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.805511393746688,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.630030959752322,
+        0.7238095238095238,
+        0.9325490196078432
+      ],
+      "variance": 0.5107176216836541
+    }
+  ]
+}

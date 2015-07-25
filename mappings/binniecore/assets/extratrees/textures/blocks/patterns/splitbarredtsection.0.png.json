@@ -1,0 +1,21 @@
+{
+  "group_name": "binniecore\\assets\\extratrees\\textures\\blocks\\patterns\\splitbarredtsection.0.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.8557635175282234,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.6740196078431373,
+        0.905341446923597,
+        0.9850057670126875
+      ],
+      "variance": 0.5110407611623627
+    }
+  ]
+}

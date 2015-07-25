@@ -1,0 +1,52 @@
+{
+  "group_name": "binniecore\\assets\\botany\\textures\\blocks\\ceramic\\thickcorner4.1.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.8375350140056022,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.6274509803921569,
+        0.7745098039215685,
+        0.9215686274509803
+      ],
+      "variance": 0.2404143989087903
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.7843137254901961,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.6078431372549019,
+        0.9607843137254902
+      ],
+      "variance": 0.25672823312045817
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.815126050420168,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.673202614379085,
+        0.8823529411764706,
+        0.9607843137254902
+      ],
+      "variance": 0.24702372946298387
+    }
+  ]
+}

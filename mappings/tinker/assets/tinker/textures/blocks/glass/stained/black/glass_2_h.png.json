@@ -1,0 +1,94 @@
+{
+  "group_name": "nuclearcontrol\\assets\\nuclearcontrol\\textures\\blocks\\infoPanel\\off\\0\\15.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.3812668561848529,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.3215686274509804,
+        0.5686274509803921
+      ],
+      "variance": 0.26562068236780123
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.27573723481008655,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.0,
+        0.3215686274509804,
+        0.32156862745098047
+      ],
+      "variance": 0.36727851635198305
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.321568627450981,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.3215686274509804
+      ],
+      "variance": 0.31493234681136495
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.38411516505336296,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.3215686274509804,
+        0.5686274509803921
+      ],
+      "variance": 0.2636510393698665
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.32156862745098025,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.3215686274509804
+      ],
+      "variance": 0.31493234681136567
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.20484264880329356,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.0,
+        0.3215686274509804
+      ],
+      "variance": 0.49439100253627777
+    }
+  ]
+}

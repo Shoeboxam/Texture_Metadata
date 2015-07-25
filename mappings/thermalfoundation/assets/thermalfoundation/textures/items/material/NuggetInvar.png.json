@@ -1,0 +1,25 @@
+{
+  "group_name": "thermalfoundation\\assets\\thermalfoundation\\textures\\items\\material\\NuggetBronze.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.41979949874686745,
+        0.42434988179669025,
+        0.4285714285714286
+      ],
+      "lightness": 0.6612456747404845,
+      "sats": [
+        0.0983949755757154,
+        0.04683098591549295,
+        0.004794520547945188
+      ],
+      "vals": [
+        0.46830065359477124,
+        0.696078431372549,
+        0.9542483660130718
+      ],
+      "variance": 0.28846131493290517
+    }
+  ]
+}

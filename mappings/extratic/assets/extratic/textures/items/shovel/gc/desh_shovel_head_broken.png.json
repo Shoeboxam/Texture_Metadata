@@ -1,0 +1,24 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\shovel\\natura\\darkwood_shovel_head.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0,
+        0.5
+      ],
+      "lightness": 0.15816993464052287,
+      "sats": [
+        0.8910891089108911,
+        7.173315995255445e-16,
+        1.3787672302568908e-16
+      ],
+      "vals": [
+        0.058039215686274515,
+        0.20130718954248367,
+        0.5941176470588234
+      ],
+      "variance": 1.7586367786836123
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "group_name": "alchemicalwizardry\\assets\\alchemicalwizardry\\textures\\items\\AverageLengtheningCatalyst.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.549032258064516,
+        0.5501718213058419,
+        0.5509763851044505
+      ],
+      "lightness": 0.4430520034100597,
+      "sats": [
+        0.640495867768595,
+        0.6143128562381254,
+        0.6096345514950167
+      ],
+      "vals": [
+        0.3650075414781297,
+        0.4128104575163399,
+        0.5246187363834423
+      ],
+      "variance": 0.48659881125218296
+    }
+  ]
+}

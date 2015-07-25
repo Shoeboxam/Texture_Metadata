@@ -1,0 +1,56 @@
+{
+  "group_name": "thermalfoundation\\assets\\thermalfoundation\\textures\\items\\tool\\invar\\InvarPickaxe.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.21973434535104364,
+      "sats": [
+        1.0,
+        2.129263472318102e-16
+      ],
+      "vals": [
+        0.13035294117647062,
+        0.38823529411764707,
+        1.0
+      ],
+      "variance": 1.8788391319876356
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.1377410468319559,
+        0.14236111111111108,
+        0.1424908424908425
+      ],
+      "lightness": 0.8460504201680672,
+      "sats": [
+        0.6142131979695431,
+        0.4671457905544148,
+        0.23539901917075354
+      ],
+      "vals": [
+        0.7725490196078432,
+        0.9549019607843137,
+        0.9773420479302832
+      ],
+      "variance": 0.4879679471174009
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 1.0,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        1.0
+      ],
+      "variance": 0.4128454866872262
+    }
+  ]
+}

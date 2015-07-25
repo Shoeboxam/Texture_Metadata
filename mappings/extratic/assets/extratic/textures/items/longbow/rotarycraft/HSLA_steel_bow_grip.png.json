@@ -1,0 +1,22 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\longbow\\fun_stuff\\pokefennium_bow_grip.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.6578947368421052,
+        0.660919540229885
+      ],
+      "lightness": 0.5176470588235293,
+      "sats": [
+        0.18269230769230774,
+        0.18125000000000008
+      ],
+      "vals": [
+        0.40784313725490196,
+        0.6274509803921569
+      ],
+      "variance": 0.07674974336503448
+    }
+  ]
+}

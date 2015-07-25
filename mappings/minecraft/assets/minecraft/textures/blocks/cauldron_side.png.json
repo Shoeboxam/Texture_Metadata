@@ -1,0 +1,52 @@
+{
+  "group_name": "minecraft\\assets\\minecraft\\textures\\blocks\\cauldron_side.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.24702317290552583,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.2008222643896268,
+        0.24475703324808185,
+        0.29358288770053476
+      ],
+      "variance": 0.2849576048840147
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.23287303830959372,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.1607843137254902,
+        0.2372549019607843
+      ],
+      "variance": 0.30227256969279026
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.23249277767533344,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.1607843137254902,
+        0.22794117647058823,
+        0.25098039215686274
+      ],
+      "variance": 0.30276696078837684
+    }
+  ]
+}

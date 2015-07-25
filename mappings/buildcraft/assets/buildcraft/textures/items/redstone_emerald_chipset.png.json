@@ -1,0 +1,36 @@
+{
+  "group_name": "buildcraft\\assets\\buildcraft\\textures\\items\\redstone_quartz_chipset.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.32115583075335397,
+      "sats": [
+        1.0
+      ],
+      "vals": [
+        0.20452488687782805,
+        0.3166013071895425,
+        0.4796078431372549
+      ],
+      "variance": 0.5541195699878991
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.3333333333333333
+      ],
+      "lightness": 0.7490196078431373,
+      "sats": [
+        1.0
+      ],
+      "vals": [
+        0.4980392156862745,
+        1.0
+      ],
+      "variance": 0.23758888148282475
+    }
+  ]
+}

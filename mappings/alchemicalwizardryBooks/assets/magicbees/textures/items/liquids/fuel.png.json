@@ -1,0 +1,23 @@
+{
+  "group_name": "alchemicalwizardryBooks\\assets\\magicbees\\textures\\items\\liquids\\juice.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.15710034013605442,
+        0.16666666666666666
+      ],
+      "lightness": 0.8684095860566451,
+      "sats": [
+        1.0,
+        0.45490196078431366
+      ],
+      "vals": [
+        0.7686274509803923,
+        0.9260504201680673,
+        1.0
+      ],
+      "variance": 0.09189648220540014
+    }
+  ]
+}

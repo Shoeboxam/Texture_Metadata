@@ -1,0 +1,37 @@
+{
+  "group_name": "binniecore\\assets\\extratrees\\textures\\blocks\\patterns\\crossed.1.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.877859477124183,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.702865761689291,
+        0.907843137254902,
+        0.9895424836601308
+      ],
+      "variance": 0.4156075194318992
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.6764705882352942,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.6190476190476191,
+        0.696078431372549,
+        0.9215686274509803
+      ],
+      "variance": 0.5393360865091494
+    }
+  ]
+}

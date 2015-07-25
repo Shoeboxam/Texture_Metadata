@@ -1,0 +1,51 @@
+{
+  "group_name": "witchery\\assets\\witchery\\textures\\items\\ingredient.attunedStone.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.984313725490196,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.984313725490196
+      ],
+      "variance": 0.46339684475362675
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.796078431372549,
+      "sats": [
+        0.7980295566502463
+      ],
+      "vals": [
+        0.796078431372549
+      ],
+      "variance": 0.5729685124786222
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.946160130718954,
+      "sats": [
+        0.7937853107344632,
+        0.6343825665859564,
+        0.28860133759813905
+      ],
+      "vals": [
+        0.8329411764705882,
+        0.9966817496229261,
+        0.9989832970225128
+      ],
+      "variance": 0.4820831694665138
+    }
+  ]
+}

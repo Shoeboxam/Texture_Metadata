@@ -1,0 +1,24 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\lumberaxe\\metallurgy3\\precious\\brass_lumberaxe_binding.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0,
+        0.04972375690607735,
+        0.069281045751634
+      ],
+      "lightness": 0.8759358288770054,
+      "sats": [
+        1.0,
+        0.976470588235294
+      ],
+      "vals": [
+        0.6666666666666666,
+        0.9937254901960785,
+        1.0
+      ],
+      "variance": 0.04718886155666708
+    }
+  ]
+}

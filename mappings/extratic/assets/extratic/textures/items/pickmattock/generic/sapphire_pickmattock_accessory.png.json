@@ -1,0 +1,25 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\pickaxe\\tcon\\glue_pickaxe_accessory.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.6223776223776224,
+        0.6228956228956228,
+        0.6236730360934182
+      ],
+      "lightness": 0.5058823529411764,
+      "sats": [
+        0.7388235294117648,
+        0.7371134020618557,
+        0.4520547945205479
+      ],
+      "vals": [
+        0.3333333333333333,
+        0.7607843137254902,
+        0.8588235294117647
+      ],
+      "variance": 0.10945109522091312
+    }
+  ]
+}

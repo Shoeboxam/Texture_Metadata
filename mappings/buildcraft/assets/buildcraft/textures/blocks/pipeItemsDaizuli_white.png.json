@@ -1,0 +1,53 @@
+{
+  "group_name": "buildcraft\\assets\\buildcraft\\textures\\blocks\\pipeItemsLapis_lightgray.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.8941176470588235,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.8941176470588236
+      ],
+      "variance": 0.4010803333564906
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.5467091295116773,
+        0.0
+      ],
+      "lightness": 0.8392156862745099,
+      "sats": [
+        0.9127906976744186,
+        0.0
+      ],
+      "vals": [
+        0.6745098039215687,
+        0.8941176470588236
+      ],
+      "variance": 0.427319233669532
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.5467091295116773,
+        0.0
+      ],
+      "lightness": 0.6870588235294118,
+      "sats": [
+        0.9127906976744186,
+        0.0
+      ],
+      "vals": [
+        0.6745098039215687,
+        0.8941176470588236
+      ],
+      "variance": 0.5219538584776248
+    }
+  ]
+}

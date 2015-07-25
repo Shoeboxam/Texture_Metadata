@@ -1,0 +1,23 @@
+{
+  "group_name": "minecraft\\assets\\minecraft\\textures\\items\\porkchop_raw.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.8071266968325792,
+      "sats": [
+        0.5267447784004075,
+        0.5028300164323535,
+        0.2539463601532566
+      ],
+      "vals": [
+        0.481127450980392,
+        0.93384484228474,
+        0.9841628959276018
+      ],
+      "variance": 0.5254849123906961
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "group_name": "tinker\\assets\\tinker\\textures\\blocks\\glass\\stained\\purple\\glass_3_l.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.745098039215685,
+      "sats": [
+        0.7473684210526316
+      ],
+      "vals": [
+        0.7450980392156863
+      ],
+      "variance": 0.08281049917877713
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.8666542255573119,
+      "sats": [
+        0.7473684210526316,
+        0.23921568627450984
+      ],
+      "vals": [
+        0.7450980392156863,
+        1.0
+      ],
+      "variance": 0.07119556882665724
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.8055983300824694,
+      "sats": [
+        0.7473684210526316,
+        0.23921568627450984
+      ],
+      "vals": [
+        0.7450980392156863,
+        1.0
+      ],
+      "variance": 0.07659144546422096
+    }
+  ]
+}

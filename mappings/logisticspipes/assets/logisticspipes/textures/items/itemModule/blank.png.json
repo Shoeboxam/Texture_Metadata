@@ -1,0 +1,36 @@
+{
+  "group_name": "harvestcraft\\assets\\harvestcraft\\textures\\items\\sweetpotatoseedboxItem.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.8333333333333334,
+        0.1606280193236715
+      ],
+      "lightness": 0.9762229102167184,
+      "sats": [
+        0.6666666666666666,
+        1.1102230246251565e-16
+      ],
+      "vals": [
+        0.8117647058823529,
+        1.0
+      ],
+      "variance": 0.040756570453968174
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 1.0,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        1.0
+      ],
+      "variance": 0.03978749781902553
+    }
+  ]
+}

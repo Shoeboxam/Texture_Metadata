@@ -1,0 +1,35 @@
+{
+  "group_name": "binniecore\\assets\\botany\\textures\\blocks\\flowers\\fuchsia-wip.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.3517060367454068
+      ],
+      "lightness": 0.4980392156862745,
+      "sats": [
+        1.0
+      ],
+      "vals": [
+        0.4980392156862745
+      ],
+      "variance": 0.47342550758635005
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.7830065359477124,
+        0.9639865996649917
+      ],
+      "lightness": 1.0,
+      "sats": [
+        1.0,
+        0.7803921568627451
+      ],
+      "vals": [
+        1.0
+      ],
+      "variance": 0.2357844684841822
+    }
+  ]
+}

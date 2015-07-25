@@ -1,0 +1,21 @@
+{
+  "group_name": "forestry\\assets\\forestry\\textures\\items\\liquids\\can.bottle.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.7489164086687305,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.6274509803921569,
+        0.7180265654648956,
+        0.865359477124183
+      ],
+      "variance": 0.24515881660812908
+    }
+  ]
+}

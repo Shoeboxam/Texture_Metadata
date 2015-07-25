@@ -1,0 +1,23 @@
+{
+  "group_name": "natura\\assets\\natura\\textures\\blocks\\nlever.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0,
+        0.023206751054852315
+      ],
+      "lightness": 0.6400000000000001,
+      "sats": [
+        0.46470588235294125,
+        0.0
+      ],
+      "vals": [
+        0.43137254901960786,
+        0.6666666666666667,
+        0.7006535947712419
+      ],
+      "variance": 0.2734948851946939
+    }
+  ]
+}

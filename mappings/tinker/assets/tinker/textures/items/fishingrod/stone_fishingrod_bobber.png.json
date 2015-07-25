@@ -1,0 +1,20 @@
+{
+  "group_name": "tinker\\assets\\tinker\\textures\\items\\fishingrod\\slime_fishingrod_bobber.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.21512605042016808,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.1803921568627451,
+        0.4235294117647059
+      ],
+      "variance": 0.17570708794348827
+    }
+  ]
+}

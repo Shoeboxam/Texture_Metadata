@@ -1,0 +1,51 @@
+{
+  "group_name": "binniecore\\assets\\extratrees\\textures\\blocks\\patterns\\thickroundedbarredend2.0.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.9186688760011046,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.671280276816609,
+        0.9061899269511726,
+        0.9841017488076311
+      ],
+      "variance": 0.4964603142393143
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.6666666666666666,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.6666666666666666
+      ],
+      "variance": 0.6841239582920792
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.7675070028011204,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.6323529411764706,
+        0.9215686274509803,
+        0.9607843137254902
+      ],
+      "variance": 0.594239058662463
+    }
+  ]
+}

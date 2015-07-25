@@ -1,0 +1,22 @@
+{
+  "group_name": "witchery\\assets\\witchery\\textures\\items\\ingredient.brewRevealing.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.5,
+        0.5698005698005698
+      ],
+      "lightness": 1.0,
+      "sats": [
+        0.9372549019607843,
+        0.9176470588235295,
+        0.13921568627450975
+      ],
+      "vals": [
+        1.0
+      ],
+      "variance": 0.3566526715648031
+    }
+  ]
+}

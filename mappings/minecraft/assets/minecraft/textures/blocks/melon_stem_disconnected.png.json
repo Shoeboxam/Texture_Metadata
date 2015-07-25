@@ -1,0 +1,21 @@
+{
+  "group_name": "minecraft\\assets\\minecraft\\textures\\blocks\\melon_stem_disconnected.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.6030252100840336,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.3019607843137255,
+        0.5204481792717087,
+        0.7418685121107267
+      ],
+      "variance": 0.35689922049595824
+    }
+  ]
+}

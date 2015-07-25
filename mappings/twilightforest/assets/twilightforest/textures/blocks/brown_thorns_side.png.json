@@ -1,0 +1,39 @@
+{
+  "group_name": "twilightforest\\assets\\twilightforest\\textures\\blocks\\green_thorns_side.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.0,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.0
+      ],
+      "variance": Infinity
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.037812041116005925,
+        0.056301267710663704,
+        0.06757188498402554
+      ],
+      "lightness": 0.29231584525702176,
+      "sats": [
+        0.5858132135504398,
+        0.5633980337786741,
+        0.527293844367015
+      ],
+      "vals": [
+        0.16470588235294115,
+        0.2880900508351489,
+        0.395338512763596
+      ],
+      "variance": 0.5518157273867126
+    }
+  ]
+}

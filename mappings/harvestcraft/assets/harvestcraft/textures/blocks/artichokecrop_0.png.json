@@ -1,0 +1,23 @@
+{
+  "group_name": "harvestcraft\\assets\\harvestcraft\\textures\\blocks\\pineapplecrop_0.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.25757575757575757,
+        0.2743055555555555,
+        0.2839506172839506
+      ],
+      "lightness": 0.48188235294117654,
+      "sats": [
+        1.0
+      ],
+      "vals": [
+        0.33882352941176475,
+        0.5019607843137255,
+        0.6901960784313725
+      ],
+      "variance": 0.6071734736305469
+    }
+  ]
+}

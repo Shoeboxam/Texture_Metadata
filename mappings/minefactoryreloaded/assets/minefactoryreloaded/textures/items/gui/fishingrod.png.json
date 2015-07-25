@@ -1,0 +1,35 @@
+{
+  "group_name": "minefactoryreloaded\\assets\\minefactoryreloaded\\textures\\items\\gui\\fishingrod.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.3437908496732026,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.1377995642701526,
+        0.5098039215686274,
+        0.7764705882352942
+      ],
+      "variance": 0.6628775755824723
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 1.0,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        1.0
+      ],
+      "variance": 0.22789124493881074
+    }
+  ]
+}

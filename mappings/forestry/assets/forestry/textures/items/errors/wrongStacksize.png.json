@@ -1,0 +1,50 @@
+{
+  "group_name": "forestry\\assets\\forestry\\textures\\items\\errors\\wrongStacksize.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0,
+        0.007853403141361256
+      ],
+      "lightness": 0.9872549019607844,
+      "sats": [
+        0.7490196078431374,
+        0.0
+      ],
+      "vals": [
+        0.9607843137254902,
+        1.0
+      ],
+      "variance": 0.17491057774061725
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.9607843137254901,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.9607843137254902
+      ],
+      "variance": 0.17972954263755264
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.6550387596899224
+      ],
+      "lightness": 0.7372549019607844,
+      "sats": [
+        0.6861702127659574
+      ],
+      "vals": [
+        0.7372549019607844
+      ],
+      "variance": 0.23422201035212975
+    }
+  ]
+}

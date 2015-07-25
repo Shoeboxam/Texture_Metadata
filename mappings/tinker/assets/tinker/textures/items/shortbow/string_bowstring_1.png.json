@@ -1,0 +1,61 @@
+{
+  "group_name": "tinker\\assets\\tinker\\textures\\items\\shortbow\\_bowstring_1.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.2666666666666666,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.26666666666666666
+      ],
+      "variance": 0.5847321005465034
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.2666666666666666,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.26666666666666666
+      ],
+      "variance": 0.5847321005465034
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.2666666666666666,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.26666666666666666
+      ],
+      "variance": 0.5847321005465034
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.26666666666666666,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.26666666666666666
+      ],
+      "variance": 0.5847321005465033
+    }
+  ]
+}

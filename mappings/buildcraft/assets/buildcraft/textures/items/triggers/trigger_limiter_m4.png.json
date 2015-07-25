@@ -1,0 +1,47 @@
+{
+  "group_name": "buildcraft\\assets\\buildcraft\\textures\\items\\triggers\\trigger_limiter_m8.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.4980392156862745,
+      "sats": [
+        1.0
+      ],
+      "vals": [
+        0.4980392156862745
+      ],
+      "variance": 0.4269430460386129
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 1.0,
+      "sats": [
+        1.0
+      ],
+      "vals": [
+        1.0
+      ],
+      "variance": 0.21263437979177977
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.4980392156862745,
+      "sats": [
+        1.0
+      ],
+      "vals": [
+        0.4980392156862745
+      ],
+      "variance": 0.4269430460386129
+    }
+  ]
+}

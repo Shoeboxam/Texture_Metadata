@@ -1,0 +1,51 @@
+{
+  "group_name": "binniecore\\assets\\botany\\textures\\blocks\\ceramic\\thincurvedbarredcorner4.0.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.896845694799659,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.6519607843137255,
+        0.9103641456582633,
+        0.9705882352941176
+      ],
+      "variance": 0.386529695227101
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.8004201680672267,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.6339869281045751,
+        0.7287581699346405,
+        0.9487179487179487
+      ],
+      "variance": 0.43309440079917416
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 1.0,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        1.0
+      ],
+      "variance": 0.34665749307664984
+    }
+  ]
+}

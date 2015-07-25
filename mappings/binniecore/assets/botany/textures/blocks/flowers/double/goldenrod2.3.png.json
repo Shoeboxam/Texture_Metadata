@@ -1,0 +1,35 @@
+{
+  "group_name": "binniecore\\assets\\botany\\textures\\blocks\\flowers\\double\\goldenrod2.2.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.9341176470588235,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.8666666666666667,
+        0.9372549019607843,
+        1.0
+      ],
+      "variance": 0.043047062415650365
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.8784313725490196,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.8784313725490196
+      ],
+      "variance": 0.04577593869378534
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "group_name": "binniecore\\assets\\extratrees\\textures\\blocks\\fruit\\larger.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.7859649122807018,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.4470588235294118,
+        0.9037037037037037,
+        0.946218487394958
+      ],
+      "variance": 0.5715906715521762
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.4470588235294118,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.4470588235294118
+      ],
+      "variance": 1.0049017900603356
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.631578947368421,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.44705882352941184,
+        0.9019607843137255,
+        0.9823529411764707
+      ],
+      "variance": 0.7113128357093749
+    }
+  ]
+}

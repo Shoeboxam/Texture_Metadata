@@ -1,0 +1,21 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\frypan\\metallurgy3\\precious\\brass_frypan_head.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.3066277750769729,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.10588235294117665,
+        0.23529411764705882,
+        0.420403523728332
+      ],
+      "variance": 1.1735860113938892
+    }
+  ]
+}

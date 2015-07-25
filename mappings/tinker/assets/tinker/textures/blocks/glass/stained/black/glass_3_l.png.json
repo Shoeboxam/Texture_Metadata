@@ -1,0 +1,49 @@
+{
+  "group_name": "tinker\\assets\\tinker\\textures\\blocks\\glass\\stained\\black\\glass_3_l.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.32156862745098014,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.3215686274509804
+      ],
+      "variance": 0.1859740478742892
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.3884008300109578,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.3215686274509804,
+        0.5686274509803921
+      ],
+      "variance": 0.15397345910602414
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.3494364340096126,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.3215686274509804,
+        0.5686274509803921
+      ],
+      "variance": 0.17114248399980214
+    }
+  ]
+}

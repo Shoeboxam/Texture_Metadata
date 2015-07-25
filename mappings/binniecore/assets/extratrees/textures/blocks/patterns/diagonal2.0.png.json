@@ -1,0 +1,36 @@
+{
+  "group_name": "binniecore\\assets\\extratrees\\textures\\blocks\\patterns\\diagonal2.0.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.8797953964194374,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.6800825593395252,
+        0.8929517753047165,
+        0.9716775599128541
+      ],
+      "variance": 0.4987031080586211
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.9852941176470589,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.9607843137254902,
+        1.0
+      ],
+      "variance": 0.44530530609257796
+    }
+  ]
+}

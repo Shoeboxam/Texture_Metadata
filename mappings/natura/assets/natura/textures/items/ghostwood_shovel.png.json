@@ -1,0 +1,51 @@
+{
+  "group_name": "minecraft\\assets\\minecraft\\textures\\items\\iron_shovel.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.1568627450980392,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.1568627450980392
+      ],
+      "variance": 1.5786529775785285
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.5439045183290707,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.15686274509803916,
+        0.6078431372549019,
+        0.7764705882352941
+      ],
+      "variance": 0.4552854982358139
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.3509019607843137,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.2056644880174292,
+        0.6078431372549019,
+        0.8117647058823529
+      ],
+      "variance": 0.7057009287342552
+    }
+  ]
+}

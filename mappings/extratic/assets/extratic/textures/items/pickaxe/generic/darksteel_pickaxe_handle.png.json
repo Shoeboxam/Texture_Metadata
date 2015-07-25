@@ -1,0 +1,21 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\pickaxe\\natura\\ghostwood_pickaxe_handle.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.2271979759645794,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.1322128851540616,
+        0.24313725490196078,
+        0.5490196078431372
+      ],
+      "variance": 0.8326407541351756
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "group_name": "minefactoryreloaded\\assets\\minefactoryreloaded\\textures\\items\\gui\\reusablenet.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.35882352941176465,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.2156862745098037,
+        0.3568627450980392,
+        0.7764705882352945
+      ],
+      "variance": 0.5450810042515839
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "group_name": "binniecore\\assets\\botany\\textures\\items\\masterBotanistDatabase.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.520973422990714,
+        0.7691503267973857,
+        0.0
+      ],
+      "lightness": 0.9118391660461653,
+      "sats": [
+        1.0,
+        0.8525798525798526,
+        0.0
+      ],
+      "vals": [
+        0.0,
+        0.9576470588235293,
+        1.0
+      ],
+      "variance": 0.4728229217477956
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.8616838487972509,
+        0.0
+      ],
+      "lightness": 0.8,
+      "sats": [
+        0.7607843137254902,
+        0.0
+      ],
+      "vals": [
+        0.0,
+        1.0
+      ],
+      "variance": 0.5389230733175265
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.0,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.0
+      ],
+      "variance": Infinity
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.5,
+        0.5503267973856208
+      ],
+      "lightness": 0.9999999999999999,
+      "sats": [
+        1.0
+      ],
+      "vals": [
+        1.0
+      ],
+      "variance": 0.4311384586540213
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.6620370370370371,
+        0.7830065359477124,
+        0.8616838487972509
+      ],
+      "lightness": 0.10294117647058823,
+      "sats": [
+        1.0,
+        0.7607843137254902
+      ],
+      "vals": [
+        1.249000902703301e-16,
+        1.0
+      ],
+      "variance": 4.1882021697819205
+    }
+  ]
+}

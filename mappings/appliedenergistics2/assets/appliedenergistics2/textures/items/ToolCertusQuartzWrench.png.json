@@ -1,0 +1,49 @@
+{
+  "group_name": "appliedenergistics2\\assets\\appliedenergistics2\\textures\\items\\ToolCertusQuartzWrench.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.10416666666666667
+      ],
+      "lightness": 0.2156862745098039,
+      "sats": [
+        0.2909090909090909
+      ],
+      "vals": [
+        0.21568627450980393
+      ],
+      "variance": 1.2947680597359499
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.5873015873015873
+      ],
+      "lightness": 0.38823529411764707,
+      "sats": [
+        0.42424242424242425
+      ],
+      "vals": [
+        0.38823529411764707
+      ],
+      "variance": 0.7193155887421944
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.5864197530864197,
+        0.6374269005847953
+      ],
+      "lightness": 0.9999999999999999,
+      "sats": [
+        0.42352941176470593,
+        0.22352941176470587
+      ],
+      "vals": [
+        1.0
+      ],
+      "variance": 0.27926369915873434
+    }
+  ]
+}

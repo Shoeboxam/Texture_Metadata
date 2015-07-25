@@ -1,0 +1,49 @@
+{
+  "group_name": "tinker\\assets\\tinker\\textures\\blocks\\glass\\glass_clear.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.19032114843865622,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.0,
+        1.0
+      ],
+      "variance": 2.162558143250189
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.22580645161290322,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        1.1102230246251565e-16,
+        1.0
+      ],
+      "variance": 1.8227138615787233
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.0,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.0
+      ],
+      "variance": Infinity
+    }
+  ]
+}

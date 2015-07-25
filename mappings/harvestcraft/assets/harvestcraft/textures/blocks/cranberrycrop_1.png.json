@@ -1,0 +1,36 @@
+{
+  "group_name": "harvestcraft\\assets\\harvestcraft\\textures\\blocks\\cranberrycrop_2.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.2554347826086956
+      ],
+      "lightness": 0.47058823529411764,
+      "sats": [
+        0.7666666666666667
+      ],
+      "vals": [
+        0.47058823529411764
+      ],
+      "variance": 0.5742517283362929
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.2554347826086956,
+        0.28235294117647064
+      ],
+      "lightness": 0.4019607843137255,
+      "sats": [
+        1.0,
+        0.7666666666666667
+      ],
+      "vals": [
+        0.3333333333333333,
+        0.47058823529411764
+      ],
+      "variance": 0.6722947063449283
+    }
+  ]
+}

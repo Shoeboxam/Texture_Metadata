@@ -1,0 +1,39 @@
+{
+  "group_name": "alchemicalwizardry\\assets\\alchemicalwizardry\\textures\\items\\TankSegmenter2.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.3333333333333333
+      ],
+      "lightness": 0.32549019607843144,
+      "sats": [
+        1.0
+      ],
+      "vals": [
+        0.3254901960784314
+      ],
+      "variance": 0.962457381765717
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.3763982102908277,
+        0.39606741573033705,
+        0.39613526570048313
+      ],
+      "lightness": 0.780392156862745,
+      "sats": [
+        1.0,
+        0.7325102880658436,
+        0.2705882352941177
+      ],
+      "vals": [
+        0.584313725490196,
+        0.9529411764705882,
+        1.0
+      ],
+      "variance": 0.4014269481736409
+    }
+  ]
+}

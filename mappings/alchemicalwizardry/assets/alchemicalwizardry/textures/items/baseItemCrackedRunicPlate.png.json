@@ -1,0 +1,21 @@
+{
+  "group_name": "alchemicalwizardry\\assets\\alchemicalwizardry\\textures\\items\\baseItemScribedRunicPlate.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.11757944557133199,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.08510389230318993,
+        0.13885918003565062,
+        0.18082788671023967
+      ],
+      "variance": 3.7601088313473214
+    }
+  ]
+}

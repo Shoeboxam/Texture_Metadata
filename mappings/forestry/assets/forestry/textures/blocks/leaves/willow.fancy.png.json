@@ -1,0 +1,21 @@
+{
+  "group_name": "forestry\\assets\\forestry\\textures\\blocks\\leaves\\willow.fancy.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.5936966197521953,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.5099423298731258,
+        0.6333333333333333,
+        0.788235294117647
+      ],
+      "variance": 0.2791821853868839
+    }
+  ]
+}

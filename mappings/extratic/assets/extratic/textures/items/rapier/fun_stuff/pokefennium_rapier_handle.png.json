@@ -1,0 +1,25 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\rapier\\metallurgy3\\nether\\kalendrite_rapier_handle.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.08167989417989423,
+        0.5493197278911565,
+        0.5943396226415093
+      ],
+      "lightness": 0.5574819401444788,
+      "sats": [
+        0.3444976076555024,
+        0.30170777988614794,
+        0.13783403656821394
+      ],
+      "vals": [
+        0.2952380952380952,
+        0.5576470588235295,
+        0.8196078431372549
+      ],
+      "variance": 0.2855333454545069
+    }
+  ]
+}

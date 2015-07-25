@@ -1,0 +1,39 @@
+{
+  "group_name": "extrautils\\assets\\extrautils\\textures\\blocks\\extractor_extract_remote.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.06958957496041894,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.019885749575420802,
+        0.24327731092436977,
+        0.3111111111111111
+      ],
+      "variance": 4.00470024346212
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.3333333333333333
+      ],
+      "lightness": 0.148969967733929,
+      "sats": [
+        1.0,
+        7.22987977729683e-15,
+        1.1441963619837786e-16
+      ],
+      "vals": [
+        0.019195046439628632,
+        0.24257703081232493,
+        0.9098039215686273
+      ],
+      "variance": 1.8707487960537603
+    }
+  ]
+}

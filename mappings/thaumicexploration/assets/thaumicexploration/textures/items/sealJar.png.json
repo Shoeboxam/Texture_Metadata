@@ -1,0 +1,35 @@
+{
+  "group_name": "thaumicexploration\\assets\\thaumicexploration\\textures\\items\\sealBlank.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.8338766832034019,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.615686274509804,
+        0.8094771241830065,
+        0.9335464620630861
+      ],
+      "variance": 0.16142838728074377
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.615686274509804,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.615686274509804
+      ],
+      "variance": 0.21863629860470007
+    }
+  ]
+}

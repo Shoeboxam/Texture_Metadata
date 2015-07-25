@@ -1,19 +1,33 @@
 {
-  "group_name": "assets\\minecraft\\textures\\blocks\\glass_purple.png",
+  "group_name": "assets\\minecraft\\textures\\blocks\\glass_gray.png",
   "segment_dicts": [
     {
       "equivalent": false,
       "hues": [
-        0.5562770562770564
+        0.7579998829998832
       ],
-      "lightness": 0.5999999999999983,
+      "lightness": 0.5999999999999999,
       "sats": [
-        0.5032679738562091
+        0.16122004357298475
       ],
       "vals": [
         0.6
       ],
-      "variance": 1.8503717077085995e-16
+      "variance": 1.8503717077085946e-16
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.7579998829998832
+      ],
+      "lightness": 0.6000000000000008,
+      "sats": [
+        0.16122004357298475
+      ],
+      "vals": [
+        0.6
+      ],
+      "variance": 1.8503717077085919e-16
     }
   ]
 }

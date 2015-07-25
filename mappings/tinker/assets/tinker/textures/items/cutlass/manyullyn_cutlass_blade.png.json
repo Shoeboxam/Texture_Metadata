@@ -1,0 +1,25 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\cutlass\\metallurgy3\\nether\\ceruclase_cutlass_blade.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.7494549418604652,
+        0.877777777777778,
+        0.10798122065727699
+      ],
+      "lightness": 0.4138178673639564,
+      "sats": [
+        1.0,
+        0.7123745819397992,
+        0.5428007889546351
+      ],
+      "vals": [
+        0.11764705882352952,
+        0.2931372549019608,
+        0.7100840336134453
+      ],
+      "variance": 0.7167829888373
+    }
+  ]
+}

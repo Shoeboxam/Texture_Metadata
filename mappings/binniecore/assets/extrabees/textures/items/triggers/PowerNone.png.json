@@ -1,0 +1,33 @@
+{
+  "group_name": "binniecore\\assets\\binniecore\\textures\\items\\triggers\\PowerLow.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.008012820512820503
+      ],
+      "lightness": 0.9999999999999999,
+      "sats": [
+        0.8156862745098039
+      ],
+      "vals": [
+        1.0
+      ],
+      "variance": 0.3307189138830739
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.008012820512820503
+      ],
+      "lightness": 1.0,
+      "sats": [
+        0.8156862745098039
+      ],
+      "vals": [
+        1.0
+      ],
+      "variance": 0.33071891388307384
+    }
+  ]
+}

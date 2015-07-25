@@ -1,0 +1,21 @@
+{
+  "group_name": "binniecore\\assets\\extratrees\\textures\\blocks\\patterns\\stripedcorner3.0.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.8839869281045751,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.6946182728410513,
+        0.9088649544324772,
+        0.9803921568627451
+      ],
+      "variance": 0.4477346707166062
+    }
+  ]
+}

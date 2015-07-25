@@ -1,0 +1,39 @@
+{
+  "group_name": "alchemicalwizardryBooks\\assets\\magicbees\\textures\\items\\nuggetDiamond.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.4122807017543859
+      ],
+      "lightness": 1.0,
+      "sats": [
+        0.14901960784313728
+      ],
+      "vals": [
+        1.0
+      ],
+      "variance": 0.23329463932698125
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.34367887440513134,
+        0.3961925287356322,
+        0.4720853858784893
+      ],
+      "lightness": 0.4851740330501488,
+      "sats": [
+        1.0,
+        0.7837837837837838,
+        0.6622264509990484
+      ],
+      "vals": [
+        0.30084033613445377,
+        0.338562091503268,
+        0.9159041394335511
+      ],
+      "variance": 0.48084733195699975
+    }
+  ]
+}

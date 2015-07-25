@@ -1,0 +1,24 @@
+{
+  "group_name": "projectred\\assets\\projectred\\textures\\items\\parts\\partanode.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0,
+        0.5
+      ],
+      "lightness": 0.5046984831668516,
+      "sats": [
+        0.5822857142857137,
+        2.178087092587742e-16,
+        1.537788545787153e-16
+      ],
+      "vals": [
+        0.2541757443718228,
+        0.5097238895558224,
+        0.7219607843137256
+      ],
+      "variance": 0.5416173154975708
+    }
+  ]
+}

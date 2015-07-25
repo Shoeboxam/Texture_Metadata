@@ -1,0 +1,25 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\cleaver\\erebus\\jade_cleaver_head_broken.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.15151515151515152,
+        0.15684754521963815,
+        0.15833333333333335
+      ],
+      "lightness": 0.6012846517917512,
+      "sats": [
+        0.1474959981705924,
+        0.1222222222222218,
+        0.10471204188481682
+      ],
+      "vals": [
+        0.3529411764705882,
+        0.7490196078431373,
+        0.9025799793601651
+      ],
+      "variance": 0.516104344550328
+    }
+  ]
+}

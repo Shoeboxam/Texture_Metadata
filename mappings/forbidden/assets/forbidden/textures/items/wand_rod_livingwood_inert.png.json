@@ -1,0 +1,21 @@
+{
+  "group_name": "forbidden\\assets\\forbidden\\textures\\items\\wand_rod_witchwood.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.22197902416780665,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.20118835412953062,
+        0.2754901960784314,
+        0.3509803921568627
+      ],
+      "variance": 0.3682809401482495
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "group_name": "appliedenergistics2\\assets\\appliedenergistics2\\textures\\items\\ItemMaterial.CertusQuartzCrystalCharged.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.2688581314878893,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.21176470588235294,
+        0.27058823529411763
+      ],
+      "variance": 1.1382430754902935
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.6379186817123409,
+        0.7322243196476325,
+        0.9268833087149188
+      ],
+      "lightness": 0.537174869947979,
+      "sats": [
+        0.6637254901960784,
+        0.5775915580384857,
+        0.5192354814996325
+      ],
+      "vals": [
+        0.2688360450563205,
+        0.7443684450524397,
+        1.0
+      ],
+      "variance": 0.5696951283014876
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.9215686274509803,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.9215686274509803
+      ],
+      "variance": 0.33207066445154876
+    }
+  ]
+}

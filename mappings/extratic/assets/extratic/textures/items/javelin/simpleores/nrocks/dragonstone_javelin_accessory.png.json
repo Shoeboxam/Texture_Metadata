@@ -1,0 +1,24 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\javelin\\aoa\\limonite_javelin_accessory.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.986111111111111,
+        0.9901960784313726,
+        0.0
+      ],
+      "lightness": 0.4235294117647058,
+      "sats": [
+        1.0,
+        0.5
+      ],
+      "vals": [
+        0.2823529411764706,
+        0.4,
+        0.5882352941176471
+      ],
+      "variance": 0.21467750016688283
+    }
+  ]
+}

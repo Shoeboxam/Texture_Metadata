@@ -1,0 +1,25 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\pickmattock\\aoa\\jade_pickmattock_head_broken.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.041666666666666664,
+        0.044217687074829926,
+        0.04973821989528795
+      ],
+      "lightness": 0.2818627450980392,
+      "sats": [
+        0.8565022421524664,
+        0.7424242424242425,
+        0.7272727272727273
+      ],
+      "vals": [
+        0.17254901960784313,
+        0.25882352941176473,
+        0.8745098039215686
+      ],
+      "variance": 0.5567278724054001
+    }
+  ]
+}

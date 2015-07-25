@@ -1,0 +1,25 @@
+{
+  "group_name": "tinker\\assets\\tinker\\textures\\items\\battlesign\\diamond_battlesign_effect.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.470679012345679,
+        0.4710144927536232,
+        0.47116430903155604
+      ],
+      "lightness": 0.8048552754435105,
+      "sats": [
+        0.7834612105711849,
+        0.7829787234042552,
+        0.7826086956521738
+      ],
+      "vals": [
+        0.5411764705882353,
+        0.7666666666666666,
+        0.9215686274509803
+      ],
+      "variance": 0.2792302605425615
+    }
+  ]
+}

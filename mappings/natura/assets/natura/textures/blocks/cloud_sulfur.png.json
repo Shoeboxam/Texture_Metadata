@@ -1,0 +1,23 @@
+{
+  "group_name": "chisel\\assets\\chisel\\textures\\blocks\\icepillar\\carved-top.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.16666666666666666
+      ],
+      "lightness": 0.8681525735294107,
+      "sats": [
+        0.3557247989046723,
+        0.3112767103609265,
+        0.26097485799832665
+      ],
+      "vals": [
+        0.8486564996368918,
+        0.8649194331197826,
+        0.8818093574063288
+      ],
+      "variance": 0.0159761133136324
+    }
+  ]
+}

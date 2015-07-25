@@ -1,0 +1,24 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\dagger\\metallurgy3\\precious\\brass_dagger_handle.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.04761904761904754,
+        0.04957264957264956,
+        0.0495867768595041
+      ],
+      "lightness": 0.7747899159663865,
+      "sats": [
+        0.9999999999999999,
+        0.7647058823529411,
+        0.2196078431372549
+      ],
+      "vals": [
+        0.4745098039215686,
+        1.0
+      ],
+      "variance": 0.10260920493104202
+    }
+  ]
+}

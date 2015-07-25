@@ -1,0 +1,36 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\lumberaxe\\ae\\certus_quartz_lumberaxe_shield.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.10082304526748971,
+        0.1011904761904762
+      ],
+      "lightness": 0.5003921568627451,
+      "sats": [
+        0.8057553956834532,
+        0.801980198019802
+      ],
+      "vals": [
+        0.396078431372549,
+        0.5450980392156862
+      ],
+      "variance": 0.322053468224424
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.10204081632653061
+      ],
+      "lightness": 0.24313725490196078,
+      "sats": [
+        0.7903225806451613
+      ],
+      "vals": [
+        0.24313725490196078
+      ],
+      "variance": 0.6628068152489759
+    }
+  ]
+}

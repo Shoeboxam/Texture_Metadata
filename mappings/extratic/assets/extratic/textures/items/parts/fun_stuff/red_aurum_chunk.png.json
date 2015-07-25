@@ -1,0 +1,24 @@
+{
+  "group_name": "extratic\\assets\\tinker\\textures\\items\\parts\\terrasteel_chunk.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.04881430483840125,
+        0.062049978822532825,
+        0.13147627965043693
+      ],
+      "lightness": 0.989983463264824,
+      "sats": [
+        0.9062784349408554,
+        0.620479302832244,
+        0.6172549019607844
+      ],
+      "vals": [
+        0.9731815306767868,
+        1.0
+      ],
+      "variance": 0.4687819002473459
+    }
+  ]
+}

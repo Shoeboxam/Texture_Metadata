@@ -1,0 +1,52 @@
+{
+  "group_name": "binniecore\\assets\\extratrees\\textures\\blocks\\patterns\\lettera2.1.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.867816091954023,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.6874057315233786,
+        0.9053843759726112,
+        0.9867065470255898
+      ],
+      "variance": 0.4604206303284315
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.7058823529411764,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.6862745098039216,
+        0.7254901960784313
+      ],
+      "variance": 0.5660439454277221
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.7666666666666666,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.6274509803921569,
+        0.6601307189542484,
+        0.9509803921568627
+      ],
+      "variance": 0.5211657809564705
+    }
+  ]
+}

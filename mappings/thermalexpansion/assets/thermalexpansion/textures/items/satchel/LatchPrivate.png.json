@@ -1,0 +1,25 @@
+{
+  "group_name": "thermalexpansion\\assets\\thermalexpansion\\textures\\items\\satchel\\LatchFriends.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.4766355140186916,
+        0.47935548841893255,
+        0.47965116279069764
+      ],
+      "lightness": 0.857843137254902,
+      "sats": [
+        0.8730964467005077,
+        0.7522727272727273,
+        0.4495798319327732
+      ],
+      "vals": [
+        0.7725490196078432,
+        0.8627450980392157,
+        0.9333333333333333
+      ],
+      "variance": 0.022173473936859135
+    }
+  ]
+}

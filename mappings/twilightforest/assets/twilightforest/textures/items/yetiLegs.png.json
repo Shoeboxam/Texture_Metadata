@@ -1,0 +1,39 @@
+{
+  "group_name": "twilightforest\\assets\\twilightforest\\textures\\items\\legsNaga.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.22222222222222224,
+        0.5991471215351813,
+        0.5992028343666962
+      ],
+      "lightness": 0.617394054395952,
+      "sats": [
+        0.505933117583603,
+        0.35784469096671956,
+        3.58136459556502e-16
+      ],
+      "vals": [
+        0.2908235294117646,
+        0.7277970011534026,
+        0.9300000000000003
+      ],
+      "variance": 0.5968586370608955
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.0,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.0
+      ],
+      "variance": Infinity
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "group_name": "harvestcraft\\assets\\harvestcraft\\textures\\items\\kiwiseedItem.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0,
+        0.012679346012679357,
+        0.22653942285844128
+      ],
+      "lightness": 0.5935115864527629,
+      "sats": [
+        0.8578947368421053,
+        0.7309594460929772,
+        0.5382543103448275
+      ],
+      "vals": [
+        0.462474645030426,
+        0.6996539792387544,
+        0.808714596949891
+      ],
+      "variance": 0.4610699668972988
+    }
+  ]
+}

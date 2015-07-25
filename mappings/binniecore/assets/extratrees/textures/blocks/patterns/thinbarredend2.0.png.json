@@ -1,0 +1,52 @@
+{
+  "group_name": "binniecore\\assets\\botany\\textures\\blocks\\ceramic\\thinbarredend2.0.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.8137254901960783,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.6176470588235294,
+        0.696078431372549,
+        0.9215686274509803
+      ],
+      "variance": 0.3791204409591821
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.8422459893048129,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.6778711484593838,
+        0.893048128342246,
+        0.9901960784313726
+      ],
+      "variance": 0.366282500101305
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.9117647058823529,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.8823529411764706,
+        0.9215686274509803
+      ],
+      "variance": 0.3383548021463668
+    }
+  ]
+}

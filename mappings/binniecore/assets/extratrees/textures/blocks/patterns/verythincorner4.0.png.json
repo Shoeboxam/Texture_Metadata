@@ -1,0 +1,21 @@
+{
+  "group_name": "computercraft\\assets\\computercraft\\textures\\blocks\\monitor23.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.8140522875816993,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.6881720430107526,
+        0.9052287581699346,
+        0.9792387543252595
+      ],
+      "variance": 0.43104554187242083
+    }
+  ]
+}

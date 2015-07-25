@@ -1,0 +1,23 @@
+{
+  "group_name": "minecraft\\assets\\minecraft\\textures\\items\\gold_sword.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0,
+        0.10784313725490212
+      ],
+      "lightness": 0.39056956115779645,
+      "sats": [
+        0.12017673048600865,
+        0.0
+      ],
+      "vals": [
+        0.22565636424061153,
+        0.5764705882352941,
+        0.8941176470588235
+      ],
+      "variance": 0.6182431169636833
+    }
+  ]
+}

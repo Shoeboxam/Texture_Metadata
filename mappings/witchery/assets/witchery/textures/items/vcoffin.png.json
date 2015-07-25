@@ -1,0 +1,67 @@
+{
+  "group_name": "witchery\\assets\\witchery\\textures\\items\\vcoffin.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.0,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.0
+      ],
+      "variance": Infinity
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.25323826500297086,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.0,
+        0.23137254901960785,
+        0.27107843137254906
+      ],
+      "variance": 1.5567435258980713
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.09008863819500404,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.0,
+        0.22323892519970956,
+        0.27450980392156865
+      ],
+      "variance": 4.375990551657571
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.18850889192886455,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.0,
+        0.2235294117647059,
+        0.27215686274509804
+      ],
+      "variance": 2.0912914267290903
+    }
+  ]
+}

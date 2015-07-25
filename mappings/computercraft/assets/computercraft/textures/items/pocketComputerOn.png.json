@@ -1,0 +1,79 @@
+{
+  "group_name": "computercraft\\assets\\computercraft\\textures\\items\\pocketComputerOnAdvanced.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.14117647058823532,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.1411764705882353
+      ],
+      "variance": 1.7353381491905377
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.1176470588235294,
+      "sats": [
+        0.1
+      ],
+      "vals": [
+        0.11764705882352941
+      ],
+      "variance": 2.082405779028646
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.6941176470588235,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.6941176470588235
+      ],
+      "variance": 0.35295013203875353
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.4983529411764706,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.49019607843137253,
+        0.6941176470588235
+      ],
+      "variance": 0.4915972094024187
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.2235294117647059,
+      "sats": [
+        0.10000000000000048,
+        0.1,
+        0.0
+      ],
+      "vals": [
+        0.11764705882352941,
+        1.0
+      ],
+      "variance": 1.096003041594024
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "group_name": "appliedenergistics2\\assets\\appliedenergistics2\\textures\\blocks\\BlockSpatialPylon_spanned_dim.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.6341463414634146
+      ],
+      "lightness": 0.26666666666666666,
+      "sats": [
+        0.6029411764705882
+      ],
+      "vals": [
+        0.26666666666666666
+      ],
+      "variance": 1.1099044894848145
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.7633333333333332,
+        0.7633333333333333,
+        0.7653508771929824
+      ],
+      "lightness": 0.7516339869281047,
+      "sats": [
+        0.45238095238095205,
+        0.20920502092050217,
+        0.20920502092050206
+      ],
+      "vals": [
+        0.6588235294117646,
+        0.9372549019607843
+      ],
+      "variance": 0.3937748101824385
+    }
+  ]
+}

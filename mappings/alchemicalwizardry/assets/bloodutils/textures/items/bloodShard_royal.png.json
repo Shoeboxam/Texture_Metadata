@@ -1,0 +1,22 @@
+{
+  "group_name": "alchemicalwizardry\\assets\\bloodutils\\textures\\items\\bloodShard_royal.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.6666666666666666
+      ],
+      "lightness": 0.5682352941176471,
+      "sats": [
+        1.0,
+        0.7571684587813621,
+        0.5839598997493735
+      ],
+      "vals": [
+        0.5647058823529412,
+        0.586764705882353
+      ],
+      "variance": 0.301224421159157
+    }
+  ]
+}

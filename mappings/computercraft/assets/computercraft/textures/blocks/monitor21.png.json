@@ -1,0 +1,37 @@
+{
+  "group_name": "extrautils\\assets\\extrautils\\textures\\blocks\\ConnectedTextures\\etherealdarkglass_vertical.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.3439950980392157,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.15555555555555559,
+        0.2062745098039216,
+        0.5007352941176471
+      ],
+      "variance": 0.4968757269095959
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.3666666666666667,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.19215686274509808,
+        0.28795518207282916,
+        0.49926470588235294
+      ],
+      "variance": 0.4661531301588354
+    }
+  ]
+}

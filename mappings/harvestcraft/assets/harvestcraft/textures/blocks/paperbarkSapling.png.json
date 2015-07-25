@@ -1,0 +1,25 @@
+{
+  "group_name": "harvestcraft\\assets\\harvestcraft\\textures\\blocks\\peppercornSapling.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.10784313725490187,
+        0.18816744980777442,
+        0.21184546615581099
+      ],
+      "lightness": 0.38493060145406477,
+      "sats": [
+        0.8480909829406986,
+        0.8159637504356921,
+        0.06666666666666665
+      ],
+      "vals": [
+        0.22060745866974235,
+        0.4525735294117647,
+        1.0
+      ],
+      "variance": 0.7074936505619545
+    }
+  ]
+}

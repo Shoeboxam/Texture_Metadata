@@ -1,0 +1,21 @@
+{
+  "group_name": "agricraft\\assets\\agricraft\\textures\\items\\seedBotaniaPink.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.15151482230686386,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.11950185479597245,
+        0.22302340290955092,
+        0.28627450980392155
+      ],
+      "variance": 1.0211556134695081
+    }
+  ]
+}

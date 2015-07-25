@@ -1,0 +1,53 @@
+{
+  "group_name": "binniecore\\assets\\botany\\textures\\blocks\\ceramic\\stripedcorner.1.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.7855392156862745,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.6470588235294118,
+        0.7372549019607844,
+        0.9411764705882353
+      ],
+      "variance": 0.4588239735653166
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.825920612147298,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.6840958605664488,
+        0.894419306184012,
+        0.9921568627450981
+      ],
+      "variance": 0.43639088192205
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.8403361344537814,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.6470588235294117,
+        0.8758169934640523,
+        0.9803921568627452
+      ],
+      "variance": 0.428904826955745
+    }
+  ]
+}

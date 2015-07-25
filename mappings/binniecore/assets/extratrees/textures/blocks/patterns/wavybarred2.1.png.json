@@ -1,0 +1,50 @@
+{
+  "group_name": "binniecore\\assets\\extratrees\\textures\\blocks\\patterns\\wavybarred2.1.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.8512017710309929,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.6733746130030959,
+        0.8993710691823898,
+        0.9786096256684492
+      ],
+      "variance": 0.5078256289079197
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.7058823529411765,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.7058823529411765
+      ],
+      "variance": 0.6123712724935778
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.6274509803921569,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.5882352941176471,
+        0.6470588235294118
+      ],
+      "variance": 0.6889176815552751
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "group_name": "openblocks\\assets\\openblocks\\textures\\items\\overlay_inverted_stairs.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.14183006535947715,
+        0.6411764705882352
+      ],
+      "lightness": 1.0,
+      "sats": [
+        1.0,
+        0.9999999999999999
+      ],
+      "vals": [
+        0.9999999999999998,
+        1.0
+      ],
+      "variance": 0.06237781024480981
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.14183006535947712,
+        0.6411764705882352
+      ],
+      "lightness": 1.0,
+      "sats": [
+        1.0
+      ],
+      "vals": [
+        1.0
+      ],
+      "variance": 0.06237781024480981
+    }
+  ]
+}

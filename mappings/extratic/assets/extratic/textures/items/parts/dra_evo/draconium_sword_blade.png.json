@@ -1,0 +1,39 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\parts\\metallurgy3\\precious\\silver_sword_blade.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.7577319587628866,
+        0.7675070028011204,
+        0.06770833333333331
+      ],
+      "lightness": 0.522689075630252,
+      "sats": [
+        1.0,
+        0.6329787234042553,
+        0.4825870646766169
+      ],
+      "vals": [
+        0.2509803921568628,
+        0.7372549019607844,
+        0.788235294117647
+      ],
+      "variance": 0.24788551034482056
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.06770833333333333
+      ],
+      "lightness": 0.25098039215686274,
+      "sats": [
+        1.0
+      ],
+      "vals": [
+        0.25098039215686274
+      ],
+      "variance": 0.5162437079279409
+    }
+  ]
+}

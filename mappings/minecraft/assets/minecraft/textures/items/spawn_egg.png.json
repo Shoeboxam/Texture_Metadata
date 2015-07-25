@@ -1,0 +1,53 @@
+{
+  "group_name": "stevescarts\\assets\\stevescarts\\textures\\items\\painted_easter_egg_icon.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.5017429193899782,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.4235294117647059,
+        0.4980392156862745,
+        0.788235294117647
+      ],
+      "variance": 0.7679697985325246
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.8861833105335157,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.7865546218487395,
+        0.8705882352941177,
+        0.9368421052631579
+      ],
+      "variance": 0.4348123059179066
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.6915032679738562,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.40183006535947713,
+        0.7838022165387893,
+        0.8624434389140272
+      ],
+      "variance": 0.5572257233838702
+    }
+  ]
+}

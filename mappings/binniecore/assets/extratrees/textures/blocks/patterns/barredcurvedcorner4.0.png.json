@@ -1,0 +1,37 @@
+{
+  "group_name": "binniecore\\assets\\extratrees\\textures\\blocks\\patterns\\barredcurvedcorner4.0.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.8889536012424772,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.6884531590413943,
+        0.8943577430972388,
+        0.9873125720876585
+      ],
+      "variance": 0.4930756388723733
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.611764705882353,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.5947712418300654,
+        0.6274509803921569,
+        0.6470588235294118
+      ],
+      "variance": 0.716486846406638
+    }
+  ]
+}

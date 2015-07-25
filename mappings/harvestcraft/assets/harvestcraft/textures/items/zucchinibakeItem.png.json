@@ -1,0 +1,25 @@
+{
+  "group_name": "harvestcraft\\assets\\harvestcraft\\textures\\items\\ovenroastedcauliflowerItem.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.07099514563106789,
+        0.0709984152139461,
+        0.13333333333333333
+      ],
+      "lightness": 0.4154771241830066,
+      "sats": [
+        0.995575221238938,
+        0.7423423423423422,
+        0.6851248642779588
+      ],
+      "vals": [
+        0.2291021671826625,
+        0.5472370766488415,
+        0.8862745098039215
+      ],
+      "variance": 0.5282436758939231
+    }
+  ]
+}

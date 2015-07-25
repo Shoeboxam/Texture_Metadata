@@ -1,0 +1,21 @@
+{
+  "group_name": "cofh\\assets\\cofh\\textures\\items\\icons\\Icon_ArrowUp_Inactive.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.24137254901960786,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.047058823529411764,
+        0.43333333333333335,
+        0.45686274509803926
+      ],
+      "variance": 1.184766723669072
+    }
+  ]
+}

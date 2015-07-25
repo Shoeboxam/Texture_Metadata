@@ -1,0 +1,33 @@
+{
+  "group_name": "buildcraft\\assets\\buildcraft\\textures\\items\\blueprint_clean.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.0,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.0
+      ],
+      "variance": Infinity
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.3176470588235294,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.3176470588235294
+      ],
+      "variance": 1.4167043249511253
+    }
+  ]
+}

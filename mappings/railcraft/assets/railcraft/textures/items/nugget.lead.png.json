@@ -1,0 +1,23 @@
+{
+  "group_name": "agricraft\\assets\\agricraft\\textures\\items\\nuggetCopper.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.6666666666666666
+      ],
+      "lightness": 0.5267589388696655,
+      "sats": [
+        0.3746097814776274,
+        0.24080267558528437,
+        0.09937888198757774
+      ],
+      "vals": [
+        0.37686274509803924,
+        0.5862745098039216,
+        0.9470588235294118
+      ],
+      "variance": 0.31624423381905803
+    }
+  ]
+}

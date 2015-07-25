@@ -1,0 +1,23 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\cleaver\\natura\\netherquartz_cleaver_guard.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.03945035460992909,
+        0.13136893799877225,
+        0.1314717859220477
+      ],
+      "lightness": 1.0,
+      "sats": [
+        0.9830065359477125,
+        0.7490196078431373,
+        0.4258823529411765
+      ],
+      "vals": [
+        1.0
+      ],
+      "variance": 0.20278667738152203
+    }
+  ]
+}

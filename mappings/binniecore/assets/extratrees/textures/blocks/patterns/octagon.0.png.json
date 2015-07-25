@@ -1,0 +1,37 @@
+{
+  "group_name": "botania\\assets\\botania\\textures\\items\\rune0.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.888515406162465,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.659846547314578,
+        0.9099099099099098,
+        0.9877995642701526
+      ],
+      "variance": 0.5051507336874399
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.9323337178008458,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.8823529411764706,
+        0.9215686274509803,
+        0.982174688057041
+      ],
+      "variance": 0.4814093931669192
+    }
+  ]
+}

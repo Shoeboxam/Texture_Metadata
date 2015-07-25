@@ -1,0 +1,39 @@
+{
+  "group_name": "stevescarts\\assets\\stevescarts\\textures\\items\\yellow_gift_ribbon_icon.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.17671884093800377,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.1503267973856209,
+        0.1673202614379085,
+        0.19934640522875818
+      ],
+      "variance": 1.2024010656633517
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.4285130718954248,
+      "sats": [
+        0.7960410924580306,
+        0.5525708289611753,
+        0.356401384083045
+      ],
+      "vals": [
+        0.3477995642701525,
+        0.46715686274509804,
+        0.6181818181818182
+      ],
+      "variance": 0.49587034002664876
+    }
+  ]
+}

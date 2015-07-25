@@ -1,0 +1,23 @@
+{
+  "group_name": "chisel\\assets\\chisel\\textures\\items\\chisel_obsidian.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.7999999999999999,
+        0.8073192239858907,
+        0.8077753779697624
+      ],
+      "lightness": 0.14168247944339024,
+      "sats": [
+        1.0
+      ],
+      "vals": [
+        0.05882352941176472,
+        0.11348039215686274,
+        0.24705882352941178
+      ],
+      "variance": 1.7719293976294754
+    }
+  ]
+}

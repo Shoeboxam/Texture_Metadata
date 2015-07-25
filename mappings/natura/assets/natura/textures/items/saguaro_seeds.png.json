@@ -1,0 +1,38 @@
+{
+  "group_name": "agricraft\\assets\\agricraft\\textures\\items\\seedPetinia.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.01953125
+      ],
+      "lightness": 0.996078431372549,
+      "sats": [
+        0.5039370078740157
+      ],
+      "vals": [
+        0.996078431372549
+      ],
+      "variance": 0.3225305864220505
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.996,
+        0.004551820728291319,
+        0.021271271271271302
+      ],
+      "lightness": 0.998918187964841,
+      "sats": [
+        0.9803921568627452,
+        0.8,
+        0.5239968528717546
+      ],
+      "vals": [
+        0.9968627450980392,
+        1.0
+      ],
+      "variance": 0.3216136861492926
+    }
+  ]
+}

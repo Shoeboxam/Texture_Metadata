@@ -1,0 +1,21 @@
+{
+  "group_name": "binniecore\\assets\\extratrees\\textures\\blocks\\patterns\\thintsection4.0.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.8611853832442067,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.6427962489343563,
+        0.8924731182795699,
+        0.9803921568627451
+      ],
+      "variance": 0.4843031208943997
+    }
+  ]
+}

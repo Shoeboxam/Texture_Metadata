@@ -1,0 +1,24 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\longbow\\metallurgy3\\nether\\ceruclase_bow_top_3.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.07802582622017949,
+        0.15714285714285714,
+        0.15762273901808785
+      ],
+      "lightness": 0.8006761325219742,
+      "sats": [
+        0.9035894393355088,
+        0.8235294117647058,
+        0.5058823529411764
+      ],
+      "vals": [
+        0.6957688338493292,
+        1.0
+      ],
+      "variance": 0.3227277205416192
+    }
+  ]
+}

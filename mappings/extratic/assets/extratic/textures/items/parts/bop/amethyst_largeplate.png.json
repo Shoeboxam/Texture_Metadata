@@ -1,0 +1,25 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\parts\\oodmod\\kroostyl_largeplate.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.8166492874522072,
+        0.8188470728793309,
+        0.8192846311658193
+      ],
+      "lightness": 0.7854141656662665,
+      "sats": [
+        0.7623419012647894,
+        0.7032136105860113,
+        0.23708281829419026
+      ],
+      "vals": [
+        0.3923169267707081,
+        0.8890756302521008,
+        0.9711884753901558
+      ],
+      "variance": 0.29993315803872067
+    }
+  ]
+}

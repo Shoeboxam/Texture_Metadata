@@ -1,0 +1,25 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\excavator\\metallurgy3\\precious\\brass_excavator_head_broken.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.5990566037735849,
+        0.5994623655913979,
+        0.6075142240533647
+      ],
+      "lightness": 0.4333836098541981,
+      "sats": [
+        0.9999999999999999,
+        0.7399825783972125,
+        0.6625
+      ],
+      "vals": [
+        0.24313725490196078,
+        0.5627450980392157,
+        0.6274509803921569
+      ],
+      "variance": 0.2892729369022953
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "group_name": "witchery\\assets\\witchery\\textures\\items\\ingredient.clayJar.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0,
+        0.029876227059325616,
+        0.03903966597077243
+      ],
+      "lightness": 0.3408609420779806,
+      "sats": [
+        1.0,
+        0.7543464262717321,
+        0.5374775583482945
+      ],
+      "vals": [
+        1.1102230246251565e-16,
+        0.2768270944741534,
+        0.5460784313725491
+      ],
+      "variance": 0.5758912555321596
+    }
+  ]
+}

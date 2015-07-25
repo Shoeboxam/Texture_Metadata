@@ -1,0 +1,66 @@
+{
+  "group_name": "railcraft\\assets\\railcraft\\textures\\items\\part.circuit.signal.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.6387096774193548
+      ],
+      "lightness": 0.6862745098039216,
+      "sats": [
+        0.8857142857142858
+      ],
+      "vals": [
+        0.6862745098039216
+      ],
+      "variance": 0.4789044470119538
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.012827240394146141,
+        0.013550135501355032,
+        0.11916666666666664
+      ],
+      "lightness": 0.6489019607843138,
+      "sats": [
+        1.0,
+        0.9132420091324202
+      ],
+      "vals": [
+        0.5627450980392158,
+        0.6594002306805075,
+        0.8588235294117647
+      ],
+      "variance": 0.5064862405698428
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.0,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.0
+      ],
+      "variance": Infinity
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.7686274509803921,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.7686274509803922
+      ],
+      "variance": 0.42759325626067307
+    }
+  ]
+}

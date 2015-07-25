@@ -1,0 +1,23 @@
+{
+  "group_name": "alchemicalwizardry\\assets\\alchemicalwizardry\\textures\\items\\Magicales.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.6371592539454807,
+      "sats": [
+        1.0,
+        0.9998416970080735,
+        0.9982980792608801
+      ],
+      "vals": [
+        0.4363499245852186,
+        0.6720588235294118,
+        0.7741421568627451
+      ],
+      "variance": 0.3080062095504038
+    }
+  ]
+}

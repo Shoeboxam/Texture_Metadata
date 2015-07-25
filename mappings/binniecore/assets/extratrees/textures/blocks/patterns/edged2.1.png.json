@@ -1,0 +1,82 @@
+{
+  "group_name": "minecraft\\assets\\minecraft\\textures\\blocks\\enchanting_table_side.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.9411764705882353,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.8823529411764706,
+        1.0
+      ],
+      "variance": 0.42525063367384397
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.8823529411764706,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.8823529411764706
+      ],
+      "variance": 0.4536006759187669
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.9010695187165775,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.6965046888320546,
+        0.9015763168012303,
+        0.9817444219066936
+      ],
+      "variance": 0.44417870342193794
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.9012605042016806,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.7598039215686274,
+        0.8970588235294117,
+        0.9803921568627452
+      ],
+      "variance": 0.444084577822569
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.9313725490196076,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.8823529411764706,
+        0.9215686274509803,
+        0.9750445632798574
+      ],
+      "variance": 0.4297269561335687
+    }
+  ]
+}

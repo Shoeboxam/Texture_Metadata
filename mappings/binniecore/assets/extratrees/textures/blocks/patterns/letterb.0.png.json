@@ -1,0 +1,21 @@
+{
+  "group_name": "binniecore\\assets\\extratrees\\textures\\blocks\\patterns\\letterb.0.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.8319964349376114,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.6593137254901961,
+        0.8966131907308378,
+        0.9795396419437341
+      ],
+      "variance": 0.48479592165044316
+    }
+  ]
+}

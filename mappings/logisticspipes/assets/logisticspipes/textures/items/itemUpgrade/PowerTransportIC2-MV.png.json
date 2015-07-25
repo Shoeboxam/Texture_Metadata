@@ -1,0 +1,65 @@
+{
+  "group_name": "logisticspipes\\assets\\logisticspipes\\textures\\items\\itemUpgrade\\PowerTransportIC2-MV.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.0,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.0
+      ],
+      "variance": Infinity
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.5765765765765766,
+        0.07419354838709678
+      ],
+      "lightness": 0.6579877852780457,
+      "sats": [
+        0.8862275449101797,
+        0.8862275449101795,
+        0.8469945355191257
+      ],
+      "vals": [
+        0.6549019607843137,
+        0.7176470588235294
+      ],
+      "variance": 0.46625605867362296
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.1606280193236715
+      ],
+      "lightness": 0.8117647058823529,
+      "sats": [
+        0.6666666666666667
+      ],
+      "vals": [
+        0.8117647058823529
+      ],
+      "variance": 0.3779306850815341
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.07419354838709678
+      ],
+      "lightness": 0.7176470588235294,
+      "sats": [
+        0.8469945355191257
+      ],
+      "vals": [
+        0.7176470588235294
+      ],
+      "variance": 0.4274953650922271
+    }
+  ]
+}

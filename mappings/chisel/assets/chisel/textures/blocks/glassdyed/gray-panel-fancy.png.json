@@ -1,0 +1,21 @@
+{
+  "group_name": "chisel\\assets\\chisel\\textures\\blocks\\glasspanedyed\\blue-panel-fancy-side.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.3014254010715848,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.12136578769438797,
+        0.26376811594202904,
+        0.5470588235294118
+      ],
+      "variance": 0.5027634095050197
+    }
+  ]
+}

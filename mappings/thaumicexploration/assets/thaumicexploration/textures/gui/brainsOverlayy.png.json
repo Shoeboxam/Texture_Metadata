@@ -1,0 +1,69 @@
+{
+  "group_name": "thaumicexploration\\assets\\thaumicexploration\\textures\\gui\\brainsOverlayy.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 1.0,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        1.0
+      ],
+      "variance": 0.21735539545962385
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.7342560553633218,
+      "sats": [
+        0.9999999999999998,
+        0.0
+      ],
+      "vals": [
+        0.49803921568627463,
+        1.0
+      ],
+      "variance": 0.2960212501782813
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.9134550371872887,
+      "sats": [
+        1.0,
+        0.0
+      ],
+      "vals": [
+        0.49803921568627463,
+        1.0
+      ],
+      "variance": 0.23794865276445867
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.6374727668845315,
+      "sats": [
+        1.0,
+        0.9999999999999999,
+        0.0
+      ],
+      "vals": [
+        0.49803921568627446,
+        0.4980392156862745,
+        1.0
+      ],
+      "variance": 0.3409642054544339
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "group_name": "forestry\\assets\\forestry\\textures\\blocks\\leaves\\fruits.nuts.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.5852941176470589,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.4470588235294118,
+        1.0
+      ],
+      "variance": 0.6173159307265043
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.4470588235294118,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.4470588235294118
+      ],
+      "variance": 0.808196514569568
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.7400560224089635,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.44705882352941173,
+        0.9019607843137255,
+        0.9617647058823529
+      ],
+      "variance": 0.48822166436526526
+    }
+  ]
+}

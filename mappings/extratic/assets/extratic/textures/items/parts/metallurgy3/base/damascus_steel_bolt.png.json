@@ -1,0 +1,25 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\bolt\\generic\\sapphire_bolt_shaft.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.07017543859649122,
+        0.07208588957055208,
+        0.07291666666666663
+      ],
+      "lightness": 0.57825311942959,
+      "sats": [
+        0.49673202614379086,
+        0.4923076923076922,
+        0.1897555296856811
+      ],
+      "vals": [
+        0.25490196078431376,
+        0.6,
+        0.8421568627450982
+      ],
+      "variance": 0.1320870978291301
+    }
+  ]
+}

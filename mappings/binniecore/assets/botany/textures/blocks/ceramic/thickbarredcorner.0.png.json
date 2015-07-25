@@ -1,0 +1,25 @@
+{
+  "group_name": "binniecore\\assets\\extratrees\\textures\\blocks\\patterns\\thickbarredcorner.0.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.7383177570093454,
+        0.0607609312890404,
+        0.3908132530120481
+      ],
+      "lightness": 0.981392973856209,
+      "sats": [
+        0.04498340220852252,
+        0.037616148670298,
+        0.030454830079125635
+      ],
+      "vals": [
+        0.9713663243075008,
+        0.9811232967763377,
+        0.9841456582633054
+      ],
+      "variance": 0.4332097439697187
+    }
+  ]
+}

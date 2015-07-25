@@ -1,0 +1,35 @@
+{
+  "group_name": "tinker\\assets\\tinker\\textures\\items\\shovel\\flint_shovel_head.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.027450980392156855,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.027450980392156862
+      ],
+      "variance": 5.1741482791701845
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.34306964164976333,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.02745098039215682,
+        0.4230065359477124,
+        0.8323529411764705
+      ],
+      "variance": 0.4140134413368337
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "group_name": "alchemicalwizardry\\assets\\alchemicalwizardry\\textures\\items\\InfusedSlate.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.05792909063937104,
+        0.05797468354430383,
+        0.15109034267912783
+      ],
+      "lightness": 0.602558580299134,
+      "sats": [
+        0.8883763837638377,
+        0.8849887976101568,
+        0.537688442211055
+      ],
+      "vals": [
+        0.5313725490196078,
+        0.5586149353358364,
+        0.7803921568627451
+      ],
+      "variance": 0.35209513085497757
+    }
+  ]
+}

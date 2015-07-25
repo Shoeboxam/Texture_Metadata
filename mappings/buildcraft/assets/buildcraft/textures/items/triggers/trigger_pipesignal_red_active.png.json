@@ -1,0 +1,35 @@
+{
+  "group_name": "buildcraft\\assets\\buildcraft\\textures\\items\\triggers\\trigger_pipesignal_red_active.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.9327731092436975,
+      "sats": [
+        1.0
+      ],
+      "vals": [
+        0.5607843137254902,
+        0.8730392156862745,
+        0.9816470588235294
+      ],
+      "variance": 0.14912145531053503
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.6588235294117647,
+      "sats": [
+        1.0
+      ],
+      "vals": [
+        0.6588235294117647
+      ],
+      "variance": 0.2111285910646606
+    }
+  ]
+}

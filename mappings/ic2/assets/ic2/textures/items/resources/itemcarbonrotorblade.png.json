@@ -1,0 +1,21 @@
+{
+  "group_name": "ic2\\assets\\ic2\\textures\\items\\resources\\itemwoodrotorblade.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.134640522875817,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.0980392156862745,
+        0.14901960784313725,
+        0.17647058823529416
+      ],
+      "variance": 3.100929045910358
+    }
+  ]
+}

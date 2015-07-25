@@ -1,0 +1,25 @@
+{
+  "group_name": "alchemicalwizardry\\assets\\alchemicalwizardry\\textures\\items\\ArchmageBloodOrb.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.007529733892359058,
+        0.04638752052545162,
+        0.10727115964937488
+      ],
+      "lightness": 0.618444300797242,
+      "sats": [
+        0.9786501377410467,
+        0.8103591734849536,
+        0.6117264416315049
+      ],
+      "vals": [
+        0.30779014308426095,
+        0.6653748558246828,
+        0.7435294117647059
+      ],
+      "variance": 0.3704680138461273
+    }
+  ]
+}

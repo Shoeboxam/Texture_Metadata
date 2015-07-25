@@ -1,0 +1,35 @@
+{
+  "group_name": "tinker\\assets\\tinker\\textures\\items\\frypan\\glowstone_frypan_effect.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.9886128364389234
+      ],
+      "lightness": 0.7058823529411765,
+      "sats": [
+        0.8944444444444445
+      ],
+      "vals": [
+        0.7058823529411765
+      ],
+      "variance": 0.15460631769477323
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.35882352941176465,
+      "sats": [
+        1.0
+      ],
+      "vals": [
+        0.17647058823529413,
+        0.4470588235294118,
+        1.0
+      ],
+      "variance": 0.3041435757929966
+    }
+  ]
+}

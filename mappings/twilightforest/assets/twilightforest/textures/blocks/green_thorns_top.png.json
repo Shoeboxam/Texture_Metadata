@@ -1,0 +1,39 @@
+{
+  "group_name": "twilightforest\\assets\\twilightforest\\textures\\blocks\\green_thorns_top.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.0,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.0
+      ],
+      "variance": Infinity
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.20089285714285712,
+        0.2516420361247948,
+        0.25552208835341367
+      ],
+      "lightness": 0.3743872549019608,
+      "sats": [
+        0.5953377166766288,
+        0.583165756966389,
+        0.5052631578947369
+      ],
+      "vals": [
+        0.16299019607843135,
+        0.3689454160042395,
+        0.4577291381668947
+      ],
+      "variance": 0.5132965513985296
+    }
+  ]
+}

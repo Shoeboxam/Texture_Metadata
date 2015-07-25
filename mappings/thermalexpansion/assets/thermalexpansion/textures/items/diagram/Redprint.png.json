@@ -1,0 +1,25 @@
+{
+  "group_name": "thermalexpansion\\assets\\thermalexpansion\\textures\\items\\diagram\\Schematic.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.9972431077694235,
+        0.9974225930070878,
+        0.9982674982674982
+      ],
+      "lightness": 0.9070574571291933,
+      "sats": [
+        0.9619093539054969,
+        0.5235989772000853,
+        0.16877192982456152
+      ],
+      "vals": [
+        0.7072463768115942,
+        0.9313725490196079,
+        0.9560478736949325
+      ],
+      "variance": 0.3936581192106986
+    }
+  ]
+}

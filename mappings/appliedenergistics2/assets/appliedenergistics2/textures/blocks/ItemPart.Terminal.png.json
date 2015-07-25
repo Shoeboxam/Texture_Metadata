@@ -1,0 +1,25 @@
+{
+  "group_name": "appliedenergistics2\\assets\\appliedenergistics2\\textures\\blocks\\ItemPart.Monitor.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.10333333333333339,
+        0.10416666666666667,
+        0.1071428571428571
+      ],
+      "lightness": 0.19839572192513374,
+      "sats": [
+        0.30120481927710846,
+        0.2909090909090909,
+        0.2745098039215686
+      ],
+      "vals": [
+        0.1627450980392157,
+        0.2,
+        0.21568627450980393
+      ],
+      "variance": 0.3781539162106542
+    }
+  ]
+}

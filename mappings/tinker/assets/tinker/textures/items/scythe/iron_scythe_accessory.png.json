@@ -1,0 +1,23 @@
+{
+  "group_name": "tinker\\assets\\tinker\\textures\\items\\scythe\\thaumium_scythe_accessory.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.5417112299465241,
+      "sats": [
+        0.01680672268907569,
+        1.3091647226793752e-16,
+        0.0
+      ],
+      "vals": [
+        0.26666666666666666,
+        0.4666666666666667,
+        0.8480392156862746
+      ],
+      "variance": 0.31240086162445013
+    }
+  ]
+}

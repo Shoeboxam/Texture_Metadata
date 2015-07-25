@@ -1,0 +1,25 @@
+{
+  "group_name": "alchemicalwizardry\\assets\\alchemicalwizardry\\textures\\items\\activationCrystalAwakened.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.79764801297648,
+        0.8502415458937198,
+        0.9882767823103317
+      ],
+      "lightness": 0.3339957604663487,
+      "sats": [
+        0.7308442463081639,
+        0.17157065893079165,
+        0.166127728375101
+      ],
+      "vals": [
+        0.17639928698752227,
+        0.2783160322952711,
+        0.47710202725157863
+      ],
+      "variance": 0.9853848219991204
+    }
+  ]
+}

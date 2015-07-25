@@ -1,0 +1,37 @@
+{
+  "group_name": "buildcraft\\assets\\buildcraft\\textures\\items\\triggers\\trigger_machine_inactive.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.3333333333333333
+      ],
+      "lightness": 0.16078431372549018,
+      "sats": [
+        1.0
+      ],
+      "vals": [
+        0.1607843137254902
+      ],
+      "variance": 1.2103633188051341
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.3333333333333333,
+        0.3333333333333334,
+        0.5
+      ],
+      "lightness": 0.33725490196078434,
+      "sats": [
+        1.0
+      ],
+      "vals": [
+        0.16078431372549018,
+        0.23137254901960788,
+        0.9725490196078432
+      ],
+      "variance": 0.577033675244308
+    }
+  ]
+}

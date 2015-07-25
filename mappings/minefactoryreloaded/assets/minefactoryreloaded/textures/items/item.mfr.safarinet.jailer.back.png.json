@@ -1,0 +1,21 @@
+{
+  "group_name": "minefactoryreloaded\\assets\\minefactoryreloaded\\textures\\items\\item.mfr.safarinet.jailer.back.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.2673453996983409,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.20261437908496732,
+        0.26577540106951875,
+        0.36732026143790847
+      ],
+      "variance": 1.4883363906281417
+    }
+  ]
+}

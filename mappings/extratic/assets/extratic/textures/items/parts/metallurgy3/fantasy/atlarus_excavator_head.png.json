@@ -1,0 +1,24 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\parts\\bop\\mud_excavator_head.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.14442090395480237,
+        0.1461352657004831,
+        0.14615384615384616
+      ],
+      "lightness": 0.5521203830369357,
+      "sats": [
+        1.0,
+        0.9912854030501089
+      ],
+      "vals": [
+        0.27764705882352936,
+        0.5411764705882353,
+        0.8999999999999999
+      ],
+      "variance": 0.5587029530887541
+    }
+  ]
+}

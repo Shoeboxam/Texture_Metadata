@@ -1,0 +1,25 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\cleaver\\natura\\darkwood_cleaver_shield.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.5729166666666666,
+        0.5740740740740741,
+        0.5789473684210525
+      ],
+      "lightness": 0.3146761734997029,
+      "sats": [
+        0.33928571428571425,
+        0.3103448275862069,
+        0.3047619047619048
+      ],
+      "vals": [
+        0.2196078431372549,
+        0.3411764705882353,
+        0.4117647058823529
+      ],
+      "variance": 0.7356850808894299
+    }
+  ]
+}

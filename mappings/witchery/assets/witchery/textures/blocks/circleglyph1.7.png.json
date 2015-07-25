@@ -1,0 +1,20 @@
+{
+  "group_name": "witchery\\assets\\witchery\\textures\\blocks\\circleglyph2.7.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.9610084033613444,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.8862745098039215,
+        1.0
+      ],
+      "variance": 0.34417744800239286
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "group_name": "witchery\\assets\\witchery\\textures\\blocks\\shadedglass_orange.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.1825413526920287,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.17588352706352003,
+        0.18462745098039215,
+        0.19919557566616392
+      ],
+      "variance": 0.050447266881607486
+    }
+  ]
+}

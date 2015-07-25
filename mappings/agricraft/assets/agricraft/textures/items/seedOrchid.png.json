@@ -1,0 +1,24 @@
+{
+  "group_name": "agricraft\\assets\\agricraft\\textures\\items\\seedTulipRed.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.07575757575757579,
+        0.534790622659985,
+        0.5387144777265745
+      ],
+      "lightness": 0.8481170245876128,
+      "sats": [
+        1.0,
+        0.6644295302013423
+      ],
+      "vals": [
+        0.7011764705882353,
+        0.7780392156862745,
+        0.9867007672634271
+      ],
+      "variance": 0.31285546031464945
+    }
+  ]
+}

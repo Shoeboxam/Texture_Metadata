@@ -1,0 +1,25 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\parts\\aoa\\limonite_crossbow_limb.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.9953164726348187,
+        0.996078431372549,
+        0.01666666666666668
+      ],
+      "lightness": 0.6419467787114845,
+      "sats": [
+        1.0,
+        0.9129558365402236,
+        0.748898678414097
+      ],
+      "vals": [
+        0.3137254901960783,
+        0.7642857142857143,
+        0.8901960784313725
+      ],
+      "variance": 0.21046210725034786
+    }
+  ]
+}

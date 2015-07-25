@@ -1,0 +1,23 @@
+{
+  "group_name": "botania\\assets\\botania\\textures\\items\\superLavaPendantGem.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.45457516339869275,
+      "sats": [
+        0.8474452554744525,
+        0.8468085106382978,
+        0.8450372695174578
+      ],
+      "vals": [
+        0.39984313725490195,
+        0.46078431372549017,
+        0.5969498910675382
+      ],
+      "variance": 0.49032015806740337
+    }
+  ]
+}

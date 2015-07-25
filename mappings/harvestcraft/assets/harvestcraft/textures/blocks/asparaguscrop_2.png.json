@@ -1,0 +1,22 @@
+{
+  "group_name": "harvestcraft\\assets\\harvestcraft\\textures\\blocks\\asparaguscrop_2.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.31321839080459773,
+        0.31420765027322406
+      ],
+      "lightness": 0.43545098039215685,
+      "sats": [
+        0.5576923076923077,
+        0.5304347826086957
+      ],
+      "vals": [
+        0.40784313725490196,
+        0.45098039215686275
+      ],
+      "variance": 0.5148332630851875
+    }
+  ]
+}

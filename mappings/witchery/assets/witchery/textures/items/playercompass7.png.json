@@ -1,0 +1,23 @@
+{
+  "group_name": "witchery\\assets\\witchery\\textures\\items\\playercompass5.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.2795051172431662,
+        0.2810545129579982,
+        0.2853793375783602
+      ],
+      "lightness": 0.38046454046087136,
+      "sats": [
+        1.0
+      ],
+      "vals": [
+        0.3153186274509804,
+        0.36568627450980395,
+        0.44885343968095714
+      ],
+      "variance": 0.8271167504372775
+    }
+  ]
+}

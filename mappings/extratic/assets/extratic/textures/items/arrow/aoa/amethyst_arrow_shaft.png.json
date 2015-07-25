@@ -1,0 +1,25 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\arrow\\metallurgy3\\fantasy\\mithril_arrow_shaft.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.7574906367041199,
+        0.7766393442622951,
+        0.7777777777777778
+      ],
+      "lightness": 0.4546489563567362,
+      "sats": [
+        1.0,
+        0.9568627450980393,
+        0.8127853881278538
+      ],
+      "vals": [
+        0.23529411764705882,
+        0.8588235294117647,
+        1.0
+      ],
+      "variance": 0.2612273720736532
+    }
+  ]
+}

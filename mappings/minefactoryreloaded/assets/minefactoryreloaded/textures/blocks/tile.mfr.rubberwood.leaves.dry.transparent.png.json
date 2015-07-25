@@ -1,0 +1,25 @@
+{
+  "group_name": "minefactoryreloaded\\assets\\minefactoryreloaded\\textures\\blocks\\tile.mfr.rubberwood.leaves.transparent.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.054726368159203974,
+        0.055739004094571366,
+        0.05659756498848306
+      ],
+      "lightness": 0.4506146500050798,
+      "sats": [
+        0.5788571428571434,
+        0.5743002351513312,
+        0.5726495726495726
+      ],
+      "vals": [
+        0.26395173453997,
+        0.4588235294117647,
+        0.6228679423576657
+      ],
+      "variance": 0.32717795832927976
+    }
+  ]
+}

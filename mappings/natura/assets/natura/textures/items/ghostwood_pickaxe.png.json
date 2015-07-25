@@ -1,0 +1,21 @@
+{
+  "group_name": "natura\\assets\\natura\\textures\\items\\darkwood_pickaxe.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.36488687782805435,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.1785681714546285,
+        0.6078431372549019,
+        0.7856209150326796
+      ],
+      "variance": 0.6576094338580905
+    }
+  ]
+}

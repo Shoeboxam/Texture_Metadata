@@ -1,0 +1,85 @@
+{
+  "group_name": "logisticspipes\\assets\\logisticspipes\\textures\\blocks\\pipes\\overlay_gen\\chassi\\chassi_mk3\\un-powered-pipe.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0,
+        0.10317460317460318
+      ],
+      "lightness": 0.46039215686274515,
+      "sats": [
+        1.0,
+        0.2530120481927711,
+        0.0
+      ],
+      "vals": [
+        0.0,
+        0.6509803921568628,
+        1.0
+      ],
+      "variance": 0.7060284120647959
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.10317460317460318
+      ],
+      "lightness": 0.6509803921568628,
+      "sats": [
+        0.2530120481927711
+      ],
+      "vals": [
+        0.6509803921568628
+      ],
+      "variance": 0.49932370829160877
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.0,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.0
+      ],
+      "variance": Infinity
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.4666666666666667,
+      "sats": [
+        1.0,
+        0.0
+      ],
+      "vals": [
+        0.0,
+        1.0
+      ],
+      "variance": 0.6965355930790509
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.14285714285714285,
+      "sats": [
+        1.0,
+        0.0
+      ],
+      "vals": [
+        0.0,
+        2.7755575615628914e-17,
+        1.0
+      ],
+      "variance": 2.275349604058233
+    }
+  ]
+}

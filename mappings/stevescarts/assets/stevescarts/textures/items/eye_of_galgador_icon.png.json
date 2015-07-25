@@ -1,0 +1,25 @@
+{
+  "group_name": "alchemicalwizardry\\assets\\alchemicalwizardry\\textures\\entities\\energyBlastProjectile.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.035395506309633694,
+        0.08678756476683931,
+        0.11287815377256964
+      ],
+      "lightness": 0.5085850556438791,
+      "sats": [
+        0.8016284233900814,
+        0.695063164893617,
+        0.21956769055745154
+      ],
+      "vals": [
+        0.3311274509803921,
+        0.6208462332301341,
+        0.8617647058823529
+      ],
+      "variance": 0.5629357787813719
+    }
+  ]
+}

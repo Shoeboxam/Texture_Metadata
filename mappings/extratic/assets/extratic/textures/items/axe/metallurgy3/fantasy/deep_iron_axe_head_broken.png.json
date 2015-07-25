@@ -1,0 +1,25 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\axe\\oodmod\\kroostyl_axe_head_broken.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.572463768115942,
+        0.5738831615120276,
+        0.5789473684210527
+      ],
+      "lightness": 0.26722689075630246,
+      "sats": [
+        0.33928571428571436,
+        0.323943661971831,
+        0.30940988835725686
+      ],
+      "vals": [
+        0.2196078431372549,
+        0.2784313725490196,
+        0.3512605042016807
+      ],
+      "variance": 1.0678776356783297
+    }
+  ]
+}

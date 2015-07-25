@@ -1,0 +1,52 @@
+{
+  "group_name": "chisel\\assets\\chisel\\textures\\blocks\\waterstone\\panel-ornate.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.5244099561340693,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.2894830659536542,
+        0.300822264389627,
+        0.5853213507625271
+      ],
+      "variance": 0.45836110662689006
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.6735559088500265,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.30980392156862746,
+        1.0
+      ],
+      "variance": 0.35686588843108386
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.29621365787694387,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.28627450980392155,
+        0.2980392156862745,
+        0.30980392156862746
+      ],
+      "variance": 0.8114721297544878
+    }
+  ]
+}

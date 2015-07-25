@@ -1,0 +1,36 @@
+{
+  "group_name": "extrautils\\assets\\extrautils\\textures\\items\\watering_can.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.7696078431372548,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.7607843137254902,
+        0.7725490196078432
+      ],
+      "variance": 0.11197606429765389
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.6927927927927928,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.617993079584775,
+        0.6746880570409982,
+        0.7405042016806722
+      ],
+      "variance": 0.1243916770261362
+    }
+  ]
+}

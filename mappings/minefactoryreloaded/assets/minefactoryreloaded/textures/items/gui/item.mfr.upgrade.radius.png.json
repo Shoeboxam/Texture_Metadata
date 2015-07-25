@@ -1,0 +1,110 @@
+{
+  "group_name": "minefactoryreloaded\\assets\\minefactoryreloaded\\textures\\items\\item.mfr.upgrade.radius.quartz.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.25141612200435726,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.0,
+        0.023529411764705882,
+        0.27058823529411763
+      ],
+      "variance": 1.2143247031835247
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.27058823529411763,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.27058823529411763
+      ],
+      "variance": 1.1282855937792169
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.2705882352941176,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.27058823529411763
+      ],
+      "variance": 1.128285593779217
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.27058823529411763,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.27058823529411763
+      ],
+      "variance": 1.1282855937792169
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.5838874680306906,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.015686274509803866,
+        0.2705882352941176,
+        0.7764705882352942
+      ],
+      "variance": 0.5228761096007057
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.01568627450980392,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.0,
+        0.023529411764705882
+      ],
+      "variance": 19.46292649269149
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.5158645276292335,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.2705882352941176,
+        0.27058823529411763,
+        0.776470588235294
+      ],
+      "variance": 0.5918236113879928
+    }
+  ]
+}

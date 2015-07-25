@@ -1,0 +1,25 @@
+{
+  "group_name": "appliedenergistics2\\assets\\appliedenergistics2\\textures\\blocks\\MESmart_LightBlue.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.2805921813555401,
+        0.28608923884514437,
+        0.33921568627450976
+      ],
+      "lightness": 0.8575671045117075,
+      "sats": [
+        0.7937500000000002,
+        0.790889132821076,
+        0.3601694915254238
+      ],
+      "vals": [
+        0.6274509803921571,
+        0.8931372549019607,
+        0.9254901960784315
+      ],
+      "variance": 0.41396425941480375
+    }
+  ]
+}

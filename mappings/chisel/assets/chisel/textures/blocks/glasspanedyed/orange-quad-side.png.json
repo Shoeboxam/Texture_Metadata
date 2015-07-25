@@ -1,0 +1,25 @@
+{
+  "group_name": "chisel\\assets\\chisel\\textures\\blocks\\glasspanedyed\\blue-quad-side.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.06506741925368459,
+        0.08874458874458875,
+        0.10626554726368165
+      ],
+      "lightness": 0.8153293761826961,
+      "sats": [
+        1.0,
+        0.9792722247812069,
+        0.6828025477707005
+      ],
+      "vals": [
+        0.5675816993464056,
+        0.9058823529411761,
+        0.947209653092006
+      ],
+      "variance": 0.1832331071844022
+    }
+  ]
+}

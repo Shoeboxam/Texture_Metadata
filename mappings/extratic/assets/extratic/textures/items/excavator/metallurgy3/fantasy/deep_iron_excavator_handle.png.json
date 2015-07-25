@@ -1,0 +1,25 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\excavator\\generic\\amethyst_excavator_handle.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.572463768115942,
+        0.5729166666666666,
+        0.5753205128205128
+      ],
+      "lightness": 0.4590686274509804,
+      "sats": [
+        0.323943661971831,
+        0.3047619047619048,
+        0.16919739696312375
+      ],
+      "vals": [
+        0.2784313725490196,
+        0.4117647058823529,
+        0.7231372549019608
+      ],
+      "variance": 0.41601925844734944
+    }
+  ]
+}

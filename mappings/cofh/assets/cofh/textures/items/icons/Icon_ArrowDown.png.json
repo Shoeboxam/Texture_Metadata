@@ -1,0 +1,21 @@
+{
+  "group_name": "cofh\\assets\\cofh\\textures\\items\\icons\\Icon_ArrowDown.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.26470588235294124,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.09803921568627455,
+        0.42184873949579826,
+        0.436500754147813
+      ],
+      "variance": 1.0388804042945932
+    }
+  ]
+}

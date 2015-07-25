@@ -1,0 +1,23 @@
+{
+  "group_name": "agricraft\\assets\\agricraft\\textures\\blocks\\cropSilverweed3.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.3526785714285714,
+        0.3601694915254237,
+        0.3611111111111111
+      ],
+      "lightness": 0.6088235294117648,
+      "sats": [
+        1.0
+      ],
+      "vals": [
+        0.4627450980392158,
+        0.6588235294117647,
+        0.8784313725490196
+      ],
+      "variance": 0.45375621064229626
+    }
+  ]
+}

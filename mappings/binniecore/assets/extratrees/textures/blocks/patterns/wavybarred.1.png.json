@@ -1,0 +1,53 @@
+{
+  "group_name": "binniecore\\assets\\botany\\textures\\blocks\\ceramic\\wavybarred.1.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.8224400871459694,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.673202614379085,
+        0.7338935574229691,
+        0.9558823529411764
+      ],
+      "variance": 0.5326728771235844
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.8510737628384686,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.7163398692810458,
+        0.9058823529411765,
+        0.9831932773109244
+      ],
+      "variance": 0.5147515369533998
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.8757208765859286,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.6805074971164936,
+        0.9117647058823529,
+        0.9761295822676898
+      ],
+      "variance": 0.5002638845264847
+    }
+  ]
+}

@@ -1,14 +1,14 @@
 {
-  "group_name": "assets\\minecraft\\textures\\blocks\\glass_light_blue.png",
+  "group_name": "assets\\minecraft\\textures\\blocks\\glass_orange.png",
   "segment_dicts": [
     {
       "equivalent": false,
       "hues": [
-        0.16666666666666666
+        0.5275159901815017
       ],
       "lightness": 0.8980392156862722,
       "sats": [
-        0.7772925764192139
+        0.814410480349345
       ],
       "vals": [
         0.8980392156862745

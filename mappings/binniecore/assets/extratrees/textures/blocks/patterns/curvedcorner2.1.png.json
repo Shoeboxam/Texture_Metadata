@@ -1,0 +1,53 @@
+{
+  "group_name": "binniecore\\assets\\botany\\textures\\blocks\\ceramic\\curvedcorner2.1.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.8543417366946777,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.673202614379085,
+        0.9607843137254902,
+        1.0
+      ],
+      "variance": 0.4193845715441345
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.8697478991596639,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.680672268907563,
+        0.893048128342246,
+        0.9764705882352941
+      ],
+      "variance": 0.4119558593267665
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.8689370485036119,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.6901960784313725,
+        0.9019607843137254,
+        0.9738562091503268
+      ],
+      "variance": 0.4123402769084254
+    }
+  ]
+}

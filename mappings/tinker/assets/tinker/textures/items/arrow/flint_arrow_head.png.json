@@ -1,0 +1,21 @@
+{
+  "group_name": "tinker\\assets\\tinker\\textures\\items\\arrow\\copper_arrow_head.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.2946078431372549,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.15686274509803924,
+        0.4444444444444444,
+        0.8274509803921568
+      ],
+      "variance": 0.3120102418818968
+    }
+  ]
+}

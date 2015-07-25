@@ -1,0 +1,36 @@
+{
+  "group_name": "extrautils\\assets\\extrautils\\textures\\items\\builderswand1.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.5392156862745097,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.5098039215686274,
+        0.5686274509803921
+      ],
+      "variance": 0.05488417997491262
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.6209150326797385,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.5098039215686274,
+        0.5686274509803921,
+        0.6745098039215687
+      ],
+      "variance": 0.04766257734663464
+    }
+  ]
+}

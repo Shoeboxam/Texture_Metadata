@@ -1,0 +1,25 @@
+{
+  "group_name": "binniecore\\assets\\extratrees\\textures\\blocks\\patterns\\thickdiagonal4edged.0.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.7379406726174377,
+        0.8108747044917256,
+        0.995434260212839
+      ],
+      "lightness": 0.28756354393609296,
+      "sats": [
+        0.7333836858006041,
+        0.4842174197773413,
+        0.4447949526813875
+      ],
+      "vals": [
+        0.09040998217468801,
+        0.29069103369503146,
+        0.447599729546991
+      ],
+      "variance": 0.5671378118075989
+    }
+  ]
+}

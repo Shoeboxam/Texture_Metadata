@@ -1,0 +1,25 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\hammer\\oodmod\\kroostyl_hammer_front.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.7530224525043178,
+        0.7534246575342466,
+        0.7534516765285996
+      ],
+      "lightness": 0.8892156862745098,
+      "sats": [
+        0.3443396226415095,
+        0.27453769559032715,
+        0.1674925668979188
+      ],
+      "vals": [
+        0.8313725490196079,
+        0.918954248366013,
+        0.9892156862745098
+      ],
+      "variance": 0.028912300586632945
+    }
+  ]
+}

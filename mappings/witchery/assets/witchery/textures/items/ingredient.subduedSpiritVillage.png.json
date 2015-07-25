@@ -1,0 +1,25 @@
+{
+  "group_name": "witchery\\assets\\witchery\\textures\\items\\ingredient.subduedSpiritVillage.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0973866356167928,
+        0.12491565452091768,
+        0.13956378798813246
+      ],
+      "lightness": 0.7407799074686054,
+      "sats": [
+        0.9571724614321897,
+        0.9143914854234151,
+        0.8608419645840294
+      ],
+      "vals": [
+        0.6200860832137732,
+        0.838375350140056,
+        0.8515686274509804
+      ],
+      "variance": 0.5411538891563662
+    }
+  ]
+}

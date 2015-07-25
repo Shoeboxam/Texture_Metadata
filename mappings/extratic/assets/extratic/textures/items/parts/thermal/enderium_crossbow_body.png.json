@@ -1,0 +1,25 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\parts\\aoa\\crystalitestone_crossbow_body.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.5021645021645021,
+        0.5030581039755352,
+        0.503968253968254
+      ],
+      "lightness": 0.29742002063983486,
+      "sats": [
+        0.875,
+        0.8651685393258427,
+        0.8594982078853046
+      ],
+      "vals": [
+        0.24866310160427807,
+        0.34901960784313724,
+        0.3764705882352941
+      ],
+      "variance": 0.5822312439363527
+    }
+  ]
+}

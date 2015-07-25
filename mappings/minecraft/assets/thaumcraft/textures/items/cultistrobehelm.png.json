@@ -1,0 +1,23 @@
+{
+  "group_name": "minecraft\\assets\\thaumcraft\\textures\\items\\voidrobehelm.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.4021437908496732,
+      "sats": [
+        0.5828173374613005,
+        0.5712715280322462,
+        0.5547683923705722
+      ],
+      "vals": [
+        0.18765432098765406,
+        0.42807843137254903,
+        0.6257459505541346
+      ],
+      "variance": 0.6067015184918544
+    }
+  ]
+}

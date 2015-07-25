@@ -1,0 +1,21 @@
+{
+  "group_name": "binniecore\\assets\\extratrees\\textures\\blocks\\patterns\\splitbarredend3.0.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.8386123680241327,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.6402714932126697,
+        0.8979039891818796,
+        0.9880647911338447
+      ],
+      "variance": 0.47053437876600607
+    }
+  ]
+}

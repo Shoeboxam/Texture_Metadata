@@ -1,0 +1,36 @@
+{
+  "group_name": "binniecore\\assets\\extratrees\\textures\\items\\door.solid.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.9423033581248592,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.49019607843137253,
+        0.9529411764705882
+      ],
+      "variance": 0.2830627966964383
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.7934147243803181,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.5882352941176471,
+        0.7490196078431373,
+        0.9529411764705883
+      ],
+      "variance": 0.33618108624791837
+    }
+  ]
+}

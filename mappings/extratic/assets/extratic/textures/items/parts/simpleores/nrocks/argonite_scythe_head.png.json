@@ -1,0 +1,25 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\parts\\natura\\netherquartz_scythe_head.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.7256135934550031,
+        0.7765700483091788,
+        0.7766143106457243
+      ],
+      "lightness": 0.3664985994397759,
+      "sats": [
+        1.0,
+        0.9928057553956835,
+        0.9802590993214065
+      ],
+      "vals": [
+        0.2542745098039216,
+        0.5450980392156862,
+        0.7490196078431373
+      ],
+      "variance": 0.6254786629788823
+    }
+  ]
+}

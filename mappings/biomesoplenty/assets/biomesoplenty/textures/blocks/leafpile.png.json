@@ -1,0 +1,21 @@
+{
+  "group_name": "biomesoplenty\\assets\\biomesoplenty\\textures\\blocks\\deadleafpile.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.5695827048768225,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.44450980392156864,
+        0.5583807716635041,
+        0.6750907770515614
+      ],
+      "variance": 0.3699826758560707
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "group_name": "tinker\\assets\\tinker\\textures\\items\\bolt\\moss_bolt_effect.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.3333333333333333
+      ],
+      "lightness": 0.35620915032679734,
+      "sats": [
+        0.5656565656565656,
+        0.5633802816901409,
+        0.525
+      ],
+      "vals": [
+        0.2784313725490196,
+        0.38823529411764707,
+        0.47058823529411764
+      ],
+      "variance": 0.2158061709841576
+    }
+  ]
+}

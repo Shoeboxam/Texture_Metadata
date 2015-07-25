@@ -1,0 +1,35 @@
+{
+  "group_name": "ic2\\assets\\ic2\\textures\\items\\itemIronCableIIII.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.07535014005602242,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.017450980392156874,
+        0.169281045751634,
+        0.37254901960784315
+      ],
+      "variance": 3.859206027050869
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.16848816029143898
+      ],
+      "lightness": 1.0,
+      "sats": [
+        0.7176470588235294
+      ],
+      "vals": [
+        1.0
+      ],
+      "variance": 0.2907917146433288
+    }
+  ]
+}

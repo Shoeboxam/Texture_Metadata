@@ -1,0 +1,23 @@
+{
+  "group_name": "witchery\\assets\\witchery\\textures\\items\\ingredient.brewVines.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.28346456692913385,
+        0.3461538461538461,
+        0.3471502590673576
+      ],
+      "lightness": 0.4239907727797001,
+      "sats": [
+        1.0
+      ],
+      "vals": [
+        0.33112745098039215,
+        0.4980392156862745,
+        0.5098039215686274
+      ],
+      "variance": 0.5684760910486192
+    }
+  ]
+}

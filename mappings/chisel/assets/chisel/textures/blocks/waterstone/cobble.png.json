@@ -1,0 +1,21 @@
+{
+  "group_name": "chisel\\assets\\chisel\\textures\\blocks\\waterstone\\cobble.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.4752283479779875,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.37653092006033184,
+        0.5017334470019892,
+        0.6455436720142602
+      ],
+      "variance": 0.2536701054955228
+    }
+  ]
+}

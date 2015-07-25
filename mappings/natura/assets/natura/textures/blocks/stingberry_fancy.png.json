@@ -1,0 +1,23 @@
+{
+  "group_name": "natura\\assets\\natura\\textures\\blocks\\stingberry_fancy.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.05233327035707538,
+        0.05688202247191012,
+        0.06056651198762567
+      ],
+      "lightness": 0.5954166666666667,
+      "sats": [
+        1.0
+      ],
+      "vals": [
+        0.47174688057041003,
+        0.60084388185654,
+        0.7308956014838368
+      ],
+      "variance": 0.4849981954634352
+    }
+  ]
+}

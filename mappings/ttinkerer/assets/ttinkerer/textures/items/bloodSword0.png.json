@@ -1,0 +1,23 @@
+{
+  "group_name": "ttinkerer\\assets\\ttinkerer\\textures\\items\\bloodSword0.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.32910539215686274,
+      "sats": [
+        0.9710982658959537,
+        0.9415152857775809,
+        0.7886962106615285
+      ],
+      "vals": [
+        0.22614379084967318,
+        0.34042232277526396,
+        0.5550802139037433
+      ],
+      "variance": 0.9258619653899656
+    }
+  ]
+}

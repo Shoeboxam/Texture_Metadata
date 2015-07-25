@@ -1,0 +1,25 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\throwingknife\\aoa\\jade_knife_blade.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0,
+        0.01879528985507245,
+        0.019841269841269844
+      ],
+      "lightness": 0.252415112386418,
+      "sats": [
+        0.8571428571428572,
+        0.847926267281106,
+        7.077671781985368e-16
+      ],
+      "vals": [
+        0.05882352941176475,
+        0.3843137254901961,
+        0.48627450980392156
+      ],
+      "variance": 0.4755150171544015
+    }
+  ]
+}

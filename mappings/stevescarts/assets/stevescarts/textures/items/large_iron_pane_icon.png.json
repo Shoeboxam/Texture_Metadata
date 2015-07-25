@@ -1,0 +1,66 @@
+{
+  "group_name": "stevescarts\\assets\\stevescarts\\textures\\items\\large_dynamic_pane_icon.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.7989566468789351,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.7071895424836602,
+        0.8503770739064856,
+        0.9487179487179488
+      ],
+      "variance": 0.5114301979132451
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.8352941176470589,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.8352941176470589
+      ],
+      "variance": 0.4891816515940661
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.6954248366013072,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.6901960784313725,
+        0.6980392156862745
+      ],
+      "variance": 0.5875696905424967
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.8437564499484004,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.7043137254901961,
+        0.8470588235294118,
+        0.9555555555555556
+      ],
+      "variance": 0.4842754755384505
+    }
+  ]
+}

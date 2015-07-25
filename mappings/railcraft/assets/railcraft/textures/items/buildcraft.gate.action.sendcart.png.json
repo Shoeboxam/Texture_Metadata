@@ -1,0 +1,25 @@
+{
+  "group_name": "stevescarts\\assets\\stevescarts\\textures\\items\\reinforced_hull_icon.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.589126559714793,
+        0.6084529505582142,
+        0.0
+      ],
+      "lightness": 0.46409644939056705,
+      "sats": [
+        1.0,
+        0.06605562579013906,
+        0.05972532737144809
+      ],
+      "vals": [
+        0.15158557250060517,
+        0.5394714407502131,
+        1.0
+      ],
+      "variance": 0.7929678538747279
+    }
+  ]
+}

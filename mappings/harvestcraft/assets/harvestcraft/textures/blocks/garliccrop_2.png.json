@@ -1,0 +1,22 @@
+{
+  "group_name": "harvestcraft\\assets\\harvestcraft\\textures\\blocks\\garliccrop_1.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.2554347826086956,
+        0.3028169014084507
+      ],
+      "lightness": 0.4065359477124183,
+      "sats": [
+        1.0,
+        0.7666666666666667
+      ],
+      "vals": [
+        0.2784313725490196,
+        0.47058823529411764
+      ],
+      "variance": 0.42559680381482523
+    }
+  ]
+}

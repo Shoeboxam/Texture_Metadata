@@ -1,0 +1,21 @@
+{
+  "group_name": "tinker\\assets\\tinker\\textures\\items\\shovel\\copper_shovel_handle.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.2643790849673202,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.0,
+        0.2,
+        0.6778711484593837
+      ],
+      "variance": 0.4408390465670082
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "group_name": "logisticspipes\\assets\\logisticspipes\\textures\\blocks\\pipes\\overlay_gen\\chassi\\status_overlay\\direction\\powered-pipe.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.8333333333333334,
+        0.03778248587570623,
+        0.09999999999999999
+      ],
+      "lightness": 0.47291212781408853,
+      "sats": [
+        1.0,
+        4.966787215428331e-16
+      ],
+      "vals": [
+        2.7755575615628914e-16,
+        0.6705882352941177,
+        0.9254901960784314
+      ],
+      "variance": 0.7720700760973308
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.25,
+      "sats": [
+        1.0,
+        0.0
+      ],
+      "vals": [
+        0.0,
+        1.0
+      ],
+      "variance": 1.4604852100350958
+    }
+  ]
+}

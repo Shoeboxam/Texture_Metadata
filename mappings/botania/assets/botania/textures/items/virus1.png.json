@@ -1,0 +1,21 @@
+{
+  "group_name": "botania\\assets\\botania\\textures\\items\\virus0.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.6186416595623757,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.4733660130718955,
+        0.5565490196078431,
+        0.8705882352941176
+      ],
+      "variance": 0.4662026542777811
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\lumberaxe\\generic\\amethyst_lumberaxe_handle.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.5456989247311826,
+        0.545751633986928,
+        0.5467171717171717
+      ],
+      "lightness": 0.6766295707472179,
+      "sats": [
+        0.6019417475728156,
+        0.5964912280701754,
+        0.24892241379310337
+      ],
+      "vals": [
+        0.403921568627451,
+        0.6705882352941176,
+        0.8562860438292964
+      ],
+      "variance": 0.20043254877031688
+    }
+  ]
+}

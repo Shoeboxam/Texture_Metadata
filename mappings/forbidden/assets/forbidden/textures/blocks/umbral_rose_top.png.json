@@ -1,0 +1,53 @@
+{
+  "group_name": "binniecore\\assets\\botany\\textures\\blocks\\flowers\\double\\double_plant_rose_top.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.13725490196078433,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.13725490196078433
+      ],
+      "variance": 1.7323589494660512
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.18137254901960778,
+        0.2961482961482962,
+        0.30653153153153156
+      ],
+      "lightness": 0.4305882352941176,
+      "sats": [
+        1.0
+      ],
+      "vals": [
+        0.2666666666666666,
+        0.39572192513368987,
+        0.5607843137254902
+      ],
+      "variance": 0.5522091368971931
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.04933333333333333,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.027450980392156873,
+        0.06547314578005115,
+        0.13725490196078433
+      ],
+      "variance": 4.819758603442909
+    }
+  ]
+}

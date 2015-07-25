@@ -1,0 +1,35 @@
+{
+  "group_name": "binniecore\\assets\\extrabees\\textures\\items\\misc\\dyeWhite.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.4260935143288085,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.2549019607843137,
+        0.43058823529411766,
+        0.5638945233265721
+      ],
+      "variance": 0.4905213119810631
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.2549019607843137,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.2549019607843137
+      ],
+      "variance": 0.8199542641103571
+    }
+  ]
+}

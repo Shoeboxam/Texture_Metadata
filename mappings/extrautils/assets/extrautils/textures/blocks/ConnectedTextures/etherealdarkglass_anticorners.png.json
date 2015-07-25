@@ -1,0 +1,35 @@
+{
+  "group_name": "binniecore\\assets\\botany\\textures\\blocks\\ceramic\\thickcrossed.1.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.11529411764705884,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.06274509803921569,
+        0.12380952380952381,
+        0.15294117647058825
+      ],
+      "variance": 0.25788588748504676
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.15294117647058825,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.15294117647058825
+      ],
+      "variance": 0.1944062844118045
+    }
+  ]
+}

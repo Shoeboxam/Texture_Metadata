@@ -1,0 +1,22 @@
+{
+  "group_name": "bibliocraft\\assets\\bibliocraft\\textures\\models\\lanternCandle11.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.008474576271186455,
+        0.009259259259259264
+      ],
+      "lightness": 0.6660555131143368,
+      "sats": [
+        0.6835443037974684,
+        0.67816091954023
+      ],
+      "vals": [
+        0.6196078431372549,
+        0.6823529411764706
+      ],
+      "variance": 0.22562901655048256
+    }
+  ]
+}

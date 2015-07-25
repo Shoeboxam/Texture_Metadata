@@ -1,0 +1,97 @@
+{
+  "group_name": "logisticspipes\\assets\\logisticspipes\\textures\\blocks\\pipes\\overlay_gen\\entrance\\un-overlayed.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0,
+        0.2836601307189543,
+        0.3333333333333333
+      ],
+      "lightness": 0.23076923076923078,
+      "sats": [
+        1.0,
+        0.0
+      ],
+      "vals": [
+        0.0,
+        8.326672684688674e-17,
+        1.0
+      ],
+      "variance": 1.263082580105777
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.2836601307189543
+      ],
+      "lightness": 1.0,
+      "sats": [
+        1.0
+      ],
+      "vals": [
+        1.0
+      ],
+      "variance": 0.2914805954090255
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.2836601307189543
+      ],
+      "lightness": 1.0,
+      "sats": [
+        1.0
+      ],
+      "vals": [
+        1.0
+      ],
+      "variance": 0.2914805954090255
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.2836601307189543
+      ],
+      "lightness": 1.0,
+      "sats": [
+        1.0
+      ],
+      "vals": [
+        1.0
+      ],
+      "variance": 0.2914805954090255
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0,
+        0.34117647058823525
+      ],
+      "lightness": 0.2,
+      "sats": [
+        1.0,
+        0.0
+      ],
+      "vals": [
+        0.0,
+        1.0
+      ],
+      "variance": 1.4574029770451273
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.2836601307189543
+      ],
+      "lightness": 1.0,
+      "sats": [
+        1.0
+      ],
+      "vals": [
+        1.0
+      ],
+      "variance": 0.2914805954090255
+    }
+  ]
+}

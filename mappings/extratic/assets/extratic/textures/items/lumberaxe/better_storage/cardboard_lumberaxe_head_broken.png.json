@@ -1,0 +1,25 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\lumberaxe\\oodmod\\kroostyl_lumberaxe_head_broken.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.09182590233545647,
+        0.09356725146198831,
+        0.09616469261139311
+      ],
+      "lightness": 0.34829001367989054,
+      "sats": [
+        0.6,
+        0.5946969696969697,
+        0.5633937082936129
+      ],
+      "vals": [
+        0.31644042232277525,
+        0.37254901960784315,
+        0.41411764705882353
+      ],
+      "variance": 0.47899024334968815
+    }
+  ]
+}

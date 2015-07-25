@@ -1,0 +1,41 @@
+{
+  "group_name": "buildcraft\\assets\\buildcraft\\textures\\blocks\\pipeAllIron_solid.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        1.0,
+        0.0,
+        0.14041994750656148
+      ],
+      "lightness": 0.9032225063938619,
+      "sats": [
+        1.0,
+        0.671957671957672
+      ],
+      "vals": [
+        0.7411764705882355,
+        0.9999999999999998,
+        1.0
+      ],
+      "variance": 0.16922345898728855
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0,
+        0.14041994750656164
+      ],
+      "lightness": 0.7916786226685797,
+      "sats": [
+        1.0,
+        0.671957671957672
+      ],
+      "vals": [
+        0.7411764705882353,
+        1.0
+      ],
+      "variance": 0.1930662675365983
+    }
+  ]
+}

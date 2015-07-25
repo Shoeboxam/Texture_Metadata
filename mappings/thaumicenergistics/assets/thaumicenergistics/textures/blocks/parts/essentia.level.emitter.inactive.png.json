@@ -1,0 +1,63 @@
+{
+  "group_name": "thaumicenergistics\\assets\\thaumicenergistics\\textures\\blocks\\parts\\essentia.level.emitter.inactive.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.6117647058823529,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.5529411764705883,
+        0.6705882352941176
+      ],
+      "variance": 0.16727403803884244
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.6313725490196079,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.611764705882353,
+        0.6509803921568628
+      ],
+      "variance": 0.162079192137015
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.6705882352941176,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.6705882352941176
+      ],
+      "variance": 0.15260087680736503
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.5529411764705883,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.5529411764705883
+      ],
+      "variance": 0.1850691484685065
+    }
+  ]
+}

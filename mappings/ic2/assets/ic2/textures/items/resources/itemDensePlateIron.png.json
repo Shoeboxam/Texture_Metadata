@@ -1,0 +1,21 @@
+{
+  "group_name": "ic2\\assets\\ic2\\textures\\items\\resources\\itemDensePlateBronze.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.6296840958605664,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.5294117647058822,
+        0.6392156862745098,
+        0.7215686274509803
+      ],
+      "variance": 0.4390278881058337
+    }
+  ]
+}

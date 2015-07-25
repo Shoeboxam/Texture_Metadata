@@ -1,0 +1,21 @@
+{
+  "group_name": "buildcraft\\assets\\buildcraft\\textures\\blocks\\gates\\gate_or_lit.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.2551152678644679,
+      "sats": [
+        1.0
+      ],
+      "vals": [
+        0.13647058823529412,
+        0.24537815126050422,
+        0.4176470588235294
+      ],
+      "variance": 0.26494199939555657
+    }
+  ]
+}

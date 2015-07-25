@@ -1,0 +1,48 @@
+{
+  "group_name": "botania\\assets\\botania\\textures\\items\\triggers\\manaSpace.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.5697478991596637,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.5411764705882353,
+        0.6078431372549019
+      ],
+      "variance": 0.28064275322815696
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.5176470588235293
+      ],
+      "lightness": 1.0,
+      "sats": [
+        1.0
+      ],
+      "vals": [
+        1.0
+      ],
+      "variance": 0.15989561906612637
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.5176470588235293
+      ],
+      "lightness": 1.0,
+      "sats": [
+        1.0
+      ],
+      "vals": [
+        1.0
+      ],
+      "variance": 0.15989561906612637
+    }
+  ]
+}

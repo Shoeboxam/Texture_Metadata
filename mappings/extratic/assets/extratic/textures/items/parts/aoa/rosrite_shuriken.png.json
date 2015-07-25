@@ -1,0 +1,25 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\parts\\metallurgy3\\precious\\brass_shuriken.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.9959568733153639,
+        0.0019893899204244114,
+        0.016666666666666646
+      ],
+      "lightness": 0.4311111111111111,
+      "sats": [
+        0.9999999999999999,
+        0.9228886168910648,
+        0.8299776286353467
+      ],
+      "vals": [
+        0.2352941176470588,
+        0.6407843137254903,
+        0.8764705882352941
+      ],
+      "variance": 0.3675291578481738
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "group_name": "binniecore\\assets\\extratrees\\textures\\blocks\\patterns\\curvedcorner.0.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.9108910891089109,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.6953242835595778,
+        0.8954248366013071,
+        0.9778683750728014
+      ],
+      "variance": 0.41835703926879925
+    }
+  ]
+}

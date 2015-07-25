@@ -1,0 +1,35 @@
+{
+  "group_name": "ic2\\assets\\ic2\\textures\\items\\itemTinCanFilled.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.439520697167756,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.2537254901960785,
+        0.5735294117647058,
+        0.9009803921568628
+      ],
+      "variance": 0.7728732903352997
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.09019607843137256,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.09019607843137255
+      ],
+      "variance": 3.766170473242593
+    }
+  ]
+}

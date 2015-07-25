@@ -1,0 +1,21 @@
+{
+  "group_name": "appliedenergistics2\\assets\\appliedenergistics2\\textures\\blocks\\BlockCraftingStorage16kFit.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.7943262411347517,
+        0.7967320261437908
+      ],
+      "lightness": 0.8832244008714597,
+      "sats": [
+        1.0
+      ],
+      "vals": [
+        0.7372549019607844,
+        1.0
+      ],
+      "variance": 0.07200940298973459
+    }
+  ]
+}

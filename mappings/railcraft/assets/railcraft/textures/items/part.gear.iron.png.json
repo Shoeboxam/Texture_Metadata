@@ -1,0 +1,67 @@
+{
+  "group_name": "railcraft\\assets\\railcraft\\textures\\items\\part.gear.iron.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.47143614202437734,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.33529411764705885,
+        0.7482352941176471,
+        0.830718954248366
+      ],
+      "variance": 0.7941648118364982
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.7073007926574885,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.37529411764705894,
+        0.8063492063492064,
+        0.9709447415329768
+      ],
+      "variance": 0.5293334871250698
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.3411764705882353,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.32941176470588235,
+        0.3411764705882353,
+        0.35294117647058826
+      ],
+      "variance": 1.097373433690197
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 1.0,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        1.0
+      ],
+      "variance": 0.3743979950237143
+    }
+  ]
+}

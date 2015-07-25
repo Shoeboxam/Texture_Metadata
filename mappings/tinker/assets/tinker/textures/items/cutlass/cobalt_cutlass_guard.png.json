@@ -1,0 +1,33 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\cutlass\\twilightforest\\fiery_cutlass_guard.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.6372549019607843
+      ],
+      "lightness": 0.2901960784313726,
+      "sats": [
+        0.6891891891891891
+      ],
+      "vals": [
+        0.2901960784313726
+      ],
+      "variance": 0.16308301363396954
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.6372549019607843
+      ],
+      "lightness": 0.2901960784313726,
+      "sats": [
+        0.6891891891891891
+      ],
+      "vals": [
+        0.2901960784313726
+      ],
+      "variance": 0.16308301363396954
+    }
+  ]
+}

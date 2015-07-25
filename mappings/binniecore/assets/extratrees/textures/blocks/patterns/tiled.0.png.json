@@ -1,0 +1,36 @@
+{
+  "group_name": "binniecore\\assets\\extratrees\\textures\\blocks\\patterns\\tiled.0.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.8257080610021786,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.6605151864667436,
+        0.8875432525951558,
+        0.9799139167862266
+      ],
+      "variance": 0.513886906052404
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.6862745098039216,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.6666666666666666,
+        0.7058823529411765
+      ],
+      "variance": 0.6182956742662257
+    }
+  ]
+}

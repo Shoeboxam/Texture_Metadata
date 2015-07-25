@@ -1,0 +1,111 @@
+{
+  "group_name": "appliedenergistics2\\assets\\appliedenergistics2\\textures\\blocks\\MECovered_Purple.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.28627450980392155,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.28627450980392155
+      ],
+      "variance": 0.7646838479527499
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.28627450980392155,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.28627450980392155
+      ],
+      "variance": 0.7646838479527499
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.28627450980392155,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.28627450980392155
+      ],
+      "variance": 0.7646838479527499
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.6160272804774083,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.2862745098039216,
+        0.6588235294117647,
+        1.0
+      ],
+      "variance": 0.3553568172467941
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.3457516339869281,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.28627450980392155,
+        1.0
+      ],
+      "variance": 0.6331408797794035
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0,
+        0.08888888888888948
+      ],
+      "lightness": 0.3548275006205014,
+      "sats": [
+        0.022781926338438778,
+        0.0
+      ],
+      "vals": [
+        0.2741974665972584,
+        0.5019607843137255,
+        1.0
+      ],
+      "variance": 0.6169462438645087
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.388235294117647,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.28627450980392155,
+        1.0
+      ],
+      "variance": 0.5638577868742499
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "group_name": "binniecore\\assets\\extratrees\\textures\\blocks\\patterns\\wavybarredalt2.0.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.8815870098039216,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.6698039215686273,
+        0.8944741532976827,
+        0.9771241830065359
+      ],
+      "variance": 0.5085620560546876
+    }
+  ]
+}

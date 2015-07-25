@@ -1,0 +1,21 @@
+{
+  "group_name": "railcraft\\assets\\railcraft\\textures\\blocks\\ore.sulfur.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.8643522982963677,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.7703703703703704,
+        0.8678921568627451,
+        0.9009803921568628
+      ],
+      "variance": 0.4267428621631251
+    }
+  ]
+}

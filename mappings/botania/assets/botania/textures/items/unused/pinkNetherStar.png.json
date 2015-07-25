@@ -1,0 +1,24 @@
+{
+  "group_name": "botania\\assets\\botania\\textures\\items\\unused\\pinkNetherStar.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.8433333333333333,
+        0.8623188405797102,
+        0.8898189737307745
+      ],
+      "lightness": 0.9419822723609992,
+      "sats": [
+        0.746268656716418,
+        0.5411764705882354,
+        0.2400980392156864
+      ],
+      "vals": [
+        0.7882352941176469,
+        1.0
+      ],
+      "variance": 0.3480473669483652
+    }
+  ]
+}

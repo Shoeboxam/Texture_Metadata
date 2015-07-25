@@ -1,0 +1,49 @@
+{
+  "group_name": "minefactoryreloaded\\assets\\minefactoryreloaded\\textures\\items\\gui\\netherwart.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.21568627450980396,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.21568627450980393
+      ],
+      "variance": 0.49080090085171946
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.2657811511701455,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.21568627450980393,
+        0.3568627450980392
+      ],
+      "variance": 0.3982939247749556
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.32156862745098036,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.21568627450980393,
+        0.3568627450980392
+      ],
+      "variance": 0.32919572618103143
+    }
+  ]
+}

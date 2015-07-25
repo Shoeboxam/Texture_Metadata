@@ -1,0 +1,66 @@
+{
+  "group_name": "railcraft\\assets\\railcraft\\textures\\items\\borehead.iron.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.5254901960784314,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.4392156862745098,
+        0.611764705882353
+      ],
+      "variance": 0.42153606366505236
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.4392156862745098,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.4392156862745098
+      ],
+      "variance": 0.504337790456402
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.611764705882353,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.611764705882353
+      ],
+      "variance": 0.36208867007126294
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.5795454545454546,
+        0.5801282051282052,
+        0.5817239687076009
+      ],
+      "lightness": 0.563168449197861,
+      "sats": [
+        1.0
+      ],
+      "vals": [
+        0.5176470588235293,
+        0.5660294117647059,
+        0.611764705882353
+      ],
+      "variance": 0.3933335915124271
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "group_name": "appliedenergistics2\\assets\\appliedenergistics2\\textures\\blocks\\MECable_White.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.8235555555555556,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.745252837977296,
+        0.8420168067226891,
+        0.9416879795396418
+      ],
+      "variance": 0.48569349706042186
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.943393009377664,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.9372549019607843,
+        0.9529411764705882,
+        0.9686274509803922
+      ],
+      "variance": 0.4239967583236437
+    }
+  ]
+}

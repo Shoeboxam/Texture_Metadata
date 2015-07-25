@@ -1,0 +1,21 @@
+{
+  "group_name": "forestry\\assets\\forestry\\textures\\blocks\\candleTipLit.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.7019607843137254,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.6607843137254902,
+        0.7058823529411765,
+        0.7803921568627451
+      ],
+      "variance": 0.26561247482274364
+    }
+  ]
+}

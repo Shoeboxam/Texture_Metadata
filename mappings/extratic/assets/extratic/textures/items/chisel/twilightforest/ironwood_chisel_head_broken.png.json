@@ -1,0 +1,25 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\chisel\\metallurgy3\\fantasy\\astral_silver_chisel_head_broken.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.06862745098039218,
+        0.0686274509803922,
+        0.12865497076023394
+      ],
+      "lightness": 0.29780853517877737,
+      "sats": [
+        0.4351145038167938,
+        0.3207547169811321,
+        0.320754716981132
+      ],
+      "vals": [
+        0.20784313725490194,
+        0.20784313725490197,
+        0.5137254901960784
+      ],
+      "variance": 0.5993451521361524
+    }
+  ]
+}

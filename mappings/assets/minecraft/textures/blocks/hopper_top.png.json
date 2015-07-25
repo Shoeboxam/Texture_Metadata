@@ -1,14 +1,14 @@
 {
-  "group_name": "assets\\minecraft\\textures\\blocks\\cauldron_top.png",
+  "group_name": "assets\\minecraft\\textures\\blocks\\hopper_top.png",
   "segment_dicts": [
     {
       "equivalent": true,
       "hues": [
-        0.0
+        0.6666666666666666
       ],
       "lightness": 0.2725490196078431,
       "sats": [
-        0.0
+        1.0
       ],
       "vals": [
         0.24096787651230706,

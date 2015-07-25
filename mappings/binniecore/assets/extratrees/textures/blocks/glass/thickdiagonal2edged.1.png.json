@@ -1,0 +1,19 @@
+{
+  "group_name": "binniecore\\assets\\extratrees\\textures\\blocks\\glass\\diagonal2edged.0.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 1.0000000000000004,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        1.0
+      ],
+      "variance": 0.26836818808308843
+    }
+  ]
+}

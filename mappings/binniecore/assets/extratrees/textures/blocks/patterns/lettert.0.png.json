@@ -1,0 +1,36 @@
+{
+  "group_name": "binniecore\\assets\\extratrees\\textures\\blocks\\patterns\\lettert.0.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.9738562091503267,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.9607843137254902,
+        1.0
+      ],
+      "variance": 0.3088043083876278
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.7965023847376789,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.6196078431372549,
+        0.6901960784313725,
+        0.9630911188004614
+      ],
+      "variance": 0.3775644604437773
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "group_name": "appliedenergistics2\\assets\\appliedenergistics2\\textures\\blocks\\BlockQuartzLamp.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.996078431372549,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.996078431372549
+      ],
+      "variance": 0.49279603341605477
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.6231884057971014
+      ],
+      "lightness": 0.9647058823529412,
+      "sats": [
+        0.0934959349593496
+      ],
+      "vals": [
+        0.9647058823529412
+      ],
+      "variance": 0.5088219206816176
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.6231884057971014,
+        0.0
+      ],
+      "lightness": 0.9803921568627452,
+      "sats": [
+        0.0934959349593496,
+        0.0
+      ],
+      "vals": [
+        0.9647058823529412,
+        0.996078431372549
+      ],
+      "variance": 0.5006807699507116
+    }
+  ]
+}

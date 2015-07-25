@@ -1,0 +1,36 @@
+{
+  "group_name": "ttinkerer\\assets\\ttinkerer\\textures\\blocks\\crop_ignis_3.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.8,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.7372549019607844,
+        0.8627450980392157
+      ],
+      "variance": 0.4509751091116746
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.3980392156862745,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.23529411764705882,
+        0.37403285638579753,
+        0.7176470588235294
+      ],
+      "variance": 0.906393322746617
+    }
+  ]
+}

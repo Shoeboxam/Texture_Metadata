@@ -1,0 +1,37 @@
+{
+  "group_name": "ttinkerer\\assets\\ttinkerer\\textures\\blocks\\crop_generic_0.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.3793028322440087,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.27886710239651413,
+        0.42745098039215684,
+        0.6627450980392157
+      ],
+      "variance": 0.5377708129479294
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.6411764705882353,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.42745098039215684,
+        0.6627450980392157,
+        0.7372549019607844
+      ],
+      "variance": 0.31813081391177195
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "group_name": "harvestcraft\\assets\\harvestcraft\\textures\\blocks\\broccolicrop_0.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.2557077625570776,
+        0.25614552605703045,
+        0.2583333333333333
+      ],
+      "lightness": 0.5991744066047471,
+      "sats": [
+        0.5011086474501107,
+        0.5,
+        0.40109890109890123
+      ],
+      "vals": [
+        0.5305882352941176,
+        0.6274509803921569,
+        0.7137254901960784
+      ],
+      "variance": 0.5164447681207007
+    }
+  ]
+}

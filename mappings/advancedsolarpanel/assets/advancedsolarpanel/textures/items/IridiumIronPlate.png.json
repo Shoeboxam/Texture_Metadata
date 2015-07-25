@@ -1,0 +1,25 @@
+{
+  "group_name": "advancedsolarpanel\\assets\\advancedsolarpanel\\textures\\items\\IridiumIronPlate.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.5155826558265582,
+        0.5300801339552684,
+        0.5470037453183519
+      ],
+      "lightness": 0.8712489343563512,
+      "sats": [
+        0.18776371308016876,
+        0.11824352991090373,
+        0.07828785106213697
+      ],
+      "vals": [
+        0.7149321266968325,
+        0.8719940806511284,
+        0.9478883861236802
+      ],
+      "variance": 0.09994100236545889
+    }
+  ]
+}

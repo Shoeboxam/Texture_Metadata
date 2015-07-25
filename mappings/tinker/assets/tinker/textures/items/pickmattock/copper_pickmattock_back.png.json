@@ -1,0 +1,25 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\mattock\\metallurgy3\\nether\\vyroxeres_mattock_back.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.07450181159420288,
+        0.07720344599072233,
+        0.07801418439716312
+      ],
+      "lightness": 0.49730392156862746,
+      "sats": [
+        1.0,
+        0.9328263624841571,
+        0.8034188034188033
+      ],
+      "vals": [
+        0.3586452762923351,
+        0.7735294117647059,
+        0.9176470588235294
+      ],
+      "variance": 0.26456995293703894
+    }
+  ]
+}

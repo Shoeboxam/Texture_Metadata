@@ -1,0 +1,37 @@
+{
+  "group_name": "binniecore\\assets\\extratrees\\textures\\blocks\\patterns\\corner2.1.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.7886710239651415,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.7026143790849674,
+        0.9215686274509803,
+        0.9803921568627452
+      ],
+      "variance": 0.4932546174435437
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.9044563279857397,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.6819172113289761,
+        0.8954248366013071,
+        0.9817927170868347
+      ],
+      "variance": 0.4301099037927979
+    }
+  ]
+}

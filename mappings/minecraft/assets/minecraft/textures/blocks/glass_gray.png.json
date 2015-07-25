@@ -1,0 +1,19 @@
+{
+  "group_name": "minecraft\\assets\\minecraft\\textures\\blocks\\glass_gray.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.29803921568627373,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.2980392156862745
+      ],
+      "variance": 1.8625452057856293e-16
+    }
+  ]
+}

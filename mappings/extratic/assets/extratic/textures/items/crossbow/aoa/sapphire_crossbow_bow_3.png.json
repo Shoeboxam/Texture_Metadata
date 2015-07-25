@@ -1,0 +1,38 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\crossbow\\ae\\certus_quartz_crossbow_bow_3.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.625
+      ],
+      "lightness": 0.23529411764705882,
+      "sats": [
+        1.0
+      ],
+      "vals": [
+        0.23529411764705882
+      ],
+      "variance": 0.47487884225563115
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.6044776119402985,
+        0.6254789272030651,
+        0.6270833333333333
+      ],
+      "lightness": 0.6602759622367466,
+      "sats": [
+        1.0,
+        0.9136363636363637
+      ],
+      "vals": [
+        0.3137254901960784,
+        0.6823529411764706,
+        0.8627450980392157
+      ],
+      "variance": 0.16922651219844312
+    }
+  ]
+}

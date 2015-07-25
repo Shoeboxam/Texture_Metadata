@@ -1,0 +1,47 @@
+{
+  "group_name": "buildcraft\\assets\\buildcraft\\textures\\blocks\\gates\\gate_material_iron.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.529723991507431
+      ],
+      "lightness": 0.8666666666666667,
+      "sats": [
+        0.7104072398190046
+      ],
+      "vals": [
+        0.8666666666666667
+      ],
+      "variance": 0.019079937339408104
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.529723991507431
+      ],
+      "lightness": 0.8666666666666667,
+      "sats": [
+        0.7104072398190046
+      ],
+      "vals": [
+        0.8666666666666667
+      ],
+      "variance": 0.019079937339408104
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.529723991507431
+      ],
+      "lightness": 0.8666666666666667,
+      "sats": [
+        0.7104072398190046
+      ],
+      "vals": [
+        0.8666666666666667
+      ],
+      "variance": 0.019079937339408104
+    }
+  ]
+}

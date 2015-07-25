@@ -1,0 +1,36 @@
+{
+  "group_name": "binniecore\\assets\\extratrees\\textures\\blocks\\patterns\\circle.0.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.8945701357466063,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.6573295985060691,
+        0.9052287581699346,
+        0.9831932773109243
+      ],
+      "variance": 0.5064879565605149
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.7058823529411764,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.6862745098039216,
+        0.7254901960784313
+      ],
+      "variance": 0.6418760834103449
+    }
+  ]
+}

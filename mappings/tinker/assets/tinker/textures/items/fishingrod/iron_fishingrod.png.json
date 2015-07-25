@@ -1,0 +1,65 @@
+{
+  "group_name": "tinker\\assets\\tinker\\textures\\items\\fishingrod\\iron_fishingrod.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.20784313725490197,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.20784313725490197
+      ],
+      "variance": 1.078131446711053
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.4676470588235294,
+      "sats": [
+        0.009685230024213143,
+        2.8043605173904276e-15,
+        1.217902066512931e-16
+      ],
+      "vals": [
+        0.05938375350140063,
+        0.5114551083591331,
+        0.9115864527629233
+      ],
+      "variance": 0.4791695318715791
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.10919540229885057
+      ],
+      "lightness": 0.15686274509803919,
+      "sats": [
+        0.725
+      ],
+      "vals": [
+        0.1568627450980392
+      ],
+      "variance": 1.4285241668921456
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.0,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.0
+      ],
+      "variance": Infinity
+    }
+  ]
+}

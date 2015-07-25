@@ -1,0 +1,21 @@
+{
+  "group_name": "chisel\\assets\\chisel\\textures\\blocks\\glass\\terrain-glass-screen.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.15683210784313728,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.12218782249742002,
+        0.15819209039548024,
+        0.19671094244149273
+      ],
+      "variance": 0.23271304033756438
+    }
+  ]
+}

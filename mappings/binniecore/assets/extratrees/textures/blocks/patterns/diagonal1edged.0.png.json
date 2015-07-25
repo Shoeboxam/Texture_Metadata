@@ -1,0 +1,21 @@
+{
+  "group_name": "binniecore\\assets\\botany\\textures\\blocks\\ceramic\\diagonal1edged.0.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.8490196078431373,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.6519607843137255,
+        0.8823529411764706,
+        1.0
+      ],
+      "variance": 0.19750379506883164
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "group_name": "binniecore\\assets\\genetics\\textures\\items\\enzyme.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.40000000000000013,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.4
+      ],
+      "variance": 0.5288352070738187
+    }
+  ]
+}

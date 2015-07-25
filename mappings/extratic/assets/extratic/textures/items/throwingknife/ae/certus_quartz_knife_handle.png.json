@@ -1,0 +1,33 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\throwingknife\\ae\\certus_quartz_knife_handle.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.5964912280701754
+      ],
+      "lightness": 0.47450980392156866,
+      "sats": [
+        0.15702479338842967
+      ],
+      "vals": [
+        0.4745098039215686
+      ],
+      "variance": 0.28199457074717843
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.10416666666666667
+      ],
+      "lightness": 0.21568627450980396,
+      "sats": [
+        0.2909090909090909
+      ],
+      "vals": [
+        0.21568627450980393
+      ],
+      "variance": 0.6203880556437925
+    }
+  ]
+}

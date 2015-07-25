@@ -1,0 +1,37 @@
+{
+  "group_name": "funkylocomotion\\assets\\funkylocomotion\\textures\\blocks\\frame_open.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.29784313725490197,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.27233115468409586,
+        0.2966230936819172,
+        0.31607843137254904
+      ],
+      "variance": 0.45886335692155167
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.2433634992458522,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.23351158645276293,
+        0.24649859943977592,
+        0.2601307189542484
+      ],
+      "variance": 0.5615850454992178
+    }
+  ]
+}

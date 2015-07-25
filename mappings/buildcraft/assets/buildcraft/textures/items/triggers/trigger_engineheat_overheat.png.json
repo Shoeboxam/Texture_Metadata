@@ -1,0 +1,36 @@
+{
+  "group_name": "buildcraft\\assets\\buildcraft\\textures\\items\\triggers\\trigger_engineheat_overheat.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.0991926182237601,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.058823529411764684,
+        0.09803921568627451,
+        0.21568627450980393
+      ],
+      "variance": 0.42974611183907463
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.1568627450980392,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.09803921568627451,
+        0.21568627450980393
+      ],
+      "variance": 0.27175121778059136
+    }
+  ]
+}

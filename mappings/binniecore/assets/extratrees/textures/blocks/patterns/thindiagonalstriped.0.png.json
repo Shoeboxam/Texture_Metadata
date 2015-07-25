@@ -1,0 +1,36 @@
+{
+  "group_name": "binniecore\\assets\\extratrees\\textures\\blocks\\patterns\\thindiagonalstriped.0.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.799396681749623,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.6678200692041523,
+        0.8941176470588235,
+        0.9901960784313726
+      ],
+      "variance": 0.44778429457170654
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.6339869281045751,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.6274509803921569,
+        0.6470588235294118
+      ],
+      "variance": 0.564613028048385
+    }
+  ]
+}

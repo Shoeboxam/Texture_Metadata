@@ -1,0 +1,21 @@
+{
+  "group_name": "witchery\\assets\\witchery\\textures\\blocks\\shadedglassoff_magenta.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.18254930364226837,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.17588352706352003,
+        0.18886274509803921,
+        0.19185049019607844
+      ],
+      "variance": 0.050445069646664925
+    }
+  ]
+}

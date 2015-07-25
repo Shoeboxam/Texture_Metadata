@@ -1,0 +1,51 @@
+{
+  "group_name": "ic2\\assets\\ic2\\textures\\items\\itemToolPainterBlue.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.19064856711915534,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.032085561497326276,
+        0.31932773109243695,
+        0.7529411764705882
+      ],
+      "variance": 1.761437916339809
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.25955882352941173,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.21830065359477124,
+        0.24575163398692812,
+        0.276078431372549
+      ],
+      "variance": 1.2937938701262548
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.7529411764705882,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.7529411764705882
+      ],
+      "variance": 0.4460051134321952
+    }
+  ]
+}

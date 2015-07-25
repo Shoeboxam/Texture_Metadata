@@ -1,0 +1,48 @@
+{
+  "group_name": "logisticspipes\\assets\\logisticspipes\\textures\\items\\remoteOrdererItem\\14.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.35822021116138764,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.0,
+        0.37254901960784315
+      ],
+      "variance": 0.9081398456736282
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.9154228855721394
+      ],
+      "lightness": 0.9686274509803922,
+      "sats": [
+        0.2712550607287449
+      ],
+      "vals": [
+        0.9686274509803922
+      ],
+      "variance": 0.33585053464261394
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.0,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.0
+      ],
+      "variance": Infinity
+    }
+  ]
+}

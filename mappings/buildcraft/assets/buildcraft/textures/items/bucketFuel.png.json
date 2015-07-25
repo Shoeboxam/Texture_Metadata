@@ -1,0 +1,51 @@
+{
+  "group_name": "biomesoplenty\\assets\\biomesoplenty\\textures\\items\\bucket_poison.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.4244426537738383,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.23254901960784308,
+        0.5794117647058823,
+        0.8640522875816993
+      ],
+      "variance": 0.6771546966521742
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.7000933706816059,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.29934640522875816,
+        0.5882352941176471,
+        0.8798319327731092
+      ],
+      "variance": 0.4105357206605794
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.163003663003663
+      ],
+      "lightness": 0.7686274509803923,
+      "sats": [
+        0.9285714285714285
+      ],
+      "vals": [
+        0.7686274509803922
+      ],
+      "variance": 0.37393061631596497
+    }
+  ]
+}

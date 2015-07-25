@@ -1,0 +1,41 @@
+{
+  "group_name": "thermalfoundation\\assets\\thermalfoundation\\textures\\items\\tool\\electrum\\ElectrumFishingRod_Uncast.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.5729285262492093,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.47553282182438195,
+        0.7098039215686275,
+        0.996078431372549
+      ],
+      "variance": 0.5253983761528921
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.14215686274509806,
+        0.1459343026386645,
+        0.15101289134438312
+      ],
+      "lightness": 0.3408496732026144,
+      "sats": [
+        0.8712174524982409,
+        0.43675889328063233,
+        0.26005747126436785
+      ],
+      "vals": [
+        0.2229019607843138,
+        0.5669467787114846,
+        0.6823529411764706
+      ],
+      "variance": 0.8831333605652856
+    }
+  ]
+}

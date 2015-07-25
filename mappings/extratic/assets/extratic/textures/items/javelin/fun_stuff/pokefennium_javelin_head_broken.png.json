@@ -1,0 +1,50 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\javelin\\ae\\certus_quartz_javelin_head_broken.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.5277777777777778,
+        0.5882352941176471
+      ],
+      "lightness": 0.3480392156862745,
+      "sats": [
+        0.41739130434782606,
+        0.21249999999999997
+      ],
+      "vals": [
+        0.3137254901960784,
+        0.45098039215686275
+      ],
+      "variance": 0.17156488587221846
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.5952380952380952
+      ],
+      "lightness": 0.23137254901960785,
+      "sats": [
+        0.35593220338983056
+      ],
+      "vals": [
+        0.23137254901960785
+      ],
+      "variance": 0.2580742986637184
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.5288065843621399
+      ],
+      "lightness": 0.7098039215686275,
+      "sats": [
+        0.44751381215469616
+      ],
+      "vals": [
+        0.7098039215686275
+      ],
+      "variance": 0.08412366641524523
+    }
+  ]
+}

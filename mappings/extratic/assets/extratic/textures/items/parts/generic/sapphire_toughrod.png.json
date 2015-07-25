@@ -1,0 +1,39 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\parts\\twilightforest\\knightmetal_toughrod.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.6242937853107344
+      ],
+      "lightness": 0.3137254901960784,
+      "sats": [
+        0.7375
+      ],
+      "vals": [
+        0.3137254901960784
+      ],
+      "variance": 0.5230859811649073
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.6217948717948718,
+        0.6224835770290316,
+        0.6228956228956228
+      ],
+      "lightness": 0.6686274509803921,
+      "sats": [
+        0.7428571428571429,
+        0.7352185089974292,
+        0.4520547945205479
+      ],
+      "vals": [
+        0.411764705882353,
+        0.6991830065359477,
+        0.8588235294117647
+      ],
+      "variance": 0.2454362374967307
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "group_name": "appliedenergistics2\\assets\\appliedenergistics2\\textures\\items\\ItemMaterial.FluixDust.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.4980392156862746,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.4980392156862745
+      ],
+      "variance": 0.7430306688773181
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.6405228758169934,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.5568627450980392,
+        0.6823529411764706
+      ],
+      "variance": 0.5777442547801189
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.7764705882352941,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.7764705882352941
+      ],
+      "variance": 0.4765903785223202
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.6352941176470589,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.5176470588235293,
+        0.5568627450980392,
+        0.6823529411764706
+      ],
+      "variance": 0.5824993515272803
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.8040127678978568,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.5281045751633986,
+        0.706318082788671,
+        0.9215686274509803
+      ],
+      "variance": 0.4602643469531573
+    }
+  ]
+}

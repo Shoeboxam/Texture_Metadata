@@ -1,0 +1,25 @@
+{
+  "group_name": "harvestcraft\\assets\\harvestcraft\\textures\\items\\mochaicecreamItem.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0,
+        0.07195717209888214,
+        0.08688147295742232
+      ],
+      "lightness": 0.5649122807017544,
+      "sats": [
+        0.7656419529837248,
+        0.2425003488209851,
+        0.0
+      ],
+      "vals": [
+        0.2853457172342621,
+        0.6855093256814921,
+        0.9181372549019609
+      ],
+      "variance": 0.5576796670566361
+    }
+  ]
+}

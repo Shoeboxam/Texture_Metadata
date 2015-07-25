@@ -1,0 +1,25 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\excavator\\metallurgy3\\precious\\brass_excavator_head.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.5766666666666667,
+        0.5952603194358016,
+        0.6372549019607844
+      ],
+      "lightness": 0.6165982672138623,
+      "sats": [
+        0.8950153160679476,
+        0.6891891891891893,
+        0.6276150627615062
+      ],
+      "vals": [
+        0.2901960784313725,
+        0.7823529411764706,
+        0.9372549019607843
+      ],
+      "variance": 0.5279811841997372
+    }
+  ]
+}

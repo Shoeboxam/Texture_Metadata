@@ -1,0 +1,25 @@
+{
+  "group_name": "thermalexpansion\\assets\\thermalexpansion\\textures\\items\\material\\SlagRich.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.013836477987421325,
+        0.013953488372093037,
+        0.014409379793995166
+      ],
+      "lightness": 0.6723311546840959,
+      "sats": [
+        0.7102546455609086,
+        0.594140625,
+        0.26108374384236455
+      ],
+      "vals": [
+        0.5478883861236803,
+        0.8031372549019608,
+        0.9185520361990951
+      ],
+      "variance": 0.294253143263658
+    }
+  ]
+}

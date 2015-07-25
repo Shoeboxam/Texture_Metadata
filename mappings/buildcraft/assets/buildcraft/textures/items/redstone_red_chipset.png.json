@@ -1,0 +1,37 @@
+{
+  "group_name": "buildcraft\\assets\\buildcraft\\textures\\items\\redstone_diamond_chipset.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.35637254901960785,
+      "sats": [
+        1.0
+      ],
+      "vals": [
+        0.24509803921568626,
+        0.34019607843137256,
+        0.5
+      ],
+      "variance": 0.7988520805009505
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.32115583075335397,
+      "sats": [
+        1.0
+      ],
+      "vals": [
+        0.20452488687782805,
+        0.3166013071895425,
+        0.4796078431372549
+      ],
+      "variance": 0.886451139778248
+    }
+  ]
+}

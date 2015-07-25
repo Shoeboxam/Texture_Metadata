@@ -1,0 +1,39 @@
+{
+  "group_name": "minefactoryreloaded\\assets\\minefactoryreloaded\\textures\\items\\item.mfr.safarinet.singleuse.mid.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.1309523809523809
+      ],
+      "lightness": 0.1843137254901961,
+      "sats": [
+        0.2978723404255319
+      ],
+      "vals": [
+        0.1843137254901961
+      ],
+      "variance": 2.647578580225583
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.07407407407407385,
+        0.0800865800865801,
+        0.1309523809523809
+      ],
+      "lightness": 0.5078431372549019,
+      "sats": [
+        0.29787234042553173,
+        0.1264367816091955,
+        0.037656903765690364
+      ],
+      "vals": [
+        0.1843137254901961,
+        0.7960784313725491,
+        0.9372549019607843
+      ],
+      "variance": 0.9608972453328372
+    }
+  ]
+}

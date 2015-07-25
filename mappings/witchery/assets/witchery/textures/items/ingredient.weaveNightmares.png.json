@@ -1,0 +1,79 @@
+{
+  "group_name": "witchery\\assets\\witchery\\textures\\items\\ingredient.weaveMoveFast.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.05847953216374271
+      ],
+      "lightness": 0.41960784313725485,
+      "sats": [
+        0.5327102803738318
+      ],
+      "vals": [
+        0.4196078431372549
+      ],
+      "variance": 0.4299588130963714
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.8969187675070027,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.8784313725490196,
+        0.9176470588235294,
+        0.9686274509803922
+      ],
+      "variance": 0.2011487514111069
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.9431372549019608,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.9176470588235294,
+        0.9686274509803922
+      ],
+      "variance": 0.19129144699090117
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.8784313725490195,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.8784313725490196
+      ],
+      "variance": 0.20538211161299882
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.9305322128851541,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.8784313725490196,
+        1.0
+      ],
+      "variance": 0.1938826917574847
+    }
+  ]
+}

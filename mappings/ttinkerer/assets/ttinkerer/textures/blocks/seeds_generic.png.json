@@ -1,0 +1,37 @@
+{
+  "group_name": "ttinkerer\\assets\\ttinkerer\\textures\\items\\seed_generic.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.4188536953242836,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.2777777777777778,
+        0.49313725490196075,
+        0.6019607843137255
+      ],
+      "variance": 0.8185891167856383
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.5705882352941176,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.5137254901960784,
+        0.5647058823529412,
+        0.6392156862745098
+      ],
+      "variance": 0.6009045670932376
+    }
+  ]
+}

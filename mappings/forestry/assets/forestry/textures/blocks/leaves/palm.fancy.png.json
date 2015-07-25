@@ -1,0 +1,21 @@
+{
+  "group_name": "forestry\\assets\\forestry\\textures\\blocks\\leaves\\palm.fancy.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.4662399674895865,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.3996862745098038,
+        0.4970106075216972,
+        0.615563725490196
+      ],
+      "variance": 0.45847029822668667
+    }
+  ]
+}

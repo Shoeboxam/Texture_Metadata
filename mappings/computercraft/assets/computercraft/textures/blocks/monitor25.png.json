@@ -1,0 +1,21 @@
+{
+  "group_name": "binniecore\\assets\\extratrees\\textures\\blocks\\patterns\\verythincorner3.0.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.4047058823529412,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.1900063251106896,
+        0.4993464052287582,
+        0.6949019607843139
+      ],
+      "variance": 0.5060995556024439
+    }
+  ]
+}

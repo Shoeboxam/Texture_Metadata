@@ -1,0 +1,23 @@
+{
+  "group_name": "minecraft\\assets\\minecraft\\textures\\blocks\\leaves_birch.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.3693611638203668,
+      "sats": [
+        0.6010025993316004,
+        0.6006504065040651,
+        0.6000652954619655
+      ],
+      "vals": [
+        0.235524798154556,
+        0.39852016278209396,
+        0.47289504036908886
+      ],
+      "variance": 0.5324496324122361
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\chisel\\natura\\ghostwood_chisel_head.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.7045454545454546,
+        0.7065142065142065,
+        0.70679012345679
+      ],
+      "lightness": 0.3737254901960785,
+      "sats": [
+        0.46744412050534495,
+        0.4243614931237721,
+        0.21674876847290633
+      ],
+      "vals": [
+        0.2123839009287926,
+        0.5703081232492997,
+        0.796078431372549
+      ],
+      "variance": 0.3846101517636578
+    }
+  ]
+}

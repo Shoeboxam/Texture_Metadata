@@ -1,0 +1,36 @@
+{
+  "group_name": "ironchest\\assets\\ironchest\\textures\\blocks\\crystal_side.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.5477239353891337,
+        0.5525925925925925
+      ],
+      "lightness": 0.8902872777017783,
+      "sats": [
+        1.0,
+        0.9956140350877193
+      ],
+      "vals": [
+        0.8823529411764706,
+        0.8941176470588236
+      ],
+      "variance": 0.4516478456916196
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.5525925925925925
+      ],
+      "lightness": 0.8823529411764706,
+      "sats": [
+        1.0
+      ],
+      "vals": [
+        0.8823529411764706
+      ],
+      "variance": 0.45570917515675347
+    }
+  ]
+}

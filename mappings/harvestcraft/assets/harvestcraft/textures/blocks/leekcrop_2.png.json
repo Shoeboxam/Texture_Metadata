@@ -1,0 +1,23 @@
+{
+  "group_name": "harvestcraft\\assets\\harvestcraft\\textures\\blocks\\leekcrop_2.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.2211195928753181,
+        0.2333333333333334,
+        0.2682682682682683
+      ],
+      "lightness": 0.5145098039215685,
+      "sats": [
+        1.0
+      ],
+      "vals": [
+        0.3602434077079108,
+        0.47058823529411764,
+        0.6134035703833772
+      ],
+      "variance": 0.36031917552928355
+    }
+  ]
+}

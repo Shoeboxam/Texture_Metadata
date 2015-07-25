@@ -1,0 +1,23 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\parts\\bop\\mud_large_guard.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.7047619047619048,
+        0.7056277056277057,
+        0.774891774891775
+      ],
+      "lightness": 0.19466666666666668,
+      "sats": [
+        1.0,
+        0.8974358974358975
+      ],
+      "vals": [
+        0.15294117647058825,
+        0.30196078431372547
+      ],
+      "variance": 1.2327497927206108
+    }
+  ]
+}

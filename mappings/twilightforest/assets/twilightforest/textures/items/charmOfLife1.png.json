@@ -1,0 +1,50 @@
+{
+  "group_name": "twilightforest\\assets\\twilightforest\\textures\\items\\charmOfLife2.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.1568627450980392,
+      "sats": [
+        0.625
+      ],
+      "vals": [
+        0.1568627450980392
+      ],
+      "variance": 1.7545882647911648
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.7664985994397759,
+      "sats": [
+        0.6201117318435755,
+        0.6201117318435754,
+        0.2930232558139535
+      ],
+      "vals": [
+        0.7019607843137254,
+        0.8431372549019608
+      ],
+      "variance": 0.35907375686414716
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.8431372549019608,
+      "sats": [
+        0.2930232558139535
+      ],
+      "vals": [
+        0.8431372549019608
+      ],
+      "variance": 0.32643502600765856
+    }
+  ]
+}

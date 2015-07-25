@@ -1,0 +1,24 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\pickmattock\\aoa\\jade_pickmattock_head.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.018146582100070474,
+        0.019900497512437814,
+        0.02
+      ],
+      "lightness": 0.45549019607843144,
+      "sats": [
+        1.0,
+        0.9441117764471058
+      ],
+      "vals": [
+        0.2627450980392157,
+        0.5882352941176471,
+        0.9823529411764705
+      ],
+      "variance": 0.27932524867118513
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "group_name": "binniecore\\assets\\extratrees\\textures\\blocks\\patterns\\thickcorner2.0.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.9100246159069687,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.7254901960784313,
+        0.8974888200894393,
+        0.9812636165577343
+      ],
+      "variance": 0.2579742865806189
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.7821350762527233,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.6372549019607843,
+        0.8823529411764706,
+        0.9215686274509803
+      ],
+      "variance": 0.3001565307416867
+    }
+  ]
+}

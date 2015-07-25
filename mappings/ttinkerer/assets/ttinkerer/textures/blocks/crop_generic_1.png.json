@@ -1,0 +1,21 @@
+{
+  "group_name": "ttinkerer\\assets\\ttinkerer\\textures\\blocks\\crop_ordo_1.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.43761140819964345,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.2352941176470588,
+        0.3898039215686274,
+        0.719607843137255
+      ],
+      "variance": 0.6218393618456936
+    }
+  ]
+}

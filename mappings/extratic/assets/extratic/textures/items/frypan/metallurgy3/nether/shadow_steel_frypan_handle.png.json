@@ -1,0 +1,25 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\frypan\\metallurgy3\\nether\\kalendrite_frypan_handle.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.07111111111111122,
+        0.07456140350877193,
+        0.0773809523809524
+      ],
+      "lightness": 0.5860847564832383,
+      "sats": [
+        0.28865979381443335,
+        0.2794117647058823,
+        0.06799637352674526
+      ],
+      "vals": [
+        0.3803921568627452,
+        0.5333333333333333,
+        0.8650980392156862
+      ],
+      "variance": 0.26094120786306124
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "group_name": "buildcraft\\assets\\buildcraft\\textures\\blocks\\pipeItemsQuartz.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.0196078431372549,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.0196078431372549
+      ],
+      "variance": 0.4568809849129202
+    }
+  ]
+}

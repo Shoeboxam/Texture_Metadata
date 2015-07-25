@@ -1,0 +1,78 @@
+{
+  "group_name": "logisticspipes\\assets\\logisticspipes\\textures\\items\\pipeController.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 1.0,
+      "sats": [
+        1.0
+      ],
+      "vals": [
+        1.0
+      ],
+      "variance": 0.3561436755859908
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.6666666666666666
+      ],
+      "lightness": 0.24313725490196078,
+      "sats": [
+        0.5806451612903226
+      ],
+      "vals": [
+        0.24313725490196078
+      ],
+      "variance": 1.464784472168188
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.2,
+      "sats": [
+        1.0
+      ],
+      "vals": [
+        2.7755575615628914e-17,
+        1.0
+      ],
+      "variance": 1.780718377929954
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.4375,
+      "sats": [
+        1.0,
+        0.0
+      ],
+      "vals": [
+        0.0,
+        1.0
+      ],
+      "variance": 0.8140426870536933
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.4539473684210526
+      ],
+      "lightness": 0.9098039215686273,
+      "sats": [
+        0.32758620689655166
+      ],
+      "vals": [
+        0.9098039215686274
+      ],
+      "variance": 0.391451022734602
+    }
+  ]
+}

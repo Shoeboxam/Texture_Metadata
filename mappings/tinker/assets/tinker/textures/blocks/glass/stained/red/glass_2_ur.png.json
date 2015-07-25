@@ -1,0 +1,65 @@
+{
+  "group_name": "tinker\\assets\\tinker\\textures\\blocks\\glass\\stained\\gray\\glass_2_ur.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.7218300653594771,
+      "sats": [
+        0.9426229508196721,
+        0.942622950819672,
+        0.23921568627450984
+      ],
+      "vals": [
+        0.47843137254901963,
+        0.4784313725490197,
+        1.0
+      ],
+      "variance": 0.1258214145361588
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.7450980392156843,
+      "sats": [
+        0.7473684210526316
+      ],
+      "vals": [
+        0.7450980392156863
+      ],
+      "variance": 0.12189225457345103
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.47843137254901974,
+      "sats": [
+        0.9426229508196721
+      ],
+      "vals": [
+        0.47843137254901963
+      ],
+      "variance": 0.18983219974553792
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 1.0000000000000002,
+      "sats": [
+        0.23921568627450984
+      ],
+      "vals": [
+        1.0
+      ],
+      "variance": 0.09082167987825737
+    }
+  ]
+}

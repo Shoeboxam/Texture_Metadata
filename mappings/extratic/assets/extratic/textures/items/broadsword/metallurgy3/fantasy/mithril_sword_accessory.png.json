@@ -1,0 +1,25 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\broadsword\\natura\\netherquartz_sword_accessory.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.5122222222222222,
+        0.512962962962963,
+        0.5132743362831858
+      ],
+      "lightness": 0.4868686868686869,
+      "sats": [
+        0.9473684210526316,
+        0.9433962264150944,
+        0.45381526104417663
+      ],
+      "vals": [
+        0.3725490196078431,
+        0.6235294117647059,
+        0.976470588235294
+      ],
+      "variance": 0.388315591152478
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "group_name": "binniecore\\assets\\extratrees\\textures\\blocks\\patterns\\barredcorner2.0.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.8912377450980392,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.6641091219096333,
+        0.8997821350762527,
+        0.9846212995001923
+      ],
+      "variance": 0.5083027434349334
+    }
+  ]
+}

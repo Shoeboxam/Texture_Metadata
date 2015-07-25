@@ -1,0 +1,21 @@
+{
+  "group_name": "natura\\assets\\natura\\textures\\items\\darkwood_kama.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.4055222088835534,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.15686274509803927,
+        0.3137254901960784,
+        0.7351787773933103
+      ],
+      "variance": 0.6383596364720315
+    }
+  ]
+}

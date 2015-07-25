@@ -1,0 +1,21 @@
+{
+  "group_name": "binniecore\\assets\\extratrees\\textures\\blocks\\patterns\\thincurvedcrossed.1.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.8495710784313726,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.6897603485838781,
+        0.9034690799396681,
+        0.9911448450347882
+      ],
+      "variance": 0.511060088858015
+    }
+  ]
+}

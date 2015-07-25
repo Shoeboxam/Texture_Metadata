@@ -1,0 +1,22 @@
+{
+  "group_name": "tinker\\assets\\tinker\\textures\\blocks\\glass\\soul_clear\\glass_2_v.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.5208333333333334,
+        0.0
+      ],
+      "lightness": 0.9274509803921568,
+      "sats": [
+        0.18264840182648404,
+        0.0
+      ],
+      "vals": [
+        0.8588235294117647,
+        0.996078431372549
+      ],
+      "variance": 0.48003589352478254
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\dagger\\metallurgy3\\fantasy\\astral_silver_dagger_blade_broken.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.1494252873563219,
+        0.16666666666666666,
+        0.20454545454545459
+      ],
+      "lightness": 0.8426470588235294,
+      "sats": [
+        0.29743589743589743,
+        0.2672064777327935,
+        0.2088353413654618
+      ],
+      "vals": [
+        0.7647058823529411,
+        0.9686274509803922,
+        0.9764705882352941
+      ],
+      "variance": 0.05061243962759325
+    }
+  ]
+}

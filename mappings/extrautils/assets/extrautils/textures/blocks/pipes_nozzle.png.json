@@ -1,0 +1,37 @@
+{
+  "group_name": "extrautils\\assets\\extrautils\\textures\\blocks\\pipes_nozzle_energy.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.19463163906339231,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.08698752228164,
+        0.11029411764705882,
+        0.421813725490196
+      ],
+      "variance": 2.1014366081369165
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.08392156862745098,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.0784313725490196,
+        0.08235294117647059,
+        0.09019607843137255
+      ],
+      "variance": 4.873670238996422
+    }
+  ]
+}

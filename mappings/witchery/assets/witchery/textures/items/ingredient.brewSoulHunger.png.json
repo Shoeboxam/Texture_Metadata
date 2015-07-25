@@ -1,0 +1,37 @@
+{
+  "group_name": "witchery\\assets\\witchery\\textures\\items\\ingredient.brewSoulHunger.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.48327566320645904,
+      "sats": [
+        1.0
+      ],
+      "vals": [
+        0.33725490196078434,
+        0.40784313725490196,
+        0.4980392156862745
+      ],
+      "variance": 0.6011321153677315
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.34462745098039216,
+      "sats": [
+        1.0
+      ],
+      "vals": [
+        0.28627450980392155,
+        0.35490196078431374,
+        0.4980392156862745
+      ],
+      "variance": 0.8429755694231421
+    }
+  ]
+}

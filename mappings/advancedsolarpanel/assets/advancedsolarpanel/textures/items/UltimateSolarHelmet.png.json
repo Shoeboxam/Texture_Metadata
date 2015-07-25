@@ -1,0 +1,66 @@
+{
+  "group_name": "advancedsolarpanel\\assets\\advancedsolarpanel\\textures\\items\\HybridSolarHelmet.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.5414993306559572,
+        0.6075498575498575
+      ],
+      "lightness": 0.9529411764705882,
+      "sats": [
+        1.0,
+        0.9880952380952381
+      ],
+      "vals": [
+        0.9176470588235294,
+        0.9882352941176471
+      ],
+      "variance": 0.35687251157923144
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.66
+      ],
+      "lightness": 0.18823529411764706,
+      "sats": [
+        0.5208333333333334
+      ],
+      "vals": [
+        0.18823529411764706
+      ],
+      "variance": 1.8066670898698591
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.0,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.0
+      ],
+      "variance": Infinity
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.4834558823529411,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.2352941176470587,
+        0.8862745098039215,
+        0.8980392156862744
+      ],
+      "variance": 0.7034323574246144
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "group_name": "appliedenergistics2\\assets\\appliedenergistics2\\textures\\blocks\\MEDense_Gray.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.23973168214654283,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.23182072829131653,
+        0.30980392156862746,
+        0.3764705882352941
+      ],
+      "variance": 1.3641506735092088
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.40841239721695133,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.286797385620915,
+        0.3764705882352941,
+        0.49523809523809526
+      ],
+      "variance": 0.8007350851496837
+    }
+  ]
+}

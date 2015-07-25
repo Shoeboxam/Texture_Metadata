@@ -1,0 +1,25 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\parts\\bop\\mud_shovel_head.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.705039297272307,
+        0.7765700483091788,
+        0.7766143106457243
+      ],
+      "lightness": 0.392156862745098,
+      "sats": [
+        1.0,
+        0.9928057553956835,
+        0.9279279279279279
+      ],
+      "vals": [
+        0.1792387543252595,
+        0.5450980392156862,
+        0.7490196078431373
+      ],
+      "variance": 0.5462303734227981
+    }
+  ]
+}

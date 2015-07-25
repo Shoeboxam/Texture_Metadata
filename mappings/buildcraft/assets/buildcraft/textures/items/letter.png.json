@@ -1,0 +1,33 @@
+{
+  "group_name": "buildcraft\\assets\\buildcraft\\textures\\items\\letter.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.9696969696969697
+      ],
+      "lightness": 0.6823529411764706,
+      "sats": [
+        0.885057471264368
+      ],
+      "vals": [
+        0.6823529411764706
+      ],
+      "variance": 0.46855259879640154
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.13870246085011187
+      ],
+      "lightness": 0.996078431372549,
+      "sats": [
+        0.5866141732283465
+      ],
+      "vals": [
+        0.996078431372549
+      ],
+      "variance": 0.3209769771282436
+    }
+  ]
+}

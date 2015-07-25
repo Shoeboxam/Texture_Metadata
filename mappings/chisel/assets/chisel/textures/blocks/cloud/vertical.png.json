@@ -1,0 +1,37 @@
+{
+  "group_name": "tinker\\assets\\tinker\\textures\\blocks\\bricks\\brick_ice.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.893627450980392,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.6431372549019608,
+        0.6941176470588235,
+        0.9686274509803922
+      ],
+      "variance": 0.16584341204984457
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.8636780518659092,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.6353832442067735,
+        0.6772247360482654,
+        0.9686274509803925
+      ],
+      "variance": 0.17159429402172957
+    }
+  ]
+}

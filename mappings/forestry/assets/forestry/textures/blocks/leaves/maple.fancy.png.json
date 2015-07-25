@@ -1,0 +1,21 @@
+{
+  "group_name": "forestry\\assets\\forestry\\textures\\blocks\\leaves\\maple.changed.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.4563121800444316,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.3240269242025168,
+        0.44688581314878895,
+        0.596078431372549
+      ],
+      "variance": 0.2670309626871966
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "group_name": "enderio\\assets\\enderio\\textures\\items\\old\\ingotLead.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.6849079025549614,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.582006920415225,
+        0.7460992907801419,
+        0.9273356401384083
+      ],
+      "variance": 0.5323704354282799
+    }
+  ]
+}

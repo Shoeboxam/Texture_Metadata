@@ -1,0 +1,25 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\rapier\\natura\\netherquartz_rapier_accessory.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.5122222222222222,
+        0.512962962962963,
+        0.514069264069264
+      ],
+      "lightness": 0.5386274509803921,
+      "sats": [
+        0.9473684210526314,
+        0.9433962264150944,
+        0.24483306836248003
+      ],
+      "vals": [
+        0.37254901960784315,
+        0.6235294117647059,
+        0.9866666666666666
+      ],
+      "variance": 0.2676843940323212
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "group_name": "buildcraft\\assets\\buildcraft\\textures\\items\\triggers\\action_valve_closed.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.14901960784313725,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.14901960784313725
+      ],
+      "variance": 1.0541351020819842
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.3333333333333333
+      ],
+      "lightness": 0.9019607843137255,
+      "sats": [
+        1.0
+      ],
+      "vals": [
+        0.9019607843137255
+      ],
+      "variance": 0.1741614516483278
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0,
+        0.3333333333333333
+      ],
+      "lightness": 0.36414565826330525,
+      "sats": [
+        1.0,
+        0.0
+      ],
+      "vals": [
+        0.14901960784313728,
+        0.9019607843137254
+      ],
+      "variance": 0.4313845186981659
+    }
+  ]
+}

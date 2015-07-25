@@ -1,0 +1,25 @@
+{
+  "group_name": "witchery\\assets\\witchery\\textures\\items\\ingredient.contract.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.07100831811726482,
+        0.1313742437337943,
+        0.13218954248366013
+      ],
+      "lightness": 0.8660526836997426,
+      "sats": [
+        1.0,
+        0.3326624496837264,
+        0.07381947252549739
+      ],
+      "vals": [
+        0.8316594930655189,
+        0.8728235294117647,
+        1.0
+      ],
+      "variance": 0.3853270884959357
+    }
+  ]
+}

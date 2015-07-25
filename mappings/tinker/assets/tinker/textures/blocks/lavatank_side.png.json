@@ -1,0 +1,21 @@
+{
+  "group_name": "tinker\\assets\\tinker\\textures\\blocks\\nether_lavatank_side.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.2083425823159452,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.10851926977687623,
+        0.20616246498599441,
+        0.3033924680983505
+      ],
+      "variance": 0.5062195272017099
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "group_name": "enderio\\assets\\enderio\\textures\\items\\filterUpgradeBasic.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.3148073022312373,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.22745098039215683,
+        0.2725490196078431,
+        0.3761904761904762
+      ],
+      "variance": 1.0496503863358395
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.6414634146341465,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.3121806298276885,
+        0.8392156862745099,
+        0.9176470588235293
+      ],
+      "variance": 0.5151308693058109
+    }
+  ]
+}

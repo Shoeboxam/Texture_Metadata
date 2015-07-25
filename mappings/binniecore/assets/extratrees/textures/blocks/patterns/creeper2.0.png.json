@@ -1,0 +1,37 @@
+{
+  "group_name": "binniecore\\assets\\extratrees\\textures\\blocks\\patterns\\creeper2.0.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.8402992776057792,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.6523378582202111,
+        0.8974358974358975,
+        0.9820261437908498
+      ],
+      "variance": 0.4685145210267462
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.6568627450980392,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.6274509803921569,
+        0.6666666666666666,
+        0.7058823529411765
+      ],
+      "variance": 0.5993526296088423
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "group_name": "binniecore\\assets\\extratrees\\textures\\blocks\\patterns\\edged3.0.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.8848484848484848,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.7521008403361344,
+        0.89894419306184,
+        0.9843137254901961
+      ],
+      "variance": 0.4302188033699446
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.7952069716775598,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.6568627450980392,
+        0.7450980392156863,
+        0.9019607843137254
+      ],
+      "variance": 0.47871619574982927
+    }
+  ]
+}

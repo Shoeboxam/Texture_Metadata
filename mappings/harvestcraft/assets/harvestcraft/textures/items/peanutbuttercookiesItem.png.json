@@ -1,0 +1,25 @@
+{
+  "group_name": "harvestcraft\\assets\\harvestcraft\\textures\\items\\peanutbuttercookiesItem.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.12478411053540588,
+        0.1253305588069537,
+        0.12566715186802532
+      ],
+      "lightness": 0.4926661573720398,
+      "sats": [
+        0.8744166313109886,
+        0.7940344561583955,
+        0.7156552494415487
+      ],
+      "vals": [
+        0.34233841684822075,
+        0.49196710942441496,
+        0.6106280193236714
+      ],
+      "variance": 0.5240490723262772
+    }
+  ]
+}

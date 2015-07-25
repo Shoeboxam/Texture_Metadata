@@ -1,0 +1,53 @@
+{
+  "group_name": "binniecore\\assets\\extratrees\\textures\\blocks\\patterns\\emblem3.1.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.8373412257984956,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.6902573529411765,
+        0.8970588235294118,
+        0.9766374634960366
+      ],
+      "variance": 0.48791947183470524
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.65359477124183,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.5882352941176471,
+        0.6666666666666666,
+        0.7058823529411765
+      ],
+      "variance": 0.6250892856146508
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.7189542483660131,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.607843137254902,
+        0.6993464052287582,
+        1.0
+      ],
+      "variance": 0.5682629869224097
+    }
+  ]
+}

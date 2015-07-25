@@ -1,0 +1,21 @@
+{
+  "group_name": "openblocks\\assets\\openblocks\\textures\\blocks\\paintcan_side.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.7367201426024956,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.6431372549019608,
+        0.7416666666666667,
+        0.7701960784313726
+      ],
+      "variance": 0.17370794564631806
+    }
+  ]
+}

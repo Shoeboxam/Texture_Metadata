@@ -1,0 +1,35 @@
+{
+  "group_name": "tinker\\assets\\tinker\\textures\\items\\pickaxe\\necrotic_pickaxe_effect.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.19137254901960787,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.09803921568627451,
+        0.20392156862745098,
+        0.30196078431372547
+      ],
+      "variance": 0.29307055052335235
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.09803921568627451,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.09803921568627451
+      ],
+      "variance": 0.5720737146215839
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "group_name": "chisel\\assets\\chisel\\textures\\blocks\\waterstone\\panel.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.43478156833846276,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.19992997198879536,
+        0.34662309368191724,
+        0.6469542483660129
+      ],
+      "variance": 0.7895609204228559
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.39391124871001043,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.1843137254901961,
+        0.4619607843137255,
+        1.0
+      ],
+      "variance": 0.8714819300144692
+    }
+  ]
+}

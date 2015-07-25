@@ -1,0 +1,21 @@
+{
+  "group_name": "appliedenergistics2\\assets\\appliedenergistics2\\textures\\items\\ItemMaterial.WoodenGear.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.8543272481406355,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.7310533515731874,
+        0.8608776844070962,
+        0.9536199095022624
+      ],
+      "variance": 0.5041199028530737
+    }
+  ]
+}

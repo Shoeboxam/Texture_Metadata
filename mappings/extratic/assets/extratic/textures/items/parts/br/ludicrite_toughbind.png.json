@@ -1,0 +1,24 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\parts\\twilightforest\\knightmetal_toughbind.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.8386666666666667,
+        0.844213649851632,
+        0.8752620545073375
+      ],
+      "lightness": 0.7980882352941177,
+      "sats": [
+        1.0,
+        0.568181818181818
+      ],
+      "vals": [
+        0.6235294117647059,
+        0.8590196078431372,
+        0.8627450980392157
+      ],
+      "variance": 0.15439753400190237
+    }
+  ]
+}

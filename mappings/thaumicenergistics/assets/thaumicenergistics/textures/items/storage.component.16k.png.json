@@ -1,0 +1,39 @@
+{
+  "group_name": "appliedenergistics2\\assets\\appliedenergistics2\\textures\\items\\ItemMaterial.Cell16SpatialPart.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.4687499999999998,
+        0.8333333333333334,
+        0.0
+      ],
+      "lightness": 0.48185017596782304,
+      "sats": [
+        0.2909090909090893,
+        1.7497334442485465e-16,
+        0.0
+      ],
+      "vals": [
+        0.215686274509804,
+        0.5019607843137255,
+        0.6345098039215689
+      ],
+      "variance": 0.689465385683026
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.7529411764705882
+      ],
+      "lightness": 1.0,
+      "sats": [
+        1.0
+      ],
+      "vals": [
+        1.0
+      ],
+      "variance": 0.332219017415089
+    }
+  ]
+}

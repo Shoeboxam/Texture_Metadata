@@ -1,0 +1,21 @@
+{
+  "group_name": "minecraft\\assets\\thaumcraft\\textures\\items\\focus.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.526600574266646,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.32124849939975997,
+        0.5851393188854489,
+        0.7518716577540108
+      ],
+      "variance": 0.6413215643214113
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "group_name": "minecraft\\assets\\minecraft\\textures\\items\\ender_eye.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.5261534665679743,
+        0.527833400080096,
+        0.5317757009345794
+      ],
+      "lightness": 0.5938745746232377,
+      "sats": [
+        1.0,
+        0.9782766111513396
+      ],
+      "vals": [
+        0.514613392526822,
+        0.631752055660974,
+        0.9026143790849673
+      ],
+      "variance": 0.3610542194523132
+    }
+  ]
+}

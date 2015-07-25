@@ -1,0 +1,37 @@
+{
+  "group_name": "minecraft\\assets\\thaumcraft\\textures\\blocks\\mirrorframe2.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.2233484162895928,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.1823529411764706,
+        0.23541666666666666,
+        0.32044817927170866
+      ],
+      "variance": 0.4486522243461535
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.14901960784313725,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.13333333333333333,
+        0.14901960784313725,
+        0.16470588235294117
+      ],
+      "variance": 0.6724334147892552
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "group_name": "witchery\\assets\\witchery\\textures\\items\\chalkHeart.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0,
+        0.069281045751634,
+        0.07643312101910828
+      ],
+      "lightness": 1.0,
+      "sats": [
+        1.0,
+        0.615686274509804,
+        0.0
+      ],
+      "vals": [
+        1.0
+      ],
+      "variance": 0.09172617982438958
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.5019607843137255,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.5019607843137255
+      ],
+      "variance": 0.18273574886890112
+    }
+  ]
+}

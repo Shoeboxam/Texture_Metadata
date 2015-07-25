@@ -1,0 +1,25 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\dagger\\bop\\mud_dagger_blade.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0625,
+        0.0677083333333333,
+        0.13749999999999998
+      ],
+      "lightness": 0.6367201426024957,
+      "sats": [
+        1.0,
+        0.9411764705882353,
+        0.6694560669456067
+      ],
+      "vals": [
+        0.2509803921568627,
+        0.9372549019607843,
+        1.0
+      ],
+      "variance": 0.20262594760693017
+    }
+  ]
+}

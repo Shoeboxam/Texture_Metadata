@@ -1,0 +1,37 @@
+{
+  "group_name": "binniecore\\assets\\extratrees\\textures\\blocks\\patterns\\splitbarredcorner4.1.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.8695922813569872,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.6960784313725491,
+        0.9039615846338535,
+        0.9808703969392635
+      ],
+      "variance": 0.49685404351573614
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.7540106951871657,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.6111111111111112,
+        0.6971677559912854,
+        0.9495798319327731
+      ],
+      "variance": 0.5730163298214805
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "group_name": "logisticspipes\\assets\\logisticspipes\\textures\\blocks\\pipes\\overlay_gen\\analyzer\\un-overlayed.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.0973856209150327,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.0,
+        0.5843137254901961
+      ],
+      "variance": 2.724994149760819
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.6666666666666666
+      ],
+      "lightness": 1.0,
+      "sats": [
+        1.0
+      ],
+      "vals": [
+        1.0
+      ],
+      "variance": 0.26537524726428896
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.3333333333333333
+      ],
+      "lightness": 1.0,
+      "sats": [
+        1.0
+      ],
+      "vals": [
+        1.0
+      ],
+      "variance": 0.26537524726428896
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.15816993464052287,
+        0.16666666666666666
+      ],
+      "lightness": 1.0,
+      "sats": [
+        1.0
+      ],
+      "vals": [
+        1.0
+      ],
+      "variance": 0.26537524726428896
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0,
+        0.34117647058823525
+      ],
+      "lightness": 0.2501278772378517,
+      "sats": [
+        1.0,
+        0.5329153605015675,
+        0.0
+      ],
+      "vals": [
+        0.0,
+        0.7505882352941178,
+        1.0
+      ],
+      "variance": 1.0609582993899487
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.8614379084967321,
+      "sats": [
+        1.0,
+        0.0
+      ],
+      "vals": [
+        0.5843137254901961,
+        1.0
+      ],
+      "variance": 0.3080607953826723
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 1.0,
+      "sats": [
+        1.0
+      ],
+      "vals": [
+        1.0
+      ],
+      "variance": 0.26537524726428896
+    }
+  ]
+}

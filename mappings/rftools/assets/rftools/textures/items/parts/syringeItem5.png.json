@@ -1,0 +1,24 @@
+{
+  "group_name": "rftools\\assets\\rftools\\textures\\items\\parts\\syringeItem3.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0,
+        0.5
+      ],
+      "lightness": 0.297704224475829,
+      "sats": [
+        1.0,
+        1.061650767297806e-15,
+        0.0
+      ],
+      "vals": [
+        0.0,
+        0.0784313725490196,
+        1.0
+      ],
+      "variance": 0.998589141422437
+    }
+  ]
+}

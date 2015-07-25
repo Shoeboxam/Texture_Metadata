@@ -1,0 +1,25 @@
+{
+  "group_name": "binniecore\\assets\\botany\\textures\\items\\tools\\trowelDiamond.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.5833333333333334,
+        0.0,
+        0.10772833723653398
+      ],
+      "lightness": 0.5158863545418166,
+      "sats": [
+        0.39813519813519826,
+        2.7546887077165533e-16,
+        0.0
+      ],
+      "vals": [
+        0.2803921568627451,
+        0.8060606060606061,
+        1.0
+      ],
+      "variance": 0.47450795395161804
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "group_name": "alchemicalwizardry\\assets\\alchemicalwizardry\\textures\\items\\baseItemSoulShard.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.6486764705882353,
+      "sats": [
+        0.9786485807586033,
+        0.9785839160839161,
+        0.9624539054642977
+      ],
+      "vals": [
+        0.3655637254901961,
+        0.6408963585434174,
+        0.9183391003460206
+      ],
+      "variance": 0.23544634861748961
+    }
+  ]
+}

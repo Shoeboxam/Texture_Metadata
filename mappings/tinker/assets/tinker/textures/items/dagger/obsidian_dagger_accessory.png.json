@@ -1,0 +1,25 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\dagger\\ae\\certus_quartz_dagger_accessory.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.7115384615384616,
+        0.7170542635658914,
+        0.7295081967213114
+      ],
+      "lightness": 0.29754901960784313,
+      "sats": [
+        0.4919354838709677,
+        0.43434343434343436,
+        0.40625
+      ],
+      "vals": [
+        0.25098039215686274,
+        0.38823529411764707,
+        0.48627450980392156
+      ],
+      "variance": 0.9519967721638127
+    }
+  ]
+}

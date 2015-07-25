@@ -1,0 +1,21 @@
+{
+  "group_name": "railcraft\\assets\\railcraft\\textures\\items\\part.railbed.wood.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.5225840336134453,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.426078431372549,
+        0.45849673202614377,
+        0.5982492997198879
+      ],
+      "variance": 0.505840798012177
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "group_name": "buildcraft\\assets\\buildcraft\\textures\\items\\triggers\\trigger_liquidcontainer_contains.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.4980392156862746,
+      "sats": [
+        1.0
+      ],
+      "vals": [
+        0.4980392156862745
+      ],
+      "variance": 0.10446286930418563
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.14912280701754388
+      ],
+      "lightness": 0.6941176470588235,
+      "sats": [
+        0.6440677966101694
+      ],
+      "vals": [
+        0.6941176470588235
+      ],
+      "variance": 0.07495358419000892
+    }
+  ]
+}

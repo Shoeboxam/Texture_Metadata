@@ -1,0 +1,25 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\cleaver\\metallurgy3\\precious\\brass_cleaver_head.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.9845998848589522,
+        0.0,
+        0.0011904761904761678
+      ],
+      "lightness": 0.35445920303605316,
+      "sats": [
+        1.0,
+        0.8668730650154799,
+        0.5
+      ],
+      "vals": [
+        0.26712802768166094,
+        0.4,
+        0.5882352941176471
+      ],
+      "variance": 0.7962261092481304
+    }
+  ]
+}

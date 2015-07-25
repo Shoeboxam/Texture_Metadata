@@ -1,0 +1,23 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\chisel\\generic\\amethyst_chisel_handle.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0,
+        0.05236091631603553,
+        0.09920634920634923
+      ],
+      "lightness": 0.5650075414781297,
+      "sats": [
+        1.0
+      ],
+      "vals": [
+        0.41568627450980394,
+        0.5592156862745098,
+        0.8235294117647058
+      ],
+      "variance": 0.3579644110229151
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\crossbow\\generic\\sapphire_crossbow_bow_1.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.5277777777777778,
+        0.5288065843621399,
+        0.5894308943089431
+      ],
+      "lightness": 0.5127843137254902,
+      "sats": [
+        0.4475138121546963,
+        0.4173913043478261,
+        0.2282003710575137
+      ],
+      "vals": [
+        0.3019607843137254,
+        0.4509803921568628,
+        0.7098039215686276
+      ],
+      "variance": 0.14807938241794094
+    }
+  ]
+}

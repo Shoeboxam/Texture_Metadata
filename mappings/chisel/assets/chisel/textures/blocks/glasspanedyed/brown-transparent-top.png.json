@@ -1,0 +1,25 @@
+{
+  "group_name": "chisel\\assets\\chisel\\textures\\blocks\\glasspanedyed\\magenta-transparent-top.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.10077519379844962,
+        0.10648148148148147,
+        0.11403508771929827
+      ],
+      "lightness": 0.42602495543672025,
+      "sats": [
+        0.5375,
+        0.4444444444444445,
+        0.3931034482758621
+      ],
+      "vals": [
+        0.3137254901960784,
+        0.453781512605042,
+        0.5686274509803921
+      ],
+      "variance": 0.27582718937610057
+    }
+  ]
+}

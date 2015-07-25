@@ -1,0 +1,25 @@
+{
+  "group_name": "tinker\\assets\\tinker\\textures\\items\\food\\mutton_cooked.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0,
+        0.03218228799624149,
+        0.032889450120537254
+      ],
+      "lightness": 0.46174526716702136,
+      "sats": [
+        0.8522522522522523,
+        0.8140360713951967,
+        0.0
+      ],
+      "vals": [
+        0.0,
+        0.23319327731092443,
+        0.544996180290298
+      ],
+      "variance": 0.535936279462725
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "group_name": "thermalfoundation\\assets\\thermalfoundation\\textures\\items\\armor\\tin\\TinBoots.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.375,
+        0.47067901234567905,
+        0.4710144927536231
+      ],
+      "lightness": 0.39064493267186395,
+      "sats": [
+        0.7829787234042553,
+        0.782608695652174,
+        8.088767750840419e-16
+      ],
+      "vals": [
+        0.13725490196078444,
+        0.5411764705882351,
+        0.9215686274509804
+      ],
+      "variance": 0.6932392383139183
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 1.0,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        1.0
+      ],
+      "variance": 0.2708103955766349
+    }
+  ]
+}

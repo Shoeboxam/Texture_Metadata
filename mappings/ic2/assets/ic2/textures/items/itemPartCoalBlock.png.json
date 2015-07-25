@@ -1,0 +1,37 @@
+{
+  "group_name": "minecraft\\assets\\minecraft\\textures\\items\\skull_skeleton.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.15944524151123865,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.14464985994397758,
+        0.22647058823529412,
+        0.28431372549019607
+      ],
+      "variance": 0.7559101377940839
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.2952941176470588,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.16235294117647062,
+        0.2437908496732026,
+        0.4034858387799564
+      ],
+      "variance": 0.40815670641101864
+    }
+  ]
+}

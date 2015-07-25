@@ -1,0 +1,47 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\cutlass\\metallurgy3\\precious\\platinum_cutlass_guard.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.08823529411764704
+      ],
+      "lightness": 0.22745098039215686,
+      "sats": [
+        0.293103448275862
+      ],
+      "vals": [
+        0.22745098039215686
+      ],
+      "variance": 0.5539198911360691
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.08823529411764704
+      ],
+      "lightness": 0.22745098039215683,
+      "sats": [
+        0.293103448275862
+      ],
+      "vals": [
+        0.22745098039215686
+      ],
+      "variance": 0.5539198911360691
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.08823529411764704
+      ],
+      "lightness": 0.22745098039215683,
+      "sats": [
+        0.293103448275862
+      ],
+      "vals": [
+        0.22745098039215686
+      ],
+      "variance": 0.5539198911360691
+    }
+  ]
+}

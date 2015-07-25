@@ -1,0 +1,21 @@
+{
+  "group_name": "natura\\assets\\natura\\textures\\items\\darkwood_sword.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.37630008525149183,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.18473389355742278,
+        0.5929038281979457,
+        0.7882352941176471
+      ],
+      "variance": 0.6244725432017993
+    }
+  ]
+}

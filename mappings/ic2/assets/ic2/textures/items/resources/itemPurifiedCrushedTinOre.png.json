@@ -1,0 +1,21 @@
+{
+  "group_name": "ic2\\assets\\ic2\\textures\\items\\resources\\itemPurifiedCrushedTinOre.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.8725490196078431,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.746078431372549,
+        0.8470588235294118,
+        0.9062037929926069
+      ],
+      "variance": 0.3501586671099123
+    }
+  ]
+}

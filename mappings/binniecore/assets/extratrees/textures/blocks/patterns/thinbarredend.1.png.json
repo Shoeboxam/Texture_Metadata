@@ -1,0 +1,21 @@
+{
+  "group_name": "binniecore\\assets\\extratrees\\textures\\blocks\\patterns\\thinbarredend.1.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.882716049382716,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.6939263510282161,
+        0.8965816415061599,
+        0.9822896900695763
+      ],
+      "variance": 0.37864166421744117
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "group_name": "tinker\\assets\\tinker\\textures\\items\\parts\\stone_chunk.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.4062204192021636,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.30673486786018755,
+        0.43607843137254904,
+        0.5189542483660131
+      ],
+      "variance": 0.4316556756306249
+    }
+  ]
+}

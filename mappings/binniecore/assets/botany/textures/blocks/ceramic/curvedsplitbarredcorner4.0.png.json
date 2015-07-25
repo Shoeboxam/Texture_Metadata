@@ -1,0 +1,25 @@
+{
+  "group_name": "binniecore\\assets\\extratrees\\textures\\blocks\\patterns\\curvedsplitbarredcorner4.0.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.8499999999999999,
+        0.20120898100172777,
+        0.41125541125541126
+      ],
+      "lightness": 0.9816666666666667,
+      "sats": [
+        0.04279045643153527,
+        0.026602343211578262,
+        0.015899236010737183
+      ],
+      "vals": [
+        0.9496078431372549,
+        0.9755850727387729,
+        0.9810682893847195
+      ],
+      "variance": 0.4635902383994824
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "group_name": "binniecore\\assets\\extratrees\\textures\\blocks\\patterns\\diagonalbend4.0.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.9224400871459696,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.7186274509803922,
+        0.7951734539969835,
+        0.9778484366719661
+      ],
+      "variance": 0.4916110940657353
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.7254901960784313,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.7254901960784313
+      ],
+      "variance": 0.6250694811634605
+    }
+  ]
+}

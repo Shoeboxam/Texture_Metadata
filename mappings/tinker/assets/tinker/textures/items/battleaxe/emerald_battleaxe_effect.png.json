@@ -1,0 +1,38 @@
+{
+  "group_name": "tinker\\assets\\tinker\\textures\\items\\battleaxe\\emerald_battleaxe_effect.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.26666666666666666,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.26666666666666666
+      ],
+      "variance": 0.5296903263828899
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.3333333333333333,
+        0.3763982102908277,
+        0.396078431372549
+      ],
+      "lightness": 0.4901960784313725,
+      "sats": [
+        1.0,
+        0.573549257759784
+      ],
+      "vals": [
+        0.3254901960784313,
+        0.584313725490196,
+        0.968627450980392
+      ],
+      "variance": 0.2881515375522921
+    }
+  ]
+}

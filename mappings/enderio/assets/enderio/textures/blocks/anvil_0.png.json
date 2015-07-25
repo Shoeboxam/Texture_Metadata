@@ -1,0 +1,51 @@
+{
+  "group_name": "minecraft\\assets\\minecraft\\textures\\blocks\\anvil_top_damaged_1.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.1411764705882353,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.13725490196078433,
+        0.1450980392156863
+      ],
+      "variance": 0.5636862555167053
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.1537958773252891,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.14077505017755132,
+        0.17862745098039215,
+        0.2823529411764706
+      ],
+      "variance": 0.5174341305952626
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.13333333333333333,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.12156862745098039,
+        0.1450980392156863
+      ],
+      "variance": 0.5968442705470997
+    }
+  ]
+}

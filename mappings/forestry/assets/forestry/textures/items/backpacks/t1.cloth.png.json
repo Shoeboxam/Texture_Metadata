@@ -1,0 +1,21 @@
+{
+  "group_name": "forestry\\assets\\forestry\\textures\\items\\backpacks\\t2.cloth.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.726750700280112,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.4000000000000003,
+        0.7803921568627451,
+        0.9597657244716069
+      ],
+      "variance": 0.34760589929667385
+    }
+  ]
+}

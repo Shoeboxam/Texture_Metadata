@@ -1,0 +1,23 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\parts\\bop\\mud_pickaxe_head.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.28637506284565106,
+      "sats": [
+        0.6,
+        0.5989583333333333,
+        0.35922330097087374
+      ],
+      "vals": [
+        0.188235294117647,
+        0.7058823529411765,
+        0.807843137254902
+      ],
+      "variance": 0.942359759861679
+    }
+  ]
+}

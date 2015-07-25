@@ -1,0 +1,51 @@
+{
+  "group_name": "natura\\assets\\natura\\textures\\items\\ghostwood_door_item.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.7218271924154278,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.22745098039215683,
+        0.607843137254902,
+        0.8270308123249299
+      ],
+      "variance": 0.5003776700632354
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.22745098039215686,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.22745098039215686
+      ],
+      "variance": 1.5879738487228485
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.5018627450980392,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.22745098039215678,
+        0.6078431372549019,
+        0.7669467787114845
+      ],
+      "variance": 0.7196912148929496
+    }
+  ]
+}

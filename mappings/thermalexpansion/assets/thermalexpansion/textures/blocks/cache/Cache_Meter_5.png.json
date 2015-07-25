@@ -1,0 +1,22 @@
+{
+  "group_name": "thermalexpansion\\assets\\thermalexpansion\\textures\\blocks\\cache\\Cache_Meter_0.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.44313725490196076,
+      "sats": [
+        1.0,
+        0.8442367601246106
+      ],
+      "vals": [
+        0.17983193277310927,
+        0.5542483660130719,
+        0.8352941176470587
+      ],
+      "variance": 0.33835275198471265
+    }
+  ]
+}

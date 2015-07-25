@@ -1,0 +1,37 @@
+{
+  "group_name": "binniecore\\assets\\extratrees\\textures\\blocks\\patterns\\diagonal4edged.1.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.8223039215686274,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.661319073083779,
+        0.7516339869281046,
+        0.9686274509803922
+      ],
+      "variance": 0.3557431600959535
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.6617647058823529,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.607843137254902,
+        0.6705882352941176,
+        0.7254901960784313
+      ],
+      "variance": 0.4420438156007126
+    }
+  ]
+}

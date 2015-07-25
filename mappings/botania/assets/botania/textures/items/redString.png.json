@@ -1,0 +1,23 @@
+{
+  "group_name": "natura\\assets\\natura\\textures\\items\\flamestring.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.6252549019607844,
+      "sats": [
+        0.896103896103896,
+        0.8504273504273504,
+        0.7215189873417721
+      ],
+      "vals": [
+        0.30196078431372547,
+        0.9176470588235293,
+        0.9294117647058823
+      ],
+      "variance": 0.730911203644771
+    }
+  ]
+}

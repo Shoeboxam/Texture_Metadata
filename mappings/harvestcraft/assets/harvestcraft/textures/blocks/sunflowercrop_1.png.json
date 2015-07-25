@@ -1,0 +1,25 @@
+{
+  "group_name": "harvestcraft\\assets\\harvestcraft\\textures\\blocks\\sunflowercrop_1.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.22759856630824374,
+        0.25,
+        0.2517361111111111
+      ],
+      "lightness": 0.4283473389355742,
+      "sats": [
+        0.9393939393939394,
+        0.7933884297520661,
+        0.78
+      ],
+      "vals": [
+        0.38823529411764707,
+        0.39215686274509803,
+        0.4745098039215686
+      ],
+      "variance": 0.5507319063159719
+    }
+  ]
+}

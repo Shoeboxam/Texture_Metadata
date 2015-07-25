@@ -1,0 +1,70 @@
+{
+  "group_name": "enderio\\assets\\enderio\\textures\\items\\extractSpeedDowngrade.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.0,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.0
+      ],
+      "variance": Infinity
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.6501501501501501,
+        0.0
+      ],
+      "lightness": 0.6258064516129032,
+      "sats": [
+        0.8705882352941177,
+        1.850371707708594e-16,
+        0.0
+      ],
+      "vals": [
+        0.0,
+        0.6000000000000001,
+        1.0
+      ],
+      "variance": 0.559790846970014
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.34054054054054056,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.0,
+        0.6
+      ],
+      "variance": 1.0287195851384434
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.6501501501501501,
+        0.0
+      ],
+      "lightness": 0.8823529411764706,
+      "sats": [
+        0.8705882352941177,
+        0.0
+      ],
+      "vals": [
+        0.6,
+        1.0
+      ],
+      "variance": 0.39703015339937764
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\mattock\\natura\\netherquartz_mattock_head_broken.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.5064102564102564,
+        0.5079365079365079,
+        0.5095238095238095
+      ],
+      "lightness": 0.4596638655462184,
+      "sats": [
+        0.2799999999999998,
+        0.27368421052631586,
+        0.08423586040914559
+      ],
+      "vals": [
+        0.2941176470588235,
+        0.37254901960784315,
+        0.8147058823529412
+      ],
+      "variance": 0.4016681350496232
+    }
+  ]
+}

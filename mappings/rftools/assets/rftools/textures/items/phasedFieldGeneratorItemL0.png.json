@@ -1,0 +1,66 @@
+{
+  "group_name": "rftools\\assets\\rftools\\textures\\items\\phasedFieldGeneratorItemL4.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.7942222222222223,
+        0.8066389942508171,
+        0.811740890688259
+      ],
+      "lightness": 0.9725752784192383,
+      "sats": [
+        0.9801587301587302,
+        0.9524880708929788,
+        0.5411255411255412
+      ],
+      "vals": [
+        0.9668808699950568,
+        0.9882352941176471
+      ],
+      "variance": 0.3993157084968365
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.3333333333333333
+      ],
+      "lightness": 1.0,
+      "sats": [
+        1.0
+      ],
+      "vals": [
+        1.0
+      ],
+      "variance": 0.38836458636848614
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.3333333333333333
+      ],
+      "lightness": 1.0,
+      "sats": [
+        1.0
+      ],
+      "vals": [
+        1.0
+      ],
+      "variance": 0.38836458636848614
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.0,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.0
+      ],
+      "variance": Infinity
+    }
+  ]
+}

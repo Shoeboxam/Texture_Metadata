@@ -1,0 +1,21 @@
+{
+  "group_name": "minefactoryreloaded\\assets\\minefactoryreloaded\\textures\\items\\item.mfr.ceramicdye.cyan.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.3899874843554443,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.27843137254901956,
+        0.3691683569979716,
+        0.4907260201377849
+      ],
+      "variance": 0.7837328741773724
+    }
+  ]
+}

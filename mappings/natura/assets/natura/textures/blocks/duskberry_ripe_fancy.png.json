@@ -1,0 +1,39 @@
+{
+  "group_name": "natura\\assets\\natura\\textures\\blocks\\blackberry_ripe_fancy.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        1.850371707708594e-17,
+        9.251858538542972e-17,
+        0.009324009324009322
+      ],
+      "lightness": 0.16952896100969123,
+      "sats": [
+        1.0,
+        0.9999999999999998,
+        0.8377270064440538
+      ],
+      "vals": [
+        0.009477124183006419,
+        0.19568627450980391,
+        0.2910485933503836
+      ],
+      "variance": 1.0374021108231997
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.0,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.0
+      ],
+      "variance": Infinity
+    }
+  ]
+}

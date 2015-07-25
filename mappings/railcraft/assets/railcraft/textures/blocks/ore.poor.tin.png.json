@@ -1,0 +1,21 @@
+{
+  "group_name": "railcraft\\assets\\railcraft\\textures\\blocks\\ore.poor.tin.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.8745098039215686,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.7965686274509803,
+        0.9176470588235294,
+        0.9764705882352941
+      ],
+      "variance": 0.04245683098318182
+    }
+  ]
+}

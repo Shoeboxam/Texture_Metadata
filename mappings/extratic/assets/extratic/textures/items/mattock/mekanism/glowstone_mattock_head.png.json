@@ -1,0 +1,25 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\mattock\\metallurgy3\\precious\\brass_mattock_head.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.17083333333333325,
+        0.1711127132900745,
+        0.17320261437908493
+      ],
+      "lightness": 0.38370098039215683,
+      "sats": [
+        0.98159509202454,
+        0.9357798165137614,
+        0.9252835223482322
+      ],
+      "vals": [
+        0.21307189542483657,
+        0.5344028520499109,
+        0.8549019607843137
+      ],
+      "variance": 0.5666921100131014
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "group_name": "harvestcraft\\assets\\harvestcraft\\textures\\items\\bakedbeansItem.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.08262890955198647,
+        0.09649122807017542,
+        0.09877714526670876
+      ],
+      "lightness": 0.26412294647588763,
+      "sats": [
+        1.0,
+        0.9505825632784252,
+        0.9316440777843253
+      ],
+      "vals": [
+        0.1478867102396515,
+        0.3904313725490197,
+        0.7823529411764706
+      ],
+      "variance": 0.5841313723417556
+    }
+  ]
+}

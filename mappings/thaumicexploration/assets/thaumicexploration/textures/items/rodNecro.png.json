@@ -1,0 +1,21 @@
+{
+  "group_name": "minecraft\\assets\\minecraft\\textures\\items\\blaze_rod.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.2552864282968089,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.16937441643323997,
+        0.284228473998295,
+        0.41792717086834735
+      ],
+      "variance": 0.4303044777511838
+    }
+  ]
+}

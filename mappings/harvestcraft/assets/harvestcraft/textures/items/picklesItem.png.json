@@ -1,0 +1,24 @@
+{
+  "group_name": "harvestcraft\\assets\\harvestcraft\\textures\\items\\pickledonionsItem.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.3279132791327913,
+        0.3300970873786408
+      ],
+      "lightness": 0.645751633986928,
+      "sats": [
+        0.7253521126760564,
+        0.7253521126760563,
+        0.5857142857142859
+      ],
+      "vals": [
+        0.5568627450980392,
+        0.5568627450980393,
+        0.823529411764706
+      ],
+      "variance": 0.5528081554204473
+    }
+  ]
+}

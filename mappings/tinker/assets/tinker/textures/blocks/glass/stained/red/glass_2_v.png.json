@@ -1,0 +1,23 @@
+{
+  "group_name": "tinker\\assets\\tinker\\textures\\blocks\\glass\\stained\\gray\\glass_2_v.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.7440225294688777,
+      "sats": [
+        0.9426229508196721,
+        0.7473684210526318,
+        0.23921568627450995
+      ],
+      "vals": [
+        0.4784313725490197,
+        0.7450980392156863,
+        1.0
+      ],
+      "variance": 0.12395014398747677
+    }
+  ]
+}

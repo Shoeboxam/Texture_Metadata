@@ -1,0 +1,25 @@
+{
+  "group_name": "tinker\\assets\\tinker\\textures\\items\\pickaxe\\blueslime_pickaxe_head.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.498015873015873,
+        0.5,
+        0.5046728971962616
+      ],
+      "lightness": 0.44610814022578726,
+      "sats": [
+        0.43373493975903593,
+        0.4201570680628272,
+        0.42
+      ],
+      "vals": [
+        0.3254901960784314,
+        0.6657952069716776,
+        0.7843137254901961
+      ],
+      "variance": 0.36293152874465157
+    }
+  ]
+}

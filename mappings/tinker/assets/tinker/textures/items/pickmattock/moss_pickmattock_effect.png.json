@@ -1,0 +1,23 @@
+{
+  "group_name": "tinker\\assets\\tinker\\textures\\items\\mattock\\moss_mattock_effect.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.3333333333333333
+      ],
+      "lightness": 0.3420083184789067,
+      "sats": [
+        0.5656565656565656,
+        0.5633802816901409,
+        0.536318407960199
+      ],
+      "vals": [
+        0.2784313725490197,
+        0.38823529411764707,
+        0.49264705882352944
+      ],
+      "variance": 0.4586350099233456
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "group_name": "tinker\\assets\\tinker\\textures\\items\\oreberries\\oreberry_copper.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.43429590017825304,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.2862745098039216,
+        0.40784313725490196,
+        0.5607843137254902
+      ],
+      "variance": 0.8163963424537892
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.8165577342047929,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.6509803921568628,
+        0.7678431372549019,
+        0.9529411764705882
+      ],
+      "variance": 0.43421006206436663
+    }
+  ]
+}

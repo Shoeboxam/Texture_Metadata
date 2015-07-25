@@ -1,0 +1,25 @@
+{
+  "group_name": "harvestcraft\\assets\\harvestcraft\\textures\\items\\chocolatebarItem.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0,
+        0.05149903288201165,
+        0.06357872490313492
+      ],
+      "lightness": 0.3181317470808548,
+      "sats": [
+        0.817684331797235,
+        0.7914274779946423,
+        0.048458149779735636
+      ],
+      "vals": [
+        0.2009227220299884,
+        0.41259655377302434,
+        0.8901960784313725
+      ],
+      "variance": 0.5915911503405566
+    }
+  ]
+}

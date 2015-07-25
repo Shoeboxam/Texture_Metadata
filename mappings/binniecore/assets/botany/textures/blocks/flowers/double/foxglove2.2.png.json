@@ -1,0 +1,35 @@
+{
+  "group_name": "binniecore\\assets\\botany\\textures\\blocks\\flowers\\double\\foxglove2.3.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.84,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.692156862745098,
+        0.8156862745098039,
+        1.0
+      ],
+      "variance": 0.15648704743108802
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.9490196078431372,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.9490196078431372
+      ],
+      "variance": 0.13851043619726883
+    }
+  ]
+}

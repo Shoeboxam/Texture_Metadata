@@ -1,0 +1,25 @@
+{
+  "group_name": "harvestcraft\\assets\\harvestcraft\\textures\\items\\kiwiseedboxItem.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0,
+        0.10941191097849061,
+        0.11938933445898425
+      ],
+      "lightness": 0.6890196078431372,
+      "sats": [
+        0.685370741482966,
+        0.398128898128898,
+        0.24028806166954048
+      ],
+      "vals": [
+        0.5868409586056644,
+        0.7338235294117647,
+        0.7580930411380238
+      ],
+      "variance": 0.5133620198413278
+    }
+  ]
+}

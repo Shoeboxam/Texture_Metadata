@@ -1,0 +1,25 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\longsword\\natura\\netherquartz_longsword_accessory.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.10752688172043008,
+        0.10912698412698413,
+        0.10997732426303852
+      ],
+      "lightness": 0.23568627450980395,
+      "sats": [
+        0.7209302325581396,
+        0.7188264058679706,
+        0.7179487179487178
+      ],
+      "vals": [
+        0.16862745098039217,
+        0.3207843137254902,
+        0.4588235294117647
+      ],
+      "variance": 0.29343124868428794
+    }
+  ]
+}

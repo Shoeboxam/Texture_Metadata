@@ -1,0 +1,23 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\parts\\metallurgy3\\precious\\brass_trident_head.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.34929078014184395,
+        0.34970238095238093,
+        0.35042735042735046
+      ],
+      "lightness": 0.22464052287581698,
+      "sats": [
+        1.0
+      ],
+      "vals": [
+        0.15294117647058825,
+        0.3686274509803922,
+        0.4392156862745098
+      ],
+      "variance": 1.1348138005197628
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "group_name": "tinker\\assets\\tinker\\textures\\items\\longbow\\moss_bow_effect_1.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.3333333333333333
+      ],
+      "lightness": 0.34337254901960784,
+      "sats": [
+        0.5656565656565656,
+        0.5633802816901409,
+        0.537037037037037
+      ],
+      "vals": [
+        0.2784313725490196,
+        0.38823529411764707,
+        0.49411764705882355
+      ],
+      "variance": 0.33569176164428627
+    }
+  ]
+}

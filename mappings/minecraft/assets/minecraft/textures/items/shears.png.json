@@ -1,0 +1,23 @@
+{
+  "group_name": "railcraft\\assets\\railcraft\\textures\\items\\tool.steel.shears.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0,
+        0.045391061452513926
+      ],
+      "lightness": 0.42690631808278867,
+      "sats": [
+        0.3854643337819649,
+        0.0
+      ],
+      "vals": [
+        0.3167092924126172,
+        0.4215686274509804,
+        0.7470588235294118
+      ],
+      "variance": 0.5039520351681717
+    }
+  ]
+}

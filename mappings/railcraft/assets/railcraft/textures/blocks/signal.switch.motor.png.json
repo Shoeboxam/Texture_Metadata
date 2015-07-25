@@ -1,0 +1,65 @@
+{
+  "group_name": "railcraft\\assets\\railcraft\\textures\\blocks\\signal.switch.lever.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.13911764705882354,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.12156862745098039,
+        0.1369532428355958,
+        0.15294117647058825
+      ],
+      "variance": 2.955707680469379
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.1295051353874883,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.12156862745098039,
+        0.1396078431372549,
+        0.15294117647058825
+      ],
+      "variance": 3.175094923226642
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.15294117647058825,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.15294117647058825
+      ],
+      "variance": 2.6885571785808007
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.12156862745098038,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.12156862745098039
+      ],
+      "variance": 3.3823783859564918
+    }
+  ]
+}

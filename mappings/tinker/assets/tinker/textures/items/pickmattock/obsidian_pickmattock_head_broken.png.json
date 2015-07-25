@@ -1,0 +1,25 @@
+{
+  "group_name": "tinker\\assets\\tinker\\textures\\items\\pickmattock\\copper_pickmattock_head_broken.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.7166666666666667,
+        0.7243589743589745,
+        0.7342342342342342
+      ],
+      "lightness": 0.37670126874279125,
+      "sats": [
+        0.5411334552102377,
+        0.4663677130044843,
+        0.40625
+      ],
+      "vals": [
+        0.25098039215686274,
+        0.4372549019607843,
+        0.7150326797385621
+      ],
+      "variance": 0.5766619661580081
+    }
+  ]
+}

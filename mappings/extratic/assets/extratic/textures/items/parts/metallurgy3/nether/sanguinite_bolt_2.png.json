@@ -1,0 +1,22 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\bolt\\generic\\sapphire_bolt_head.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.8845315904139432,
+      "sats": [
+        1.0,
+        0.9411764705882353,
+        0.42352941176470593
+      ],
+      "vals": [
+        0.6535947712418301,
+        1.0
+      ],
+      "variance": 0.055291323503357165
+    }
+  ]
+}

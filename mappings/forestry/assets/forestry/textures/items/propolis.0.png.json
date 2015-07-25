@@ -1,0 +1,79 @@
+{
+  "group_name": "harvestcraft\\assets\\harvestcraft\\textures\\items\\doughItem.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.5781045751633986,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.46249999999999997,
+        0.5903469079939668,
+        0.7092229484386348
+      ],
+      "variance": 0.37424063635252114
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.8018575851393187,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.7647058823529411,
+        1.0
+      ],
+      "variance": 0.26981128332141974
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.7647058823529411,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.7647058823529411
+      ],
+      "variance": 0.2829195238066709
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.7828054298642534,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.7647058823529411,
+        1.0
+      ],
+      "variance": 0.2763780319267478
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.7450980392156863,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.7450980392156863
+      ],
+      "variance": 0.2903647744331622
+    }
+  ]
+}

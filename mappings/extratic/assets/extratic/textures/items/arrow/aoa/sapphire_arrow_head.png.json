@@ -1,0 +1,24 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\arrow\\metallurgy3\\nether\\amordrine_arrow_head.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.6044776119402985,
+        0.6253753753753754,
+        0.6254789272030651
+      ],
+      "lightness": 0.7484593837535014,
+      "sats": [
+        1.0,
+        0.9136363636363637
+      ],
+      "vals": [
+        0.6823529411764706,
+        0.8627450980392157,
+        0.8705882352941177
+      ],
+      "variance": 0.028899116824545566
+    }
+  ]
+}

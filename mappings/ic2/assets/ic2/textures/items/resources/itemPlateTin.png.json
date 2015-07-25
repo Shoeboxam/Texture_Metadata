@@ -1,0 +1,66 @@
+{
+  "group_name": "ic2\\assets\\ic2\\textures\\items\\resources\\itemPlateIron.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.6680016687526074,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.5568627450980391,
+        0.7730392156862745,
+        0.9098039215686274
+      ],
+      "variance": 0.5802455918996713
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.8954816709292412,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.8,
+        0.9098039215686274
+      ],
+      "variance": 0.43284529014771134
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.5568627450980392,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.5568627450980392
+      ],
+      "variance": 0.6960512749099143
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.8293681917211329,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.5568627450980392,
+        0.7626143790849673,
+        0.9098039215686275
+      ],
+      "variance": 0.46734975797776107
+    }
+  ]
+}

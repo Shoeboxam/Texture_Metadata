@@ -1,0 +1,25 @@
+{
+  "group_name": "thermalexpansion\\assets\\thermalexpansion\\textures\\items\\material\\DustWood.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.9999999999999993,
+        0.006970849176172578,
+        0.01355013550135494
+      ],
+      "lightness": 0.7896107575978368,
+      "sats": [
+        0.07400722021660663,
+        0.053314413136022684,
+        0.03174928308070471
+      ],
+      "vals": [
+        0.651764705882353,
+        0.7738039215686274,
+        0.8702317290552585
+      ],
+      "variance": 0.1250940061054232
+    }
+  ]
+}

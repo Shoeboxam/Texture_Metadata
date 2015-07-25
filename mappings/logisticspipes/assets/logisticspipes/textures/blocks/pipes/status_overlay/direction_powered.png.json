@@ -1,0 +1,47 @@
+{
+  "group_name": "logisticspipes\\assets\\logisticspipes\\textures\\blocks\\pipes\\status_overlay\\powered_powered.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.6705882352941176,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.6705882352941176
+      ],
+      "variance": 0.6191442793826388
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.6418300653594771
+      ],
+      "lightness": 1.0,
+      "sats": [
+        1.0
+      ],
+      "vals": [
+        1.0
+      ],
+      "variance": 0.4151908697036519
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.08218125960061444
+      ],
+      "lightness": 0.8509803921568627,
+      "sats": [
+        1.0
+      ],
+      "vals": [
+        0.8509803921568627
+      ],
+      "variance": 0.487897104951296
+    }
+  ]
+}

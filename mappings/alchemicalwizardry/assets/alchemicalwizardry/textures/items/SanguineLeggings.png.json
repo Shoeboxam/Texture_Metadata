@@ -1,0 +1,37 @@
+{
+  "group_name": "alchemicalwizardry\\assets\\alchemicalwizardry\\textures\\items\\SanguineLeggings.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0,
+        1.850371707708594e-17,
+        0.14629629629629629
+      ],
+      "lightness": 0.2808059003417881,
+      "sats": [
+        1.0
+      ],
+      "vals": [
+        0.0446751249519417,
+        0.4536470588235295,
+        0.7058823529411765
+      ],
+      "variance": 1.3973636275853474
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.02745098039215686,
+      "sats": [
+        1.0
+      ],
+      "vals": [
+        0.027450980392156862
+      ],
+      "variance": 14.2941325207125
+    }
+  ]
+}

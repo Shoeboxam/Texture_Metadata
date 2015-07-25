@@ -1,0 +1,21 @@
+{
+  "group_name": "alchemicalwizardryBooks\\assets\\magicbees\\textures\\items\\TCairDust.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.3333333333333333
+      ],
+      "lightness": 0.4700115340253749,
+      "sats": [
+        1.0
+      ],
+      "vals": [
+        0.20392156862745098,
+        0.44738562091503264,
+        0.6122875816993464
+      ],
+      "variance": 0.40146680537886426
+    }
+  ]
+}

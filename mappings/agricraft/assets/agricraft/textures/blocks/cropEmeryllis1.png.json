@@ -1,0 +1,19 @@
+{
+  "group_name": "agricraft\\assets\\agricraft\\textures\\blocks\\cropDiamahlia1.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.25
+      ],
+      "lightness": 0.8862745098039214,
+      "sats": [
+        1.0
+      ],
+      "vals": [
+        0.8862745098039215
+      ],
+      "variance": 0.326248479812558
+    }
+  ]
+}

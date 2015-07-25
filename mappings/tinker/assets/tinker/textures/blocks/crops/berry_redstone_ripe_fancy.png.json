@@ -1,0 +1,23 @@
+{
+  "group_name": "tinker\\assets\\tinker\\textures\\blocks\\crops\\berry_silver_fancy.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.5410790403117769,
+      "sats": [
+        0.5150881386316101,
+        0.49288486416558863,
+        0.25925329900225286
+      ],
+      "vals": [
+        0.32408617768094916,
+        0.6381836945304438,
+        0.798971391835423
+      ],
+      "variance": 0.5887376764188345
+    }
+  ]
+}

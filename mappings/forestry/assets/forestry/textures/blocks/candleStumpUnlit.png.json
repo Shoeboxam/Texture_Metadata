@@ -1,0 +1,21 @@
+{
+  "group_name": "forestry\\assets\\forestry\\textures\\blocks\\candleStumpLit.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.9107843137254902,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.8407843137254902,
+        0.9098039215686274,
+        1.0
+      ],
+      "variance": 0.24262907346142573
+    }
+  ]
+}

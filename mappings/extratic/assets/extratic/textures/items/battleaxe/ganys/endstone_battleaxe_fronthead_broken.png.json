@@ -1,0 +1,25 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\battleaxe\\oodmod\\kroostyl_battleaxe_backhead.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.1494252873563219,
+        0.17644757433489833,
+        0.18137254901960786
+      ],
+      "lightness": 0.8447349310094407,
+      "sats": [
+        0.29743589743589743,
+        0.2669172932330827,
+        0.22818791946308725
+      ],
+      "vals": [
+        0.7647058823529411,
+        0.8941176470588236,
+        0.9738562091503268
+      ],
+      "variance": 0.042307551321582836
+    }
+  ]
+}

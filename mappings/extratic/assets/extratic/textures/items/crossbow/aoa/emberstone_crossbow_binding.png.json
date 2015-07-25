@@ -1,0 +1,24 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\crossbow\\metallurgy3\\fantasy\\oureclase_crossbow_binding.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.9927536231884058,
+        0.0
+      ],
+      "lightness": 0.6414215686274509,
+      "sats": [
+        0.8846153846153846,
+        0.02857142857142867,
+        1.2986553728413528e-16
+      ],
+      "vals": [
+        0.27450980392156865,
+        0.4274509803921569,
+        0.8156862745098039
+      ],
+      "variance": 0.09552278051868657
+    }
+  ]
+}

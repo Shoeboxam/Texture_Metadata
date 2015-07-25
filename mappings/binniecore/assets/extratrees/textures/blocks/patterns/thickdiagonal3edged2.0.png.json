@@ -1,0 +1,53 @@
+{
+  "group_name": "binniecore\\assets\\botany\\textures\\blocks\\ceramic\\thickdiagonal3edged2.0.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.8923076923076924,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.6811594202898551,
+        0.9001782531194296,
+        0.9773755656108597
+      ],
+      "variance": 0.34366702605996036
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.9512195121951219,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.9019607843137255,
+        0.9607843137254902,
+        1.0
+      ],
+      "variance": 0.3223827171481601
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.887955182072829,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.7450980392156863,
+        0.9019607843137254,
+        0.9738562091503268
+      ],
+      "variance": 0.3453515865856608
+    }
+  ]
+}

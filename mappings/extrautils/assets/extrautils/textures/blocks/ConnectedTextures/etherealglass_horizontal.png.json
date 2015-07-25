@@ -1,0 +1,50 @@
+{
+  "group_name": "extrautils\\assets\\extrautils\\textures\\blocks\\etherealglass.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.5241935483870969,
+        0.0
+      ],
+      "lightness": 0.9991744066047472,
+      "sats": [
+        0.2440944881889764,
+        0.0
+      ],
+      "vals": [
+        0.996078431372549,
+        1.0
+      ],
+      "variance": 0.0018313025634627538
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 1.0,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        1.0
+      ],
+      "variance": 0.0018297906521616495
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.5241935483870969
+      ],
+      "lightness": 0.996078431372549,
+      "sats": [
+        0.2440944881889764
+      ],
+      "vals": [
+        0.996078431372549
+      ],
+      "variance": 0.0018369945523670104
+    }
+  ]
+}

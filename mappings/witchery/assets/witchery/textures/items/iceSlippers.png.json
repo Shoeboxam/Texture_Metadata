@@ -1,0 +1,21 @@
+{
+  "group_name": "witchery\\assets\\witchery\\textures\\items\\rubySlippers.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.22446717817561807,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.12130718954248361,
+        0.32581699346405224,
+        0.6941176470588235
+      ],
+      "variance": 0.6109823005050845
+    }
+  ]
+}

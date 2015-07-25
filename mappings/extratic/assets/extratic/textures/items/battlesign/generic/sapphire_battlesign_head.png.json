@@ -1,0 +1,25 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\battlesign\\metallurgy3\\precious\\brass_battlesign_head.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.6224393467384122,
+        0.622895622895623,
+        0.6235602691298893
+      ],
+      "lightness": 0.5936316406904643,
+      "sats": [
+        0.7390644753476612,
+        0.7360083376758729,
+        0.4520547945205478
+      ],
+      "vals": [
+        0.3371696504688831,
+        0.7236048265460031,
+        0.8588235294117645
+      ],
+      "variance": 0.420599686588943
+    }
+  ]
+}

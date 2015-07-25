@@ -1,0 +1,47 @@
+{
+  "group_name": "forestry\\assets\\forestry\\textures\\items\\backpacks\\t2.outline.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.0,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.0
+      ],
+      "variance": Infinity
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 1.0,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        1.0
+      ],
+      "variance": 0.09993001739623186
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.7294117647058822,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.7294117647058823
+      ],
+      "variance": 0.13700083030128565
+    }
+  ]
+}

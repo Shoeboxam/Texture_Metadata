@@ -1,0 +1,21 @@
+{
+  "group_name": "alchemicalwizardry\\assets\\alchemicalwizardry\\textures\\items\\OmegaPlate_earth.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.178698752228164,
+      "sats": [
+        1.0
+      ],
+      "vals": [
+        0.04078431372549013,
+        0.1450980392156863,
+        0.29099368560983707
+      ],
+      "variance": 2.3423795679964265
+    }
+  ]
+}

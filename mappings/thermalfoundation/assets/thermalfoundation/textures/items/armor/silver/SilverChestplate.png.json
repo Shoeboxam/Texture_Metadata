@@ -1,0 +1,25 @@
+{
+  "group_name": "thermalfoundation\\assets\\thermalfoundation\\textures\\items\\armor\\copper\\CopperChestplate.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.5289855072463769,
+        0.5293708724365659,
+        0.5312772259975604
+      ],
+      "lightness": 0.5618241235888295,
+      "sats": [
+        0.6622928176795574,
+        0.2539501237388159,
+        0.15667485667485728
+      ],
+      "vals": [
+        0.14196078431372533,
+        0.6242424242424243,
+        0.8115653040877371
+      ],
+      "variance": 0.5371647314356299
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\longsword\\natura\\darkwood_longsword_blade.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0694444444444444,
+        0.07407407407407461,
+        0.08823529411764681
+      ],
+      "lightness": 0.4974358974358974,
+      "sats": [
+        0.2931034482758622,
+        0.12060301507537688,
+        0.0382978723404254
+      ],
+      "vals": [
+        0.2274509803921569,
+        0.7803921568627451,
+        0.9215686274509802
+      ],
+      "variance": 0.43728810079607605
+    }
+  ]
+}

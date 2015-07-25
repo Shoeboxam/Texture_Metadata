@@ -1,0 +1,21 @@
+{
+  "group_name": "biomesoplenty\\assets\\biomesoplenty\\textures\\items\\sapphire.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.8879084967320261,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.7662990196078432,
+        0.8834914611005692,
+        0.9774291938997821
+      ],
+      "variance": 0.09250246053844942
+    }
+  ]
+}

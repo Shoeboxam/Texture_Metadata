@@ -1,0 +1,85 @@
+{
+  "group_name": "enderio\\assets\\enderio\\textures\\blocks\\endermanSkullFront.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.05306288032454361,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.0,
+        0.0862745098039216,
+        1.0
+      ],
+      "variance": 5.351585972831926
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.48591800356506243,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.0,
+        0.08627450980392154,
+        1.0
+      ],
+      "variance": 0.5844001743904603
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.39716024340770795,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        5.551115123125783e-17,
+        0.0862745098039216,
+        1.0
+      ],
+      "variance": 0.7150024976980754
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.2190196078431373,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.0,
+        0.08627450980392154,
+        0.9999999999999999
+      ],
+      "variance": 1.2965531662638516
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.30409982174688055,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.0,
+        0.08627450980392157,
+        1.0
+      ],
+      "variance": 0.9338070781878048
+    }
+  ]
+}

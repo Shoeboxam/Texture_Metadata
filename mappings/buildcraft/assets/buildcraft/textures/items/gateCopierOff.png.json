@@ -1,0 +1,64 @@
+{
+  "group_name": "buildcraft\\assets\\buildcraft\\textures\\items\\gateCopierOff.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.27058823529411763,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.27058823529411763
+      ],
+      "variance": 0.32438706049511856
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.16666666666666666,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.1250544662309368,
+        0.21024667931688806,
+        0.2662309368191721
+      ],
+      "variance": 0.526651933509722
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.24117647058823527,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.21176470588235294,
+        0.27058823529411763
+      ],
+      "variance": 0.36394645811647447
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.10980392156862748,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.10980392156862745
+      ],
+      "variance": 0.7993823990772562
+    }
+  ]
+}

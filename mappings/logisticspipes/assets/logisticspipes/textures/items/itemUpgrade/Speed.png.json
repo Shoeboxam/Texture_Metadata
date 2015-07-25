@@ -1,0 +1,50 @@
+{
+  "group_name": "logisticspipes\\assets\\logisticspipes\\textures\\items\\itemUpgrade\\Speed.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.16228070175438594
+      ],
+      "lightness": 0.2235294117647059,
+      "sats": [
+        0.6666666666666667
+      ],
+      "vals": [
+        0.2235294117647059
+      ],
+      "variance": 1.0413232689940362
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.1606280193236715
+      ],
+      "lightness": 0.8117647058823529,
+      "sats": [
+        0.6666666666666667
+      ],
+      "vals": [
+        0.8117647058823529
+      ],
+      "variance": 0.28674119001285053
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.162280701754386,
+        0.3416666666666666
+      ],
+      "lightness": 0.5337622549019609,
+      "sats": [
+        1.0,
+        0.6666666666666666
+      ],
+      "vals": [
+        0.22352941176470587,
+        0.5490196078431373
+      ],
+      "variance": 0.43608624558492054
+    }
+  ]
+}

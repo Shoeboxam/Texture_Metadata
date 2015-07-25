@@ -1,0 +1,25 @@
+{
+  "group_name": "thermalfoundation\\assets\\thermalfoundation\\textures\\items\\tool\\copper\\CopperAxe.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.10737976782752905,
+        0.23944511459589876,
+        0.27582202664710914
+      ],
+      "lightness": 0.36882352941176466,
+      "sats": [
+        0.937435544860777,
+        0.8617463617463617,
+        0.7127659574468085
+      ],
+      "vals": [
+        0.16402387041773236,
+        0.3686274509803921,
+        0.6004127966976265
+      ],
+      "variance": 1.2105560985834887
+    }
+  ]
+}

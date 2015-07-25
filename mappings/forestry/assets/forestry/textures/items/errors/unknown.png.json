@@ -1,0 +1,75 @@
+{
+  "group_name": "forestry\\assets\\forestry\\textures\\items\\errors\\unknown.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.007853403141361256
+      ],
+      "lightness": 1.0,
+      "sats": [
+        0.7490196078431373
+      ],
+      "vals": [
+        1.0
+      ],
+      "variance": 0.3393719785777105
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.007853403141361256
+      ],
+      "lightness": 1.0,
+      "sats": [
+        0.7490196078431373
+      ],
+      "vals": [
+        1.0
+      ],
+      "variance": 0.3393719785777105
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.007853403141361256
+      ],
+      "lightness": 1.0,
+      "sats": [
+        0.7490196078431373
+      ],
+      "vals": [
+        1.0
+      ],
+      "variance": 0.3393719785777105
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.007853403141361256
+      ],
+      "lightness": 1.0,
+      "sats": [
+        0.7490196078431373
+      ],
+      "vals": [
+        1.0
+      ],
+      "variance": 0.3393719785777105
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.007853403141361256
+      ],
+      "lightness": 1.0,
+      "sats": [
+        0.7490196078431373
+      ],
+      "vals": [
+        1.0
+      ],
+      "variance": 0.3393719785777105
+    }
+  ]
+}

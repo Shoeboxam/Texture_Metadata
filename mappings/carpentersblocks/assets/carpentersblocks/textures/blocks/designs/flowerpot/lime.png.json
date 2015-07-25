@@ -1,0 +1,25 @@
+{
+  "group_name": "carpentersblocks\\assets\\carpentersblocks\\textures\\blocks\\designs\\flowerpot\\green.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.2396551724137931,
+        0.23996280494475442,
+        0.23997940430925224
+      ],
+      "lightness": 0.7843731431966725,
+      "sats": [
+        0.7732451304667401,
+        0.7100908879049173,
+        0.6689734717416378
+      ],
+      "vals": [
+        0.7359026369168357,
+        0.8013071895424837,
+        0.85
+      ],
+      "variance": 0.4385839715127931
+    }
+  ]
+}

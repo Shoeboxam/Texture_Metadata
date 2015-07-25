@@ -1,0 +1,53 @@
+{
+  "group_name": "binniecore\\assets\\botany\\textures\\blocks\\ceramic\\letters2.0.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.8142414860681114,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.6701268742791234,
+        0.9019607843137255,
+        0.988795518207283
+      ],
+      "variance": 0.4507236191202659
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.7985739750445633,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.6666666666666667,
+        0.8954248366013071,
+        0.9831932773109244
+      ],
+      "variance": 0.45956652847095714
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.9019607843137254,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.6274509803921569,
+        0.8954248366013071,
+        1.0
+      ],
+      "variance": 0.4068889422035352
+    }
+  ]
+}

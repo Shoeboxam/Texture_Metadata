@@ -1,0 +1,51 @@
+{
+  "group_name": "simplyjetpacks\\assets\\simplyjetpacks\\textures\\items\\particle.0.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 1.0,
+      "sats": [
+        1.0
+      ],
+      "vals": [
+        1.0
+      ],
+      "variance": 0.38913657218581243
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.069281045751634,
+        0.13742690058479534,
+        0.1411764705882353
+      ],
+      "lightness": 1.0,
+      "sats": [
+        1.0,
+        0.22352941176470587
+      ],
+      "vals": [
+        1.0
+      ],
+      "variance": 0.38913657218581243
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.25694117647058823,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.2196078431372549,
+        0.28627450980392155
+      ],
+      "variance": 1.5144967324081529
+    }
+  ]
+}

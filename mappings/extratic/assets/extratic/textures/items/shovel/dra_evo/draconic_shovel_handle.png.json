@@ -1,0 +1,39 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\shovel\\natura\\ghostwood_shovel_handle.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.04273504273504273
+      ],
+      "lightness": 0.611764705882353,
+      "sats": [
+        1.0
+      ],
+      "vals": [
+        0.611764705882353
+      ],
+      "variance": 0.09885071088155274
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.04273504273504273,
+        0.05395299145299145,
+        0.13749999999999998
+      ],
+      "lightness": 0.8223227752639517,
+      "sats": [
+        1.0,
+        0.9842271293375394,
+        0.6694560669456067
+      ],
+      "vals": [
+        0.611764705882353,
+        0.9323529411764706,
+        0.9372549019607843
+      ],
+      "variance": 0.07353970714152201
+    }
+  ]
+}

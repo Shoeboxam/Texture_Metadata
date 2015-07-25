@@ -1,0 +1,36 @@
+{
+  "group_name": "twilightforest\\assets\\twilightforest\\textures\\items\\charmOfKeeping1.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.24777183600713015,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.20784313725490197,
+        0.3176470588235294
+      ],
+      "variance": 1.0852172133766442
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.5755514705882352,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.3743697478991596,
+        0.5882352941176471,
+        0.8470588235294116
+      ],
+      "variance": 0.4671802178701078
+    }
+  ]
+}

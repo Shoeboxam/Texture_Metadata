@@ -1,0 +1,24 @@
+{
+  "group_name": "tinker\\assets\\tinker\\textures\\items\\mattock\\reinforced_mattock_effect.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.3333333333333333,
+        0.3763982102908277,
+        0.396078431372549
+      ],
+      "lightness": 0.48152734778121775,
+      "sats": [
+        1.0,
+        0.573549257759784
+      ],
+      "vals": [
+        0.32549019607843144,
+        0.584313725490196,
+        0.968627450980392
+      ],
+      "variance": 0.2942175879427092
+    }
+  ]
+}

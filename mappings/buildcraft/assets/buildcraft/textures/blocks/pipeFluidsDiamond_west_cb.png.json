@@ -1,0 +1,48 @@
+{
+  "group_name": "buildcraft\\assets\\buildcraft\\textures\\blocks\\pipeFluidsDiamond_up.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.23263888888888892
+      ],
+      "lightness": 0.207843137254902,
+      "sats": [
+        0.9056603773584905
+      ],
+      "vals": [
+        0.20784313725490197
+      ],
+      "variance": 1.8297597088942115
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.3333333333333333
+      ],
+      "lightness": 0.6666666666666666,
+      "sats": [
+        1.0
+      ],
+      "vals": [
+        1.1102230246251565e-16,
+        1.0
+      ],
+      "variance": 0.5704544974787837
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.49127399650959863
+      ],
+      "lightness": 0.7490196078431373,
+      "sats": [
+        1.0
+      ],
+      "vals": [
+        0.7490196078431373
+      ],
+      "variance": 0.5077343694837342
+    }
+  ]
+}

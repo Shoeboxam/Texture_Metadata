@@ -1,0 +1,51 @@
+{
+  "group_name": "forestry\\assets\\forestry\\textures\\items\\mail\\letter.2.stamped.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.29411764705882354,
+      "sats": [
+        0.16
+      ],
+      "vals": [
+        0.29411764705882354
+      ],
+      "variance": 0.5857304333193666
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.29411764705882354,
+      "sats": [
+        0.16
+      ],
+      "vals": [
+        0.29411764705882354
+      ],
+      "variance": 0.5857304333193666
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.28713956170703575,
+      "sats": [
+        0.18264840182648404,
+        0.16666666666666663,
+        0.16039051603905158
+      ],
+      "vals": [
+        0.21860962566844927,
+        0.29478178368121444,
+        0.39999999999999997
+      ],
+      "variance": 0.5999648945428339
+    }
+  ]
+}

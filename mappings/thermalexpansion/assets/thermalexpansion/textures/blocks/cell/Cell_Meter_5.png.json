@@ -1,0 +1,22 @@
+{
+  "group_name": "thermalexpansion\\assets\\thermalexpansion\\textures\\blocks\\cell\\Cell_Meter_0.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.43363970588235295,
+      "sats": [
+        1.0,
+        0.7872539831302717
+      ],
+      "vals": [
+        0.17434640522875816,
+        0.46131907308377895,
+        0.7455337690631809
+      ],
+      "variance": 0.6304986956242736
+    }
+  ]
+}

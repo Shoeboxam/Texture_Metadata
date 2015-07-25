@@ -1,0 +1,21 @@
+{
+  "group_name": "minecraft\\assets\\minecraft\\textures\\items\\door_wood.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.8720757268424613,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.5742296918767507,
+        0.7490196078431373,
+        0.9529411764705883
+      ],
+      "variance": 0.2973415356052785
+    }
+  ]
+}

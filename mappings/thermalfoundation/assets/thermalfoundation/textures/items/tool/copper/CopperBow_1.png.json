@@ -1,0 +1,25 @@
+{
+  "group_name": "thermalfoundation\\assets\\thermalfoundation\\textures\\items\\tool\\bronze\\BronzeBow_1.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0,
+        0.09224242424242433,
+        0.09393162393162398
+      ],
+      "lightness": 0.40303030303030307,
+      "sats": [
+        0.8153878319046622,
+        0.7611403265983944,
+        1.3106799596269207e-16
+      ],
+      "vals": [
+        0.2322725811636129,
+        0.7815359477124182,
+        0.8470588235294119
+      ],
+      "variance": 0.821374898812638
+    }
+  ]
+}

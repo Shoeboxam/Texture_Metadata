@@ -1,0 +1,23 @@
+{
+  "group_name": "botania\\assets\\botania\\textures\\blocks\\alt\\flower16.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.2617321484253196,
+        0.281094527363184,
+        0.28125
+      ],
+      "lightness": 0.4975009611687813,
+      "sats": [
+        1.0
+      ],
+      "vals": [
+        0.3941176470588236,
+        0.4392156862745098,
+        0.5409234661606579
+      ],
+      "variance": 0.6083377046445191
+    }
+  ]
+}

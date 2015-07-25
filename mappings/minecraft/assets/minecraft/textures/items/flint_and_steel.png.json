@@ -1,0 +1,37 @@
+{
+  "group_name": "natura\\assets\\natura\\textures\\items\\flint_and_blaze.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.3631372549019608,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.05490196078431381,
+        0.2784313725490196,
+        0.6801120448179272
+      ],
+      "variance": 0.5416074483062391
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.21464052287581697,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.1177530471648119,
+        0.4980392156862745,
+        0.8274509803921568
+      ],
+      "variance": 0.916312723139301
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "group_name": "binniecore\\assets\\extratrees\\textures\\items\\icon\\discoveredTree.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.5996505532906231,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.44371822803195354,
+        0.5987799564270152,
+        0.7461798512508451
+      ],
+      "variance": 0.5835222608937343
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.43137254901960786,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.43137254901960786
+      ],
+      "variance": 0.8111537171235671
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.7183006535947711,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.43137254901960786,
+        0.7578431372549019,
+        0.8470588235294118
+      ],
+      "variance": 0.4871350803471833
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "group_name": "minefactoryreloaded\\assets\\minefactoryreloaded\\textures\\items\\item.mfr.safarinet.jailer.front.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.5456427015250543,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.4454901960784314,
+        0.5454545454545454,
+        0.696078431372549
+      ],
+      "variance": 0.7752448199178158
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.49484116127070993,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.10980392156862745,
+        0.4980392156862745,
+        0.5607843137254902
+      ],
+      "variance": 0.8548332495158975
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.6051007238071636,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.31666666666666665,
+        0.5918300653594771,
+        0.9529411764705882
+      ],
+      "variance": 0.6990682067305988
+    }
+  ]
+}

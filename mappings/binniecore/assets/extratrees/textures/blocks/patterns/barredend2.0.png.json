@@ -1,0 +1,21 @@
+{
+  "group_name": "twilightforest\\assets\\twilightforest\\textures\\blocks\\fireflyjar_cork.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.8796977124183005,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.6625386996904024,
+        0.8978568171454628,
+        0.9780853517877739
+      ],
+      "variance": 0.4908215923490005
+    }
+  ]
+}

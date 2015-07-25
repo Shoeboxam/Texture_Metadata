@@ -1,0 +1,36 @@
+{
+  "group_name": "binniecore\\assets\\botany\\textures\\blocks\\flowers\\double\\althea.2.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.9941176470588236,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.9882352941176471,
+        1.0
+      ],
+      "variance": 0.006768284046500187
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.9398692810457516,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.9176470588235294,
+        0.9490196078431372,
+        0.9529411764705882
+      ],
+      "variance": 0.007158943000505413
+    }
+  ]
+}

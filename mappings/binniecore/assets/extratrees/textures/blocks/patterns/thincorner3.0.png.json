@@ -1,0 +1,21 @@
+{
+  "group_name": "binniecore\\assets\\extratrees\\textures\\blocks\\patterns\\thincorner3.0.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.8841036414565825,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.7141049968374447,
+        0.8954248366013071,
+        0.986111111111111
+      ],
+      "variance": 0.5034543593094176
+    }
+  ]
+}

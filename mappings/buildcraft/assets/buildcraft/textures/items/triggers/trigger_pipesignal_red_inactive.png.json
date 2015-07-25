@@ -1,0 +1,35 @@
+{
+  "group_name": "buildcraft\\assets\\buildcraft\\textures\\items\\redPipeWire.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.3750257997936016,
+      "sats": [
+        1.0
+      ],
+      "vals": [
+        0.23333333333333334,
+        0.33501400560224087,
+        0.4808823529411765
+      ],
+      "variance": 0.15296940216914792
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.16862745098039217,
+      "sats": [
+        1.0
+      ],
+      "vals": [
+        0.16862745098039217
+      ],
+      "variance": 0.3402024525597818
+    }
+  ]
+}

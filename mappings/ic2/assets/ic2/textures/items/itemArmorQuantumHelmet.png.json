@@ -1,0 +1,39 @@
+{
+  "group_name": "thermalfoundation\\assets\\thermalfoundation\\textures\\items\\armor\\nickel\\NickelHelmet.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.8980392156862744,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.8980392156862745
+      ],
+      "variance": 0.4777819849864182
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.33333333333333254,
+        0.5,
+        0.625
+      ],
+      "lightness": 0.5500130718954249,
+      "sats": [
+        0.7999999999999999,
+        0.2419456727732159,
+        2.475637850038606e-16
+      ],
+      "vals": [
+        0.282174688057041,
+        0.896918767507003,
+        0.9999999999999999
+      ],
+      "variance": 0.7801032029795353
+    }
+  ]
+}

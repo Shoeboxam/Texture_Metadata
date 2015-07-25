@@ -1,0 +1,25 @@
+{
+  "group_name": "harvestcraft\\assets\\harvestcraft\\textures\\items\\pineappleupsidedowncakeItem.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.06374182401579669,
+        0.11504342431761788,
+        0.1321271929824562
+      ],
+      "lightness": 0.624380122419338,
+      "sats": [
+        0.8374461010961608,
+        0.7191160809371671,
+        0.34316353887399476
+      ],
+      "vals": [
+        0.3006002400960386,
+        0.7054792010262049,
+        0.8421865715983363
+      ],
+      "variance": 0.5267746758586821
+    }
+  ]
+}

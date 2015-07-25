@@ -1,14 +1,14 @@
 {
-  "group_name": "assets\\minecraft\\textures\\items\\spawn_egg.png",
+  "group_name": "assets\\minecraft\\textures\\items\\egg.png",
   "segment_dicts": [
     {
-      "equivalent": true,
+      "equivalent": false,
       "hues": [
-        0.0
+        0.6666666666666666
       ],
       "lightness": 0.735749299719888,
       "sats": [
-        0.0
+        1.0
       ],
       "vals": [
         0.4459558823529412,

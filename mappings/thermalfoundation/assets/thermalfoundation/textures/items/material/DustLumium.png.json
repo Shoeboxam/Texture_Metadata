@@ -1,0 +1,25 @@
+{
+  "group_name": "thermalfoundation\\assets\\thermalfoundation\\textures\\items\\material\\DustLead.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.12705418986826023,
+        0.18792143066549402,
+        0.4109195402298849
+      ],
+      "lightness": 0.9302373581011352,
+      "sats": [
+        0.7887520085698984,
+        0.4559855624624023,
+        0.07943029307039173
+      ],
+      "vals": [
+        0.9151960784313725,
+        0.9312791783380019,
+        0.9545098039215687
+      ],
+      "variance": 0.2832528766548482
+    }
+  ]
+}

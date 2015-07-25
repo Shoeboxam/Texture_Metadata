@@ -1,0 +1,38 @@
+{
+  "group_name": "stevescarts\\assets\\stevescarts\\textures\\items\\hardened_saw_blade_icon.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.9920634920634921
+      ],
+      "lightness": 0.11764705882352941,
+      "sats": [
+        0.7
+      ],
+      "vals": [
+        0.11764705882352941
+      ],
+      "variance": 2.977011915506614
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.9920634920634921,
+        0.9935897435897436
+      ],
+      "lightness": 0.2542483660130719,
+      "sats": [
+        0.7,
+        0.41355463347164595,
+        0.3370786516853932
+      ],
+      "vals": [
+        0.11764705882352941,
+        0.2465473145780051,
+        0.3024836601307189
+      ],
+      "variance": 1.3775376472781249
+    }
+  ]
+}

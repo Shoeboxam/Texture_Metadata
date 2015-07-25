@@ -1,0 +1,21 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\longbow\\generic\\amethyst_bow_bottom_1.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.7123339658444022,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.5941176470588235,
+        0.8588235294117647,
+        0.984313725490196
+      ],
+      "variance": 0.33614815080917426
+    }
+  ]
+}

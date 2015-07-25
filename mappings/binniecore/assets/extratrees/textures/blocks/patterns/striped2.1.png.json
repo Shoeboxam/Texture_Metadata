@@ -1,0 +1,37 @@
+{
+  "group_name": "binniecore\\assets\\extratrees\\textures\\blocks\\patterns\\striped2.1.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.8668300653594772,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.6726084373143195,
+        0.9057154776804338,
+        0.9813725490196078
+      ],
+      "variance": 0.5069725367303772
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.732843137254902,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.6117647058823529,
+        0.8823529411764706,
+        0.9607843137254902
+      ],
+      "variance": 0.599663167749086
+    }
+  ]
+}

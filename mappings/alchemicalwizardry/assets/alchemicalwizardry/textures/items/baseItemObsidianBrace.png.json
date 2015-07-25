@@ -1,0 +1,36 @@
+{
+  "group_name": "alchemicalwizardry\\assets\\alchemicalwizardry\\textures\\items\\baseItemStoneBrace.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.8333333333333334
+      ],
+      "lightness": 0.13161021984551396,
+      "sats": [
+        1.0,
+        0.9840667678300454
+      ],
+      "vals": [
+        0.07350661194710444,
+        0.23493761140819963,
+        0.3568627450980392
+      ],
+      "variance": 1.5765624492068764
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.8333333333333334
+      ],
+      "lightness": 0.07450980392156863,
+      "sats": [
+        1.0
+      ],
+      "vals": [
+        0.07450980392156863
+      ],
+      "variance": 2.784757436198749
+    }
+  ]
+}

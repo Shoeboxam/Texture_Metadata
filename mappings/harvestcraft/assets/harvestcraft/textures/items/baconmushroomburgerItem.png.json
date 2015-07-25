@@ -1,0 +1,25 @@
+{
+  "group_name": "harvestcraft\\assets\\harvestcraft\\textures\\items\\baconmushroomburgerItem.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.06067542952788859,
+        0.1026469198046321,
+        0.12171286425017784
+      ],
+      "lightness": 0.5664936562860439,
+      "sats": [
+        0.9290614709110867,
+        0.7634111137839789,
+        0.23194856577645911
+      ],
+      "vals": [
+        0.4265730172666081,
+        0.6520784313725491,
+        0.8346749226006192
+      ],
+      "variance": 0.5401659421526401
+    }
+  ]
+}

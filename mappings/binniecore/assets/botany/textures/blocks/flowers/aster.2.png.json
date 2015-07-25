@@ -1,0 +1,77 @@
+{
+  "group_name": "binniecore\\assets\\botany\\textures\\blocks\\flowers\\aster.3.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 1.0,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        1.0
+      ],
+      "variance": 0.01333811813791138
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.9764705882352941,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.9529411764705882,
+        1.0
+      ],
+      "variance": 0.013659518574969486
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.9921568627450981,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.9921568627450981
+      ],
+      "variance": 0.013443557806985777
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.9607843137254901,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.9215686274509803,
+        1.0
+      ],
+      "variance": 0.013882531123132254
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.8117647058823529,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.8117647058823529
+      ],
+      "variance": 0.016431015097427063
+    }
+  ]
+}

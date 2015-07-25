@@ -1,0 +1,25 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\scythe\\metallurgy3\\precious\\brass_scythe_binding.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.5017182130584192,
+        0.5024875621890548,
+        0.5032679738562091
+      ],
+      "lightness": 0.29490196078431374,
+      "sats": [
+        0.8660714285714285,
+        0.864406779661017,
+        0.8626609442060085
+      ],
+      "vals": [
+        0.23137254901960785,
+        0.3045751633986928,
+        0.4392156862745098
+      ],
+      "variance": 0.32350541118170856
+    }
+  ]
+}

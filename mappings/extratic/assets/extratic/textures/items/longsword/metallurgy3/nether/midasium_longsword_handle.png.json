@@ -1,0 +1,24 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\broadsword\\metallurgy3\\nether\\kalendrite_sword_handle.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0996275605214153,
+        0.0998463901689708,
+        0.10104986876640414
+      ],
+      "lightness": 0.8901960784313725,
+      "sats": [
+        1.0,
+        0.8509803921568627,
+        0.3320261437908496
+      ],
+      "vals": [
+        0.7019607843137254,
+        1.0
+      ],
+      "variance": 0.05460048033560216
+    }
+  ]
+}

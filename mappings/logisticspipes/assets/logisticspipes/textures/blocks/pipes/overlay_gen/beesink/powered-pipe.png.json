@@ -1,0 +1,56 @@
+{
+  "group_name": "logisticspipes\\assets\\logisticspipes\\textures\\blocks\\pipes\\overlay_gen\\beesink\\powered-pipe.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0,
+        0.1385964912280702,
+        0.14153439153439162
+      ],
+      "lightness": 0.19495798319327728,
+      "sats": [
+        0.8189655172413793,
+        0.543103448275862,
+        0.0
+      ],
+      "vals": [
+        0.0,
+        0.9098039215686273,
+        0.9098039215686275
+      ],
+      "variance": 1.3325375152445016
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.1385964912280702
+      ],
+      "lightness": 0.9098039215686273,
+      "sats": [
+        0.8189655172413793
+      ],
+      "vals": [
+        0.9098039215686274
+      ],
+      "variance": 0.2855437532666789
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0,
+        0.34117647058823525
+      ],
+      "lightness": 0.25,
+      "sats": [
+        1.0,
+        0.0
+      ],
+      "vals": [
+        0.0,
+        1.0
+      ],
+      "variance": 1.039155306005796
+    }
+  ]
+}

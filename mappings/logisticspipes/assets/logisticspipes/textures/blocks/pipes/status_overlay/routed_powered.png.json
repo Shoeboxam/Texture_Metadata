@@ -1,0 +1,34 @@
+{
+  "group_name": "logisticspipes\\assets\\logisticspipes\\textures\\blocks\\pipes\\status_overlay\\not_routed.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.34117647058823525,
+        0.6418300653594771
+      ],
+      "lightness": 1.0,
+      "sats": [
+        1.0
+      ],
+      "vals": [
+        1.0
+      ],
+      "variance": 0.40001201325606583
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.6418300653594771
+      ],
+      "lightness": 0.9999999999999999,
+      "sats": [
+        1.0
+      ],
+      "vals": [
+        1.0
+      ],
+      "variance": 0.4000120132560659
+    }
+  ]
+}

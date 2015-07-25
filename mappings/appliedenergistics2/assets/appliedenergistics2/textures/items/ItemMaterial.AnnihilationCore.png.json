@@ -1,0 +1,63 @@
+{
+  "group_name": "appliedenergistics2\\assets\\appliedenergistics2\\textures\\items\\ItemMaterial.AnnihilationCore.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.5909313725490195,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.5019607843137255,
+        0.6,
+        0.6431372549019608
+      ],
+      "variance": 0.7917748329173974
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.24228395061728394
+      ],
+      "lightness": 1.0,
+      "sats": [
+        0.42352941176470593
+      ],
+      "vals": [
+        1.0
+      ],
+      "variance": 0.4678845887656482
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.575221238938053
+      ],
+      "lightness": 1.0,
+      "sats": [
+        0.44313725490196076
+      ],
+      "vals": [
+        1.0
+      ],
+      "variance": 0.4678845887656482
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.10416666666666667
+      ],
+      "lightness": 0.21568627450980393,
+      "sats": [
+        0.2909090909090909
+      ],
+      "vals": [
+        0.21568627450980393
+      ],
+      "variance": 2.1692830933680054
+    }
+  ]
+}

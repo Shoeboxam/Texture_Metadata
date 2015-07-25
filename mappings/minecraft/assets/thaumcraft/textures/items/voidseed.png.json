@@ -1,0 +1,25 @@
+{
+  "group_name": "minecraft\\assets\\minecraft\\textures\\blocks\\double_plant_sunflower_front.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.7199074074074062,
+        0.7249575551782682,
+        0.7251545411317166
+      ],
+      "lightness": 0.17345399698340874,
+      "sats": [
+        0.6101694915254233,
+        0.5960884353741497,
+        0.5854870775347911
+      ],
+      "vals": [
+        0.0159567275185937,
+        0.271280276816609,
+        0.6575163398692809
+      ],
+      "variance": 0.6920219941765937
+    }
+  ]
+}

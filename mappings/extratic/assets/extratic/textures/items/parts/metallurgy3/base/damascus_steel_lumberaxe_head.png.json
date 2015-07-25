@@ -1,0 +1,25 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\parts\\bop\\mud_lumberaxe_head.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.07017543859649122,
+        0.07254901960784321,
+        0.07405213270142176
+      ],
+      "lightness": 0.4065081351689612,
+      "sats": [
+        0.49911295091661745,
+        0.49673202614379086,
+        0.17373530914665306
+      ],
+      "vals": [
+        0.221045751633987,
+        0.6,
+        0.8527233115468409
+      ],
+      "variance": 0.7559115354452584
+    }
+  ]
+}

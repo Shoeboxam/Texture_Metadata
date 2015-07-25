@@ -1,0 +1,24 @@
+{
+  "group_name": "harvestcraft\\assets\\harvestcraft\\textures\\blocks\\beancrop_2.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.24113475177304963,
+        0.289980732177264,
+        0.33928571428571425
+      ],
+      "lightness": 0.2106209150326797,
+      "sats": [
+        1.0,
+        0.9591836734693877
+      ],
+      "vals": [
+        0.10980392156862745,
+        0.2261437908496732,
+        0.3843137254901961
+      ],
+      "variance": 1.0108183470001009
+    }
+  ]
+}

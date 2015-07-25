@@ -1,0 +1,36 @@
+{
+  "group_name": "binniecore\\assets\\extratrees\\textures\\blocks\\patterns\\ornatebarred2.1.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.8212121212121211,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.6644385026737968,
+        0.8989106753812636,
+        0.9831932773109244
+      ],
+      "variance": 0.5060934560284183
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.607843137254902,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.5882352941176471,
+        0.6274509803921569
+      ],
+      "variance": 0.683745616399684
+    }
+  ]
+}

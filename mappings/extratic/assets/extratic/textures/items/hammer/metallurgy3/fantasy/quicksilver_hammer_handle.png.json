@@ -1,0 +1,25 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\hammer\\generic\\amethyst_hammer_handle.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.47303921568627444,
+        0.4770114942528736,
+        0.4774774774774773
+      ],
+      "lightness": 0.7540616246498599,
+      "sats": [
+        0.6666666666666669,
+        0.41232227488151657,
+        0.07551020408163273
+      ],
+      "vals": [
+        0.4000000000000001,
+        0.8274509803921568,
+        0.9607843137254902
+      ],
+      "variance": 0.16456723840387685
+    }
+  ]
+}

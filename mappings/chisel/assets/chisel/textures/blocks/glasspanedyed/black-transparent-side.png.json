@@ -1,0 +1,25 @@
+{
+  "group_name": "chisel\\assets\\chisel\\textures\\blocks\\glassdyed\\blue-transparent.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.5833333333333389,
+        0.6666666666666666,
+        0.0
+      ],
+      "lightness": 0.024032150312067003,
+      "sats": [
+        0.014814814814814763,
+        0.0042553191489362,
+        0.0
+      ],
+      "vals": [
+        0.0,
+        0.08823529411764705,
+        0.19401444788441696
+      ],
+      "variance": 2.200541805874944
+    }
+  ]
+}

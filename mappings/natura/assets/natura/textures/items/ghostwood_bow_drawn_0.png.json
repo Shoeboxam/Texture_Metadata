@@ -1,0 +1,55 @@
+{
+  "group_name": "thermalfoundation\\assets\\thermalfoundation\\textures\\items\\tool\\electrum\\ElectrumBow_0.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.8470588235294118,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.6941176470588235,
+        0.8470588235294118,
+        1.0
+      ],
+      "variance": 0.38719429013614065
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0,
+        0.015151515151515174
+      ],
+      "lightness": 0.3780748663101604,
+      "sats": [
+        0.8338192419825075,
+        0.0
+      ],
+      "vals": [
+        0.2690196078431373,
+        0.46176470588235297,
+        0.8117647058823529
+      ],
+      "variance": 0.8674904605030365
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.4007469654528478,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.15686274509803913,
+        0.3190196078431372,
+        0.7340802987861812
+      ],
+      "variance": 0.8184125349755517
+    }
+  ]
+}

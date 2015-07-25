@@ -1,0 +1,40 @@
+{
+  "group_name": "stevescarts\\assets\\stevescarts\\textures\\items\\side_chests_icon.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.7372549019607844,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.6470588235294118,
+        0.7607843137254902,
+        0.803921568627451
+      ],
+      "variance": 0.3659901893573897
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0,
+        0.5
+      ],
+      "lightness": 0.48775599128540303,
+      "sats": [
+        0.9446556822982682,
+        1.7241587775847435e-16,
+        0.0
+      ],
+      "vals": [
+        0.3437908496732027,
+        0.6439215686274511,
+        0.7784313725490195
+      ],
+      "variance": 0.5532029662253917
+    }
+  ]
+}

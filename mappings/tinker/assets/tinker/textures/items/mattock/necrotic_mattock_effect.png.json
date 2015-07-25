@@ -1,0 +1,21 @@
+{
+  "group_name": "tinker\\assets\\tinker\\textures\\items\\mattock\\necrotic_mattock_effect.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.11820728291316526,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.0,
+        0.12156862745098039,
+        0.30196078431372547
+      ],
+      "variance": 0.3921405633960888
+    }
+  ]
+}

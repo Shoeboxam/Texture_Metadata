@@ -1,0 +1,37 @@
+{
+  "group_name": "binniecore\\assets\\extratrees\\textures\\blocks\\patterns\\diagonalcurvedcorner2.1.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.8849264705882354,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.6975638740344623,
+        0.9014705882352941,
+        0.9883187317480183
+      ],
+      "variance": 0.4820709498748745
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.732843137254902,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.5980392156862745,
+        0.696078431372549,
+        0.9411764705882353
+      ],
+      "variance": 0.5821127640545934
+    }
+  ]
+}

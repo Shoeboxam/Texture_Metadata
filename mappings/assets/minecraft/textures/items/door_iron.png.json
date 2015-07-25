@@ -1,35 +1,21 @@
 {
-  "group_name": "assets\\minecraft\\textures\\items\\door_iron.png",
+  "group_name": "assets\\minecraft\\textures\\items\\door_wood.png",
   "segment_dicts": [
     {
-      "equivalent": true,
-      "hues": [
-        0.0
-      ],
-      "lightness": 0.7131430790137837,
-      "sats": [
-        0.0
-      ],
-      "vals": [
-        0.40588235294117647,
-        0.584313725490196,
-        0.8039215686274508
-      ],
-      "variance": 0.522194777471156
-    },
-    {
-      "equivalent": true,
+      "equivalent": false,
       "hues": [
         0.6666666666666666
       ],
-      "lightness": 0.803921568627451,
+      "lightness": 0.7248816768086543,
       "sats": [
         1.0
       ],
       "vals": [
-        0.803921568627451
+        0.4058823529411765,
+        0.5843137254901961,
+        0.8039215686274509
       ],
-      "variance": 0.4632287600972094
+      "variance": 0.5137384532744913
     }
   ]
 }

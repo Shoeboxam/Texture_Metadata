@@ -1,0 +1,50 @@
+{
+  "group_name": "tinker\\assets\\tinker\\textures\\items\\parts\\copper_bobber.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.19215686274509808,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.19215686274509805
+      ],
+      "variance": 0.9080624348369472
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.5252100840336134,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.17385620915032685,
+        0.4818915801614764,
+        0.7490196078431373
+      ],
+      "variance": 0.33222977615901117
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.021350762527233117,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.0,
+        0.19215686274509805
+      ],
+      "variance": 8.172561913532526
+    }
+  ]
+}

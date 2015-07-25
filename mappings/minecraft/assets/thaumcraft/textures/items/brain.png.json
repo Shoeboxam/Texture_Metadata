@@ -1,0 +1,25 @@
+{
+  "group_name": "thaumicexploration\\assets\\thaumicexploration\\textures\\items\\pureZombieBrain_2.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.10422322775263944,
+        0.11563021907849491,
+        0.13566167735804216
+      ],
+      "lightness": 0.4631781546974618,
+      "sats": [
+        0.6082809451549959,
+        0.5232880937692782,
+        0.29213483146067426
+      ],
+      "vals": [
+        0.2289898237776123,
+        0.5189275710284114,
+        0.8476190476190477
+      ],
+      "variance": 0.7099828483367661
+    }
+  ]
+}

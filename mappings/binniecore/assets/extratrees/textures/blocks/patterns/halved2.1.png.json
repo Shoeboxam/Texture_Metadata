@@ -1,0 +1,21 @@
+{
+  "group_name": "binniecore\\assets\\extratrees\\textures\\blocks\\patterns\\halved2.1.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.9008884803921569,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.7024722932651322,
+        0.908250092489826,
+        0.9811463046757164
+      ],
+      "variance": 0.5063339764392972
+    }
+  ]
+}

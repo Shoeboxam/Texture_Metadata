@@ -1,0 +1,25 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\parts\\natura\\netherquartz_medium_guard.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.7615480649188514,
+        0.7638888888888888,
+        0.7681159420289855
+      ],
+      "lightness": 0.3086274509803921,
+      "sats": [
+        0.41071428571428553,
+        0.400900900900901,
+        0.4
+      ],
+      "vals": [
+        0.2196078431372549,
+        0.35294117647058826,
+        0.5223529411764707
+      ],
+      "variance": 0.8144551393956811
+    }
+  ]
+}

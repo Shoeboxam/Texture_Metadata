@@ -1,0 +1,53 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\bucket\\bucket_fill_rosite.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.37892156862745097,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.2917647058823529,
+        0.39663865546218485,
+        0.4568627450980392
+      ],
+      "variance": 0.32737485569748437
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.44313725490196076,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.3568627450980392,
+        0.4117647058823529,
+        0.5019607843137255
+      ],
+      "variance": 0.27993447284751705
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.3053221288515406,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.261624649859944,
+        0.3137254901960784,
+        0.396078431372549
+      ],
+      "variance": 0.40629021655483666
+    }
+  ]
+}

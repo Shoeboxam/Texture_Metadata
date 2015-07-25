@@ -1,0 +1,35 @@
+{
+  "group_name": "minecraft\\assets\\minecraft\\textures\\items\\potion_bottle_drinkable.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.8147899159663866,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.7764705882352941,
+        1.0
+      ],
+      "variance": 0.34881980932210566
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.30980392156862746,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.21568627450980393,
+        0.4980392156862745
+      ],
+      "variance": 0.9174024062894583
+    }
+  ]
+}

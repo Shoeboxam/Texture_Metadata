@@ -1,0 +1,25 @@
+{
+  "group_name": "draconicevolution\\assets\\draconicevolution\\textures\\models\\power_sphere_layer_1 - Copy.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.7556818181818182,
+        0.7610468174644924,
+        0.7791011995269471
+      ],
+      "lightness": 0.37456441147640507,
+      "sats": [
+        0.6728047740835464,
+        0.533763863540643,
+        0.5
+      ],
+      "vals": [
+        0.2738095238095238,
+        0.5371794871794872,
+        0.6901960784313725
+      ],
+      "variance": 0.5847688300373154
+    }
+  ]
+}

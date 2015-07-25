@@ -1,0 +1,21 @@
+{
+  "group_name": "chisel\\assets\\chisel\\textures\\blocks\\marblepillarslabold\\small-side.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.6869178921568627,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.557889822595705,
+        0.7160539215686275,
+        0.8484848484848485
+      ],
+      "variance": 0.2546855101429555
+    }
+  ]
+}

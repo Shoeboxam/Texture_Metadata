@@ -1,0 +1,25 @@
+{
+  "group_name": "appliedenergistics2\\assets\\appliedenergistics2\\textures\\items\\ItemMaterial.PurifiedNetherQuartzCrystal.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.671224601867106,
+        0.7956989247311826,
+        0.13095238095238074
+      ],
+      "lightness": 0.4772301713478184,
+      "sats": [
+        0.4863782051282051,
+        0.3740241305890703,
+        0.2978723404255312
+      ],
+      "vals": [
+        0.18431372549019617,
+        0.4531590413943355,
+        0.8840784313725489
+      ],
+      "variance": 0.619356115313981
+    }
+  ]
+}

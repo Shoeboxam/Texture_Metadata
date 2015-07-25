@@ -1,0 +1,38 @@
+{
+  "group_name": "railcraft\\assets\\railcraft\\textures\\items\\buildcraft.gate.trigger.engine.green.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.11036414565826329,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.10196078431372549,
+        0.12156862745098039
+      ],
+      "variance": 1.9742704916742262
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.3408408408408408,
+        0.3551587301587302
+      ],
+      "lightness": 0.6244008714596949,
+      "sats": [
+        0.9281767955801105,
+        0.8409090909090909,
+        0.8409090909090908
+      ],
+      "vals": [
+        0.5176470588235295,
+        0.7098039215686275
+      ],
+      "variance": 0.3489563933544415
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\cutlass\\metallurgy3\\nether\\amordrine_cutlass_blade_broken.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.4738562091503267,
+        0.47619047619047633,
+        0.4777777777777777
+      ],
+      "lightness": 0.5693815987933635,
+      "sats": [
+        0.662337662337662,
+        0.12552301255230128,
+        0.027888446215139567
+      ],
+      "vals": [
+        0.3019607843137254,
+        0.9372549019607843,
+        0.9843137254901961
+      ],
+      "variance": 0.3985777140340042
+    }
+  ]
+}

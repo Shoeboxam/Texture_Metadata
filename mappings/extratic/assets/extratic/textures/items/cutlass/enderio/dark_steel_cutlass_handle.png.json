@@ -1,0 +1,21 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\cutlass\\natura\\netherquartz_cutlass_handle.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.07119155354449473,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.054901960784313725,
+        0.10980392156862745,
+        0.1568627450980392
+      ],
+      "variance": 2.86613760396328
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "group_name": "binniecore\\assets\\botany\\textures\\blocks\\ceramic\\thinsaltire.1.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.8505882352941178,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.6512605042016807,
+        0.8627450980392156,
+        0.9803921568627452
+      ],
+      "variance": 0.4966176992608602
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.8552584670231729,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.6635706914344686,
+        0.9001782531194296,
+        0.9811764705882352
+      ],
+      "variance": 0.4939058643878643
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.865316618450659,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.6984126984126985,
+        0.9142156862745098,
+        0.9787581699346405
+      ],
+      "variance": 0.4881648675446148
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.9215686274509803,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.9215686274509803
+      ],
+      "variance": 0.4583675700837472
+    }
+  ]
+}

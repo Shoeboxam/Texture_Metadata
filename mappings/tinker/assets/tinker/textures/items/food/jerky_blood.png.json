@@ -1,0 +1,23 @@
+{
+  "group_name": "tinker\\assets\\tinker\\textures\\items\\food\\jerky_blueslime.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.5480784313725491,
+      "sats": [
+        1.0,
+        0.9492385786802031,
+        0.5046904315196998
+      ],
+      "vals": [
+        0.39178338001867413,
+        0.6008714596949891,
+        0.7600713012477718
+      ],
+      "variance": 0.5867242563316545
+    }
+  ]
+}

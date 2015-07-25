@@ -1,0 +1,21 @@
+{
+  "group_name": "projectred\\assets\\projectred\\textures\\blocks\\pipes\\colour\\colour_8.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.22549019607843138,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.21644528779253636,
+        0.22814302191464822,
+        0.24019607843137256
+      ],
+      "variance": 1.467816539633526
+    }
+  ]
+}

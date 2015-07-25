@@ -1,0 +1,21 @@
+{
+  "group_name": "natura\\assets\\natura\\textures\\items\\fusewood_hatchet.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.42570028011204475,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.1851992409867173,
+        0.6078431372549019,
+        0.7785467128027681
+      ],
+      "variance": 0.5783181129509471
+    }
+  ]
+}

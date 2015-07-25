@@ -1,0 +1,21 @@
+{
+  "group_name": "minecraft\\assets\\thaumcraft\\textures\\items\\golem_flesh.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.5192071669129295,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.22212885154061623,
+        0.517306052855925,
+        0.7992156862745099
+      ],
+      "variance": 0.5702580337476816
+    }
+  ]
+}

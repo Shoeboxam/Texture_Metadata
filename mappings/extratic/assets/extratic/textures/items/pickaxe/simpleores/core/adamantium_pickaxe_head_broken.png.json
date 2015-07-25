@@ -1,0 +1,23 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\pickaxe\\natura\\netherquartz_pickaxe_head_broken.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.3493589743589743,
+        0.34970238095238093,
+        0.35042735042735046
+      ],
+      "lightness": 0.1938013915243517,
+      "sats": [
+        1.0
+      ],
+      "vals": [
+        0.15294117647058822,
+        0.20392156862745098,
+        0.4392156862745098
+      ],
+      "variance": 1.3653264533253304
+    }
+  ]
+}

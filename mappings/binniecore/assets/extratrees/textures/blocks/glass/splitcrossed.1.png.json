@@ -1,0 +1,33 @@
+{
+  "group_name": "binniecore\\assets\\extratrees\\textures\\blocks\\glass\\overlappedsplitbarred2.1.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.9999999999999998,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        1.0
+      ],
+      "variance": 0.48789046862487495
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.9999999999999994,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        1.0
+      ],
+      "variance": 0.4878904686248751
+    }
+  ]
+}

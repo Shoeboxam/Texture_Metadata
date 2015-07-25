@@ -1,0 +1,21 @@
+{
+  "group_name": "jabba\\assets\\jabba\\textures\\blocks\\facade_redstone.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 1.0,
+      "sats": [
+        0.934640522875817,
+        0.803921568627451,
+        0.607843137254902
+      ],
+      "vals": [
+        1.0
+      ],
+      "variance": 0.3630921887069453
+    }
+  ]
+}

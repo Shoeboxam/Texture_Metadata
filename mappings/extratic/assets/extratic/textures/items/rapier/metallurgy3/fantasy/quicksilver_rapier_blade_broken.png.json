@@ -1,0 +1,23 @@
+{
+  "group_name": "extratic\\assets\\extratic\\textures\\items\\rapier\\thermal\\lumium_rapier_blade_broken.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.4738562091503267,
+        0.47385620915032683,
+        0.4777777777777777
+      ],
+      "lightness": 0.5137254901960784,
+      "sats": [
+        0.6623376623376623,
+        0.12552301255230128
+      ],
+      "vals": [
+        0.30196078431372547,
+        0.9372549019607843
+      ],
+      "variance": 0.263316397005726
+    }
+  ]
+}

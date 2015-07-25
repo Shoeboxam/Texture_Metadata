@@ -1,0 +1,37 @@
+{
+  "group_name": "buildcraft\\assets\\buildcraft\\textures\\blocks\\refineryFront.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.4980392156862745,
+      "sats": [
+        1.0
+      ],
+      "vals": [
+        0.4980392156862745
+      ],
+      "variance": 0.22570884940885547
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.46862745098039216,
+      "sats": [
+        0.9957386363636365,
+        0.5595238095238095,
+        0.0
+      ],
+      "vals": [
+        0.0,
+        0.552156862745098,
+        0.9882352941176471
+      ],
+      "variance": 0.2398746767776121
+    }
+  ]
+}

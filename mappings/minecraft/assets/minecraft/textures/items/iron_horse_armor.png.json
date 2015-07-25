@@ -1,0 +1,37 @@
+{
+  "group_name": "minecraft\\assets\\minecraft\\textures\\items\\gold_horse_armor.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.4155324875048058,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.23137254901960785,
+        0.35294117647058826,
+        0.5393009377664109
+      ],
+      "variance": 0.41607900538805814
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.1034313725490196,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.058823529411764705,
+        0.10265282583621683,
+        0.17254901960784313
+      ],
+      "variance": 1.671585127863259
+    }
+  ]
+}

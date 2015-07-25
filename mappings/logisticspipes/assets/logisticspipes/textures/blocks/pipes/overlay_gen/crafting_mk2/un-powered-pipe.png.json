@@ -1,0 +1,88 @@
+{
+  "group_name": "logisticspipes\\assets\\logisticspipes\\textures\\blocks\\pipes\\overlay_gen\\crafting\\un-powered-pipe.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.3333333333333333,
+      "sats": [
+        1.0,
+        0.0
+      ],
+      "vals": [
+        0.0,
+        1.0
+      ],
+      "variance": 1.0385038994942226
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.1592592592592592,
+        0.15925925925925924,
+        0.5089605734767025
+      ],
+      "lightness": 0.8411764705882353,
+      "sats": [
+        0.8985507246376812,
+        0.6250000000000001,
+        0.625
+      ],
+      "vals": [
+        0.8117647058823529,
+        0.8470588235294118,
+        0.8470588235294119
+      ],
+      "variance": 0.41152835178092734
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.0,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.0
+      ],
+      "variance": Infinity
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.4666666666666667,
+      "sats": [
+        1.0,
+        0.0
+      ],
+      "vals": [
+        0.0,
+        1.0
+      ],
+      "variance": 0.7417884996387304
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.14285714285714285,
+      "sats": [
+        1.0,
+        0.0
+      ],
+      "vals": [
+        0.0,
+        2.7755575615628914e-17,
+        1.0
+      ],
+      "variance": 2.4231757654865196
+    }
+  ]
+}

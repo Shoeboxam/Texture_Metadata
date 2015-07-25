@@ -1,0 +1,66 @@
+{
+  "group_name": "binniecore\\assets\\extratrees\\textures\\blocks\\patterns\\roundedbarredend.1.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.8952561669829222,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.6897347174163783,
+        0.8986131037780966,
+        0.9808823529411764
+      ],
+      "variance": 0.48338913270824985
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.5882352941176471,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.5882352941176471
+      ],
+      "variance": 0.7356870735862976
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.6372549019607843,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.6274509803921569,
+        0.6470588235294118
+      ],
+      "variance": 0.6790957602335056
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.8176470588235294,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.6666666666666667,
+        0.7303921568627452,
+        0.9803921568627452
+      ],
+      "variance": 0.5292712759613653
+    }
+  ]
+}

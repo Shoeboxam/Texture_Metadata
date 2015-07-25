@@ -1,14 +1,14 @@
 {
-  "group_name": "assets\\minecraft\\textures\\blocks\\pumpkin_stem_disconnected.png",
+  "group_name": "assets\\minecraft\\textures\\blocks\\melon_stem_disconnected.png",
   "segment_dicts": [
     {
       "equivalent": true,
       "hues": [
-        0.0
+        0.6666666666666666
       ],
       "lightness": 0.6030252100840336,
       "sats": [
-        0.0
+        1.0
       ],
       "vals": [
         0.3019607843137255,

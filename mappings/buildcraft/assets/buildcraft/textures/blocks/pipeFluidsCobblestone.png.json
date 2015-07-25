@@ -1,0 +1,33 @@
+{
+  "group_name": "buildcraft\\assets\\buildcraft\\textures\\blocks\\pipeFluidsIron_standard.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.23263888888888892
+      ],
+      "lightness": 0.207843137254902,
+      "sats": [
+        0.9056603773584905
+      ],
+      "vals": [
+        0.20784313725490197
+      ],
+      "variance": 0.4131294450774435
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.0196078431372549,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.0196078431372549
+      ],
+      "variance": 4.379172117820902
+    }
+  ]
+}

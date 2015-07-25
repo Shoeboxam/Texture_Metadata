@@ -1,0 +1,25 @@
+{
+  "group_name": "alchemicalwizardry\\assets\\alchemicalwizardry\\textures\\items\\GreaterLengtheningCatalyst.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.5353243416827231,
+        0.5377456049638055,
+        0.5379005948954135
+      ],
+      "lightness": 0.42159548751007253,
+      "sats": [
+        0.9719101123595505,
+        0.8739622641509434,
+        0.8688230008984726
+      ],
+      "vals": [
+        0.3625170998632011,
+        0.4849673202614379,
+        0.6980392156862745
+      ],
+      "variance": 0.6286279124416904
+    }
+  ]
+}

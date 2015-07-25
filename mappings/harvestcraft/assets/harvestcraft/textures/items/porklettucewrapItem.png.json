@@ -1,0 +1,25 @@
+{
+  "group_name": "harvestcraft\\assets\\harvestcraft\\textures\\items\\vegetarianlettucewrapItem.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.07320872274143302,
+        0.24070796460176988,
+        0.26502732240437155
+      ],
+      "lightness": 0.555119825708061,
+      "sats": [
+        1.0,
+        0.9727272727272727,
+        0.8357988165680472
+      ],
+      "vals": [
+        0.43137254901960786,
+        0.4784313725490197,
+        0.6627450980392157
+      ],
+      "variance": 0.4919914417764181
+    }
+  ]
+}

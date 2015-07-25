@@ -1,0 +1,36 @@
+{
+  "group_name": "binniecore\\assets\\botany\\textures\\blocks\\flowers\\primrose.2.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.792156862745098,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.788235294117647,
+        0.796078431372549
+      ],
+      "variance": 0.039098076969786684
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.7751633986928104,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.7137254901960784,
+        0.7490196078431373,
+        0.8627450980392157
+      ],
+      "variance": 0.03995520176001809
+    }
+  ]
+}

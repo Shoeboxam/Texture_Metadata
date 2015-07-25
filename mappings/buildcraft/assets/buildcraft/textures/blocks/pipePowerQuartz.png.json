@@ -1,0 +1,39 @@
+{
+  "group_name": "buildcraft\\assets\\buildcraft\\textures\\blocks\\pipePowerEmerald_standard.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 1.0,
+      "sats": [
+        1.0
+      ],
+      "vals": [
+        1.0
+      ],
+      "variance": 0.46126343149306337
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.11451247165532903,
+        0.11842105263157905,
+        0.12873563218390763
+      ],
+      "lightness": 0.9094268476621419,
+      "sats": [
+        0.0653043091959129,
+        0.05053191489361696,
+        0.03823839662447256
+      ],
+      "vals": [
+        0.8827450980392156,
+        0.9073906485671192,
+        0.9294117647058824
+      ],
+      "variance": 0.5072023469274417
+    }
+  ]
+}

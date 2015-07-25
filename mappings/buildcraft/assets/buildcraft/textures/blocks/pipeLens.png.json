@@ -1,0 +1,75 @@
+{
+  "group_name": "thermalexpansion\\assets\\thermalexpansion\\textures\\blocks\\cell\\Cell_Creative.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.1215686274509804,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.12156862745098039
+      ],
+      "variance": 3.128865974963133
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.12156862745098039,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.12156862745098039
+      ],
+      "variance": 3.1288659749631336
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.12156862745098039,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.12156862745098039
+      ],
+      "variance": 3.1288659749631336
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.12156862745098039,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.12156862745098039
+      ],
+      "variance": 3.1288659749631336
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.12156862745098038,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.12156862745098039
+      ],
+      "variance": 3.128865974963134
+    }
+  ]
+}

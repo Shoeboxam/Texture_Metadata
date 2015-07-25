@@ -1,0 +1,25 @@
+{
+  "group_name": "appliedenergistics2\\assets\\appliedenergistics2\\textures\\items\\ItemCrystalSeed.Nether2.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.13095238095238101,
+        0.598356807511737,
+        0.6318565400843882
+      ],
+      "lightness": 0.5396681749622927,
+      "sats": [
+        0.3111305872042068,
+        0.29787234042553223,
+        0.24764890282131655
+      ],
+      "vals": [
+        0.18431372549019606,
+        0.8339869281045751,
+        0.9943355119825708
+      ],
+      "variance": 0.3787387103492507
+    }
+  ]
+}

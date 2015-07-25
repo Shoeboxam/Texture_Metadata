@@ -1,0 +1,37 @@
+{
+  "group_name": "binniecore\\assets\\extrabees\\textures\\items\\bees\\jaded\\body1.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.7688235294117647,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.0,
+        0.888235294117647,
+        0.943529411764706
+      ],
+      "variance": 0.2402078258911985
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.31459694989106757,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        5.551115123125783e-17,
+        0.9156862745098039,
+        1.0
+      ],
+      "variance": 0.5870286681353534
+    }
+  ]
+}

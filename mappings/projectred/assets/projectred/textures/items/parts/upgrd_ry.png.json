@@ -1,0 +1,39 @@
+{
+  "group_name": "projectred\\assets\\projectred\\textures\\items\\parts\\upgrd_rx.png",
+  "segment_dicts": [
+    {
+      "equivalent": false,
+      "hues": [
+        0.5574313141343925,
+        1.0,
+        0.0
+      ],
+      "lightness": 0.41346973572037504,
+      "sats": [
+        1.0,
+        0.9864781807006764,
+        0.0
+      ],
+      "vals": [
+        0.38485838779956427,
+        0.4936274509803922,
+        0.5316993464052288
+      ],
+      "variance": 0.6872086789420092
+    },
+    {
+      "equivalent": false,
+      "hues": [
+        0.15816993464052287
+      ],
+      "lightness": 1.0,
+      "sats": [
+        1.0
+      ],
+      "vals": [
+        1.0
+      ],
+      "variance": 0.2841399908669006
+    }
+  ]
+}

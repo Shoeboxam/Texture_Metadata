@@ -1,0 +1,49 @@
+{
+  "group_name": "ic2\\assets\\ic2\\textures\\items\\itemTFBPDesertification.png",
+  "segment_dicts": [
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 0.38284313725490193,
+      "sats": [
+        0.0
+      ],
+      "vals": [
+        0.0,
+        0.5529411764705883,
+        0.7529411764705882
+      ],
+      "variance": 0.749151429527742
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.11968680089485458
+      ],
+      "lightness": 0.6666666666666666,
+      "sats": [
+        0.876470588235294
+      ],
+      "vals": [
+        0.6666666666666666
+      ],
+      "variance": 0.430211225339093
+    },
+    {
+      "equivalent": true,
+      "hues": [
+        0.0
+      ],
+      "lightness": 1.0,
+      "sats": [
+        1.0
+      ],
+      "vals": [
+        1.0
+      ],
+      "variance": 0.28680748355939534
+    }
+  ]
+}
